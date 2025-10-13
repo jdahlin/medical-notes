@@ -14,7 +14,7 @@ Den här repositoriet är organiserat för en länkad wiki‑känsla som fungera
 - Länka med wikilänk och alias för böjningar, t.ex. `[[biceps-brachii|biceps brachii]]`, `[[muskel|muskler]]`.
 
 ## Länk‑konventioner
-- Intern: `[[anatomi/muskler/Biceps Brachii|biceps brachii]]`
+- Intern: `[[Anatomi/Muskler/Biceps Brachii|biceps brachii]]`
 - Kapitel i histologiboken: `[[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]`
 - Senare, när kapitel‑PDF:er finns i `bok/histologi/pdf/`, uppdatera kapitelstubben med filväg.
 

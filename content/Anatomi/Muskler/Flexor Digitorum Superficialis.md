@@ -1,16 +1,16 @@
 ![[Pasted image 20251009195129.png]]
 ## Ursprung
-- Epicondylus medialis – [[Humerus|humerus]], processer på [[Ulna|ulna]] och [[Radius|radius]]
+- Epicondylus medialis – [[Anatomi/Ben/Humerus|humerus]], processer på [[Anatomi/Ben/Ulna|ulna]] och [[Anatomi/Ben/Radius|radius]]
 
 ## Fäste
-- Mellanfalangernas sidor (II–V) – [[Digiti Mani|digiti mani]]
+- Mellanfalangernas sidor (II–V) – [[Anatomi/Ben/Digiti Mani|digiti mani]]
 
 ## Funktion
 - Flexion i PIP-leder; assisterar palmarflexion i handled
 
 ## Innervation
-- [[N Medianus|n. medianus]]
+- [[Anatomi/Nerver/N Medianus|n. medianus]]
 
 ## Relaterat
-- [[Handled|handled]]
-- [[Interphalangealleder|interphalangealleder]]
+- [[Anatomi/Leder/Handled|handled]]
+- [[Anatomi/Leder/Interphalangealleder|interphalangealleder]]

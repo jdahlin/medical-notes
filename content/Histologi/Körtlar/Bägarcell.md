@@ -9,5 +9,5 @@ Funktion
 
 Relaterat
 - [[Histologi/Epitel/Cylindriskt Epitel|enkelt cylindriskt epitel]]
-- [[Respirationsvägsepitel|respirationsvägsepitel]]
+- [[Histologi/Epitel/Respirationsvägsepitel|respirationsvägsepitel]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]

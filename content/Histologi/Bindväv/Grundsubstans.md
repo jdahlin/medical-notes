@@ -10,5 +10,5 @@ Funktion
 - Diffusion av näring/avfall, stötdämpning, reglering av cellbeteende (tillväxtfaktorer lagras/frisätts).
 
 Relaterat
-- [[Kollagen|Kollagen]] / [[Kollagensyntes|Kollagensyntes]]
+- [[Histologi/Bindväv/Kollagen|Kollagen]] / [[Histologi/Bindväv/Kollagensyntes|Kollagensyntes]]
 - [[Histologi/Epitel/Basalmembran|Basalmembran]]

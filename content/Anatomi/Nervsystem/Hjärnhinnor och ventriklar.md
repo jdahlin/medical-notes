@@ -19,8 +19,8 @@
 - Blod-hjärnbarriärens integritet kopplas till meninges och ependym.
 
 ### Relaterat
-- [[Allmän organisation|Allmän organisation]]  
+- [[Anatomi/Nervsystem/Allmän organisation|Allmän organisation]]  
 - [[Histologi/Nervsystem/Blod-hjärnbarriaren|Blod–hjärnbarriären]]  
-- [[Medulla spinalis|Ryggmärg]]  
+- [[Anatomi/Nervsystem/Medulla spinalis|Ryggmärg]]  
 
 ---

@@ -1,12 +1,10 @@
 ---
-title: Anatomisk och histologisk översikt
+title: Anteckningar - Översikt
 ---
 
 # Översikt
 
-- [[Målbeskrivning/_Index_|Målbeskrivningar]]
-- [[Anatomi/_Index_|Anatomi – översikt]]
-- [[Histologi/_Index_|Histologi – översikt]]
-- [[bok/histologi/_Index_|Histologi (bokreferenser)]]
-- [[mallar/struktur|Mallfiler]]
-- [[scripts|Scripts]]
+- [[Anatomi/index|Anatomi]]
+- [[Histologi/index|Histologi]]
+- [[Histologi/Demokompendium/Index|Demokompendium]]
+- [[Målbeskrivning/index|Målbeskrivningar]]

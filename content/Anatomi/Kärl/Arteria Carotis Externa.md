@@ -2,7 +2,7 @@ Typ
 - Muskulär artär (extrakraniell försörjning)
 
 Ursprung
-- Terminal gren av [[Arteria Carotis Communis|a. carotis communis]]
+- Terminal gren av [[Anatomi/Kärl/Arteria Carotis Communis|a. carotis communis]]
 
 Förlopp
 - Löper genom glandula parotidea; talrika hals- och ansiktsgrenar

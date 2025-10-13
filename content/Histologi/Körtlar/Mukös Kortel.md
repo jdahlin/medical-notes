@@ -5,6 +5,6 @@ Exempel
 - Små spottkörtlar i munhåla, cardia‑körtlar i ventrikeln.
 
 Relaterat
-- [[Seröskörtel|serös]]
-- [[Seromuköskörtel|seromukös]]
+- [[Histologi/Körtlar/Seröskörtel|serös]]
+- [[Histologi/Körtlar/Seromuköskörtel|seromukös]]
 

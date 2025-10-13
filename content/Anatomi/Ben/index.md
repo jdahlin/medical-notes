@@ -6,63 +6,63 @@ title: Ben – översikt
 
 
 Exempel
-- [[Humerus|humerus]]
-- [[Radius|radius]]
-- [[Scapula|scapula]]
+- [[Anatomi/Ben/Humerus|humerus]]
+- [[Anatomi/Ben/Radius|radius]]
+- [[Anatomi/Ben/Scapula|scapula]]
 
 Översikt
 
 | Ben | Region |
 |---|---|
-| [[anatomi/ben/Os Frontale|os frontale]] | Kranium |
-| [[anatomi/ben/Os Parietale|os parietale]] | Kranium |
-| [[anatomi/ben/Os Occipitale|os occipitale]] | Kranium |
-| [[anatomi/ben/Os Temporale|os temporale]] | Kranium |
-| [[anatomi/ben/Os Sphenoidale|os sphenoidale]] | Kranium |
-| [[anatomi/ben/Os Ethmoidale|os ethmoidale]] | Kranium |
-| [[anatomi/ben/Os Zygomaticum|os zygomaticum]] | Ansikte |
-| [[anatomi/ben/Maxilla|maxilla]] | Ansikte |
-| [[anatomi/ben/Mandibula|mandibula]] | Ansikte |
-| [[anatomi/ben/Clavicula|clavicula]] | Skuldra |
-| [[anatomi/ben/Scapula|scapula]] | Skuldra |
-| [[anatomi/ben/Humerus|humerus]] | Överarm |
-| [[anatomi/ben/Radius|radius]] | Underarm |
-| [[anatomi/ben/Ulna|ulna]] | Underarm |
-| [[anatomi/ben/Carpus|carpus]] | Handlov |
-| [[anatomi/ben/Os Scaphoideum|os scaphoideum]] | Handlov |
-| [[anatomi/ben/Os Lunatum|os lunatum]] | Handlov |
-| [[anatomi/ben/Os Triquetrum|os triquetrum]] | Handlov |
-| [[anatomi/ben/Os Pisiforme|os pisiforme]] | Handlov |
-| [[anatomi/ben/Os Trapezium|os trapezium]] | Handlov |
-| [[anatomi/ben/Os Trapezoideum|os trapezoideum]] | Handlov |
-| [[anatomi/ben/Os Capitatum|os capitatum]] | Handlov |
-| [[anatomi/ben/Os Hamatum|os hamatum]] | Handlov |
-| [[anatomi/ben/Metacarpus|metacarpus]] | Mellanhand |
-| [[anatomi/ben/Digiti Mani|digiti manus]] | Hand/fingrar |
-| [[anatomi/ben/Os Coxae|os coxae]] | Bäcken |
-| [[anatomi/ben/Os Ilium|os ilium]] | Bäcken |
-| [[anatomi/ben/Os Ischii|os ischii]] | Bäcken |
-| [[anatomi/ben/Os Pubis|os pubis]] | Bäcken |
-| [[anatomi/ben/Sacrum|sacrum]] | Bäcken/ryggrad |
-| [[anatomi/ben/Os Coccygis|os coccygis]] | Bäcken |
-| [[anatomi/ben/Femur|femur]] | Lår |
-| [[anatomi/ben/Tibia|tibia]] | Underben |
-| [[anatomi/ben/Fibula|fibula]] | Underben |
-| [[anatomi/ben/Tarsus|tarsus]] | Fotrot |
-| [[anatomi/ben/Talus|talus]] | Fotrot |
-| [[anatomi/ben/Calcaneus|calcaneus]] | Fotrot |
-| [[anatomi/ben/Os Naviculare|os naviculare]] | Fotrot |
-| [[anatomi/ben/Os Cuboideum|os cuboideum]] | Fotrot |
-| [[anatomi/ben/Os Cuneiforme Mediale|os cuneiforme mediale]] | Fotrot |
-| [[anatomi/ben/Os Cuneiforme Intermedium|os cuneiforme intermedium]] | Fotrot |
-| [[anatomi/ben/Os Cuneiforme Laterale|os cuneiforme laterale]] | Fotrot |
-| [[anatomi/ben/Metatarsus|metatarsus]] | Mellanfot |
-| [[anatomi/ben/Digiti Pedi|digiti pedis]] | Fot/tår |
-| [[anatomi/ben/Costae|costae]] | Thorax |
-| [[anatomi/ben/Sternum|sternum]] | Thorax |
-| [[anatomi/ben/Vertebra Cervicalis|vertebra cervicalis]] | Ryggrad |
-| [[anatomi/ben/Vertebra Thoracalis|vertebra thoracalis]] | Ryggrad |
-| [[anatomi/ben/Vertebra Lumbalis|vertebra lumbalis]] | Ryggrad |
+| [[Anatomi/Ben/Os Frontale|os frontale]] | Kranium |
+| [[Anatomi/Ben/Os Parietale|os parietale]] | Kranium |
+| [[Anatomi/Ben/Os Occipitale|os occipitale]] | Kranium |
+| [[Anatomi/Ben/Os Temporale|os temporale]] | Kranium |
+| [[Anatomi/Ben/Os Sphenoidale|os sphenoidale]] | Kranium |
+| [[Anatomi/Ben/Os Ethmoidale|os ethmoidale]] | Kranium |
+| [[Anatomi/Ben/Os Zygomaticum|os zygomaticum]] | Ansikte |
+| [[Anatomi/Ben/Maxilla|maxilla]] | Ansikte |
+| [[Anatomi/Ben/Mandibula|mandibula]] | Ansikte |
+| [[Anatomi/Ben/Clavicula|clavicula]] | Skuldra |
+| [[Anatomi/Ben/Scapula|scapula]] | Skuldra |
+| [[Anatomi/Ben/Humerus|humerus]] | Överarm |
+| [[Anatomi/Ben/Radius|radius]] | Underarm |
+| [[Anatomi/Ben/Ulna|ulna]] | Underarm |
+| [[Anatomi/Ben/Carpus|carpus]] | Handlov |
+| [[Anatomi/Ben/Os Scaphoideum|os scaphoideum]] | Handlov |
+| [[Anatomi/Ben/Os Lunatum|os lunatum]] | Handlov |
+| [[Anatomi/Ben/Os Triquetrum|os triquetrum]] | Handlov |
+| [[Anatomi/Ben/Os Pisiforme|os pisiforme]] | Handlov |
+| [[Anatomi/Ben/Os Trapezium|os trapezium]] | Handlov |
+| [[Anatomi/Ben/Os Trapezoideum|os trapezoideum]] | Handlov |
+| [[Anatomi/Ben/Os Capitatum|os capitatum]] | Handlov |
+| [[Anatomi/Ben/Os Hamatum|os hamatum]] | Handlov |
+| [[Anatomi/Ben/Metacarpus|metacarpus]] | Mellanhand |
+| [[Anatomi/Ben/Digiti Mani|digiti manus]] | Hand/fingrar |
+| [[Anatomi/Ben/Os Coxae|os coxae]] | Bäcken |
+| [[Anatomi/Ben/Os Ilium|os ilium]] | Bäcken |
+| [[Anatomi/Ben/Os Ischii|os ischii]] | Bäcken |
+| [[Anatomi/Ben/Os Pubis|os pubis]] | Bäcken |
+| [[Anatomi/Ben/Sacrum|sacrum]] | Bäcken/ryggrad |
+| [[Anatomi/Ben/Os Coccygis|os coccygis]] | Bäcken |
+| [[Anatomi/Ben/Femur|femur]] | Lår |
+| [[Anatomi/Ben/Tibia|tibia]] | Underben |
+| [[Anatomi/Ben/Fibula|fibula]] | Underben |
+| [[Anatomi/Ben/Tarsus|tarsus]] | Fotrot |
+| [[Anatomi/Ben/Talus|talus]] | Fotrot |
+| [[Anatomi/Ben/Calcaneus|calcaneus]] | Fotrot |
+| [[Anatomi/Ben/Os Naviculare|os naviculare]] | Fotrot |
+| [[Anatomi/Ben/Os Cuboideum|os cuboideum]] | Fotrot |
+| [[Anatomi/Ben/Os Cuneiforme Mediale|os cuneiforme mediale]] | Fotrot |
+| [[Anatomi/Ben/Os Cuneiforme Intermedium|os cuneiforme intermedium]] | Fotrot |
+| [[Anatomi/Ben/Os Cuneiforme Laterale|os cuneiforme laterale]] | Fotrot |
+| [[Anatomi/Ben/Metatarsus|metatarsus]] | Mellanfot |
+| [[Anatomi/Ben/Digiti Pedi|digiti pedis]] | Fot/tår |
+| [[Anatomi/Ben/Costae|costae]] | Thorax |
+| [[Anatomi/Ben/Sternum|sternum]] | Thorax |
+| [[Anatomi/Ben/Vertebra Cervicalis|vertebra cervicalis]] | Ryggrad |
+| [[Anatomi/Ben/Vertebra Thoracalis|vertebra thoracalis]] | Ryggrad |
+| [[Anatomi/Ben/Vertebra Lumbalis|vertebra lumbalis]] | Ryggrad |
 
 Relaterat
-- [[Histologi/Ben/_Index_|Benbildning – översikt]]
+- [[Histologi/Ben/index|Benbildning – översikt]]

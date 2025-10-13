@@ -5,28 +5,28 @@ title: Hjärta – histologi
 # Hjärta – histologi
 
 Lager
-- [[Endokardium|Endokardium]]
-- [[Myokardium|Myokardium]]
-- [[Epikardium|Epikardium (visceralt perikard)]]
+- [[Histologi/Hjärta/Endokardium|Endokardium]]
+- [[Histologi/Hjärta/Myokardium|Myokardium]]
+- [[Histologi/Hjärta/Epikardium|Epikardium (visceralt perikard)]]
 
 Klaffskikt
-- [[Klafflager Fibrosa|Klafflager: Fibrosa]]
-- [[Klafflager Spongiosa|Klafflager: Spongiosa]]
-- [[Klafflager Ventricularis|Klafflager: Ventricularis]]
-- [[Klafflager Atrialis|Klafflager: Atrialis]]
+- [[Histologi/Hjärta/Klafflager Fibrosa|Klafflager: Fibrosa]]
+- [[Histologi/Hjärta/Klafflager Spongiosa|Klafflager: Spongiosa]]
+- [[Histologi/Hjärta/Klafflager Ventricularis|Klafflager: Ventricularis]]
+- [[Histologi/Hjärta/Klafflager Atrialis|Klafflager: Atrialis]]
 
 Ledningssystem
-- [[Retledningssystem|Retledningssystem]]
-- [[SA-nod (Sinusknuta)|SA‑nod (sinusknuta)]]
-- [[AV-nod (Atrioventrikulär Nod)|AV‑nod]]
-- [[His Bunt|His bunt]]
-- [[Purkinjefibrer|Purkinjefibrer]]
+- [[Histologi/Hjärta/Retledningssystem|Retledningssystem]]
+- [[Histologi/Hjärta/SA-nod (Sinusknuta)|SA‑nod (sinusknuta)]]
+- [[Histologi/Hjärta/AV-nod (Atrioventrikulär Nod)|AV‑nod]]
+- [[Histologi/Hjärta/His Bunt|His bunt]]
+- [[Histologi/Hjärta/Purkinjefibrer|Purkinjefibrer]]
 
 Övrigt
-- [[Glansstrimmor|Glansstrimmor (intercalated discs)]]
-- [[Pericardium Serosum|Pericardium serosum]]
-- [[Myoendokrina Celler (Hjärta)|Myoendokrina celler (ANF)]]
+- [[Histologi/Hjärta/Glansstrimmor|Glansstrimmor (intercalated discs)]]
+- [[Histologi/Hjärta/Pericardium Serosum|Pericardium serosum]]
+- [[Histologi/Hjärta/Myoendokrina Celler (Hjärta)|Myoendokrina celler (ANF)]]
 
 Relaterat
-- [[Anatomi/Organ/Hjärta/_Index_|Hjärta – översikt]]
-- [[Valva Aortae|Valva aortae]], [[Valva Mitralis|Valva mitralis]], [[Valva Tricuspidalis|Valva tricuspidalis]], [[Valva Trunci Pulmonalis|Valva trunci pulmonalis]]
+- [[Anatomi/Organ/Hjärta/index|Hjärta – översikt]]
+- [[Anatomi/Organ/Hjärta/Valva Aortae|Valva aortae]], [[Anatomi/Organ/Hjärta/Valva Mitralis|Valva mitralis]], [[Anatomi/Organ/Hjärta/Valva Tricuspidalis|Valva tricuspidalis]], [[Anatomi/Organ/Hjärta/Valva Trunci Pulmonalis|Valva trunci pulmonalis]]

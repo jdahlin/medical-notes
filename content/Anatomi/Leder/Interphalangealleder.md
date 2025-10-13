@@ -1,7 +1,7 @@
 Ben
-- [[Digiti Mani|digiti mani]]
-- [[Digiti Pedi|digiti pedi]]
+- [[Anatomi/Ben/Digiti Mani|digiti mani]]
+- [[Anatomi/Ben/Digiti Pedi|digiti pedi]]
 
 Relaterade muskler
-- [[Flexor Digitorum Superficialis|flexor digitorum superficialis]]
-- [[Extensor Digitorum|extensor digitorum]]
+- [[Anatomi/Muskler/Flexor Digitorum Superficialis|flexor digitorum superficialis]]
+- [[Anatomi/Muskler/Extensor Digitorum|extensor digitorum]]

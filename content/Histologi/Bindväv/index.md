@@ -6,30 +6,30 @@ title: Bindväv – översikt
 
 
 Grundtyper
-- [[Lucker Bindväv|lucker bindväv]]
-- [[Retikulär Bindväv]]
-- [[Stram Oregelbunden Bindväv]]
-- [[Stram Regelbunden Bindväv]]
-- [[Elastisk Bindväv]]
+- [[Histologi/Bindväv/Lucker Bindväv|lucker bindväv]]
+- [[Histologi/Bindväv/Retikulär Bindväv]]
+- [[Histologi/Bindväv/Stram Oregelbunden Bindväv]]
+- [[Histologi/Bindväv/Stram Regelbunden Bindväv]]
+- [[Histologi/Bindväv/Elastisk Bindväv]]
 
 Embryonal och specialiserad
-- [[Mesenkym]]
-- [[Gelatinös Bindväv]]
-- [[Vit Fettväv]]
-- [[Brun Fettväv]]
+- [[Histologi/Bindväv/Mesenkym]]
+- [[Histologi/Bindväv/Gelatinös Bindväv]]
+- [[Histologi/Bindväv/Vit Fettväv]]
+- [[Histologi/Bindväv/Brun Fettväv]]
 
 ECM (Extracellulär matrix)
-- [[Fibrer i Bindväv|Fibrer i bindväv]]
-- [[Grundsubstans|Grundsubstans]]
-- [[Kollagen|Kollagen]] / [[Kollagensyntes|Kollagensyntes]]
+- [[Histologi/Bindväv/Fibrer i Bindväv|Fibrer i bindväv]]
+- [[Histologi/Bindväv/Grundsubstans|Grundsubstans]]
+- [[Histologi/Bindväv/Kollagen|Kollagen]] / [[Histologi/Bindväv/Kollagensyntes|Kollagensyntes]]
 
 Bindvävsceller
-- [[Målbeskrivning/AI-summeringar/Fibroblast|Fibroblast]]
-- [[Myofibroblast|Myofibroblast]]
-- [[Makrofag|Makrofag]]
-- [[Mastcell|Mastcell]]
-- [[Plasmacell|Plasmacell]]
-- [[Pericyt|Pericyt]]
+- [[Histologi/Bindväv/Fibroblast|Fibroblast]]
+- [[Histologi/Bindväv/Myofibroblast|Myofibroblast]]
+- [[Histologi/Bindväv/Makrofag|Makrofag]]
+- [[Histologi/Bindväv/Mastcell|Mastcell]]
+- [[Histologi/Bindväv/Plasmacell|Plasmacell]]
+- [[Histologi/Bindväv/Pericyt|Pericyt]]
 
 Relaterat
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]

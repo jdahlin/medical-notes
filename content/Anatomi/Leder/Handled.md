@@ -1,6 +1,6 @@
 Ben
-- [[Radius|radius]] + [[Carpus|carpus]]
+- [[Anatomi/Ben/Radius|radius]] + [[Anatomi/Ben/Carpus|carpus]]
 
 Relaterade muskler
-- [[Flexor Digitorum Superficialis|flexor digitorum superficialis]]
-- [[Extensor Digitorum|extensor digitorum]]
+- [[Anatomi/Muskler/Flexor Digitorum Superficialis|flexor digitorum superficialis]]
+- [[Anatomi/Muskler/Extensor Digitorum|extensor digitorum]]

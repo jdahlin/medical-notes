@@ -2,7 +2,7 @@ Typ
 - Muskulär artär
 
 Ursprung
-- Fortsättning av [[Arteria Femoralis|a. femoralis]] efter canalis adductorius
+- Fortsättning av [[Anatomi/Kärl/Arteria Femoralis|a. femoralis]] efter canalis adductorius
 
 Förlopp
 - I fossa poplitea bakom knäleden; delar sig till främre/bakre underbensartärer

@@ -4,13 +4,22 @@ title: Histologi – översikt
 
 # Histologi – översikt
 
-
-Exempel
-- [[Histologi/Epitel/_Index_|Epitel – översikt]]
-- [[Histologi/Körtlar/_Index_|Körtlar – översikt]]
-- [[Histologi/Bindväv/Bindväv|bindväv]]
-- [[Histologi/Brosk/_Index_|Brosk – översikt]]
-- [[Histologi/Muskelvävnad/_Index_|Muskelvävnad – översikt]]
-- [[Histologi/Hjärta/_Index_|Hjärta – histologi]]
-- [[Histologi/Ben/_Index_|Benbildning – översikt]]
- - [[Histologi/Blod/_Index_|Blod – översikt]]
+- [[Histologi/Basalmembran|Basalmembran]]
+- [[Histologi/Ben/index|Ben – översikt]]
+- [[Histologi/Bindväv/Bindväv|Bindväv]]
+- [[Histologi/Blod/index|Blod – översikt]]
+- [[Histologi/Blodkärl/index|Blodkärl – översikt]]
+- [[Histologi/Brosk/index|Brosk – översikt]]
+- [[Histologi/Bröstkörtel/index|Bröstkörtel – översikt]]
+- [[Histologi/Demokompendium/index|Demokompendium – översikt]]
+- [[Histologi/Endokrina/index|Endokrina – översikt]]
+- [[Histologi/Epitel/index|Epitel – översikt]]
+- [[Histologi/GI/index|GI – översikt]]
+- [[Histologi/Hjärta/index|Hjärta – histologi]]
+- [[Histologi/Hud/index|Hud – översikt]]
+- [[Histologi/KUG/index|KUG – översikt]]
+- [[Histologi/Körtlar/index|Körtlar – översikt]]
+- [[Histologi/Muskelvävnad/index|Muskelvävnad – översikt]]
+- [[Histologi/Nervsystem/index|Nervsystem – översikt]]
+- [[Histologi/Njure/index|Njure – översikt]]
+- [[Histologi/Urinvägar/index|Urinvägar – översikt]]

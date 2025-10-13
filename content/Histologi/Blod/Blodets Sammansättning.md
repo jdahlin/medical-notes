@@ -3,7 +3,7 @@ Kort
 
 Komponenter
 - Plasma: ~90 % vatten, 7–8 % proteiner (albumin, globuliner, fibrinogen), 1–2 % elektrolyter, näringsämnen, hormoner, avfall.
-- Blodkroppar: [[Erytrocyt|erytrocyter]], [[Leukocyter Översikt|leukocyter]], [[Trombocyt|trombocyter]].
+- Blodkroppar: [[Histologi/Blod/Erytrocyt|erytrocyter]], [[Histologi/Blod/Leukocyter Översikt|leukocyter]], [[Histologi/Blod/Trombocyt|trombocyter]].
 
 Relaterat
-- [[Plasma|Plasma]] / [[Serum|Serum]]
+- [[Histologi/Blod/Plasma|Plasma]] / [[Histologi/Blod/Serum|Serum]]

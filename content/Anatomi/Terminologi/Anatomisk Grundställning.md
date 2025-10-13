@@ -2,6 +2,6 @@ Kort
 - Kropp stående, blick framåt, armar längs sidorna med handflator framåt (supinerade), fötter parallella.
 
 Relaterat
-- [[Lage Och Riktningsbegrepp|Läges- och riktningsbegrepp]]
-- [[Kinematisk Terminologi|Kinematisk terminologi]]
-- [[Anatomi/_Index_|Anatomi – översikt]]
+- [[Anatomi/Terminologi/Lage Och Riktningsbegrepp|Läges- och riktningsbegrepp]]
+- [[Anatomi/Terminologi/Kinematisk Terminologi|Kinematisk terminologi]]
+- [[Anatomi/index|Anatomi – översikt]]

@@ -49,4 +49,4 @@
 
 ## Övrigt
 
-- [Preparattabell]
+- [Preparattabell](Preparattabell.md#preparattabell)

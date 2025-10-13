@@ -30,7 +30,7 @@ Se [[Histologi/Nervsystem/Neurontyper|neurontyper]] för fördjupning.
 
 ### Huvudkomponenter
 - **Soma (cellkropp)** – se [[Histologi/Nervsystem/Soma|soma]] och [[Histologi/Nervsystem/Nissl-substans|Nissl-substans]].  
-- **Dendriter** – mottagande utskott med spines; fördjupning i [[Dendrit|dendriter]].  
+- **Dendriter** – mottagande utskott med spines; fördjupning i [[Histologi/Nervsystem/Dendrit|dendriter]].  
 - **Axon** – leder nervimpulser, startar vid axonkägla; se [[Histologi/Nervsystem/Axon|axon]].  
 - **Axonterminaler** – synaptiska ändar som bildar [[Histologi/Nervsystem/Synaps|synapser]].  
 - **Myelinskida** – isolerar axon; se [[Histologi/Nervsystem/Myelin och axonal transport|myelin och axonal transport]].

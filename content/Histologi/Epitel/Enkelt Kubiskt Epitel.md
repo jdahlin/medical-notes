@@ -9,6 +9,6 @@ Funktion
 - Sekretion, absorption, kanalbeklädnad.
 
 Relaterat
-- [[Enkelt Cylinderepitel Icke Cilierat|enkelt cylinderepitel – icke-cilierat]]
+- [[Histologi/Epitel/Enkelt Cylinderepitel Icke Cilierat|enkelt cylinderepitel – icke-cilierat]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]
 

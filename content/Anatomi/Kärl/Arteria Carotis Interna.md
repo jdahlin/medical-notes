@@ -2,7 +2,7 @@ Typ
 - Elastisk/muskulär artär (intrakraniell försörjning)
 
 Ursprung
-- Terminal gren av [[Arteria Carotis Communis|a. carotis communis]]
+- Terminal gren av [[Anatomi/Kärl/Arteria Carotis Communis|a. carotis communis]]
 
 Förlopp
 - Utan halsgrenar; går genom canalis caroticus in i kraniet; deltar i circulus arteriosus cerebri

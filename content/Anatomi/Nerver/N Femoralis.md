@@ -1,3 +1,3 @@
 Kort
-- L2–L4; innerverar [[Quadriceps Femoris|quadriceps femoris]] och [[Iliopsoas|iliopsoas]] (iliacus-del).
+- L2–L4; innerverar [[Anatomi/Muskler/Quadriceps Femoris|quadriceps femoris]] och [[Anatomi/Muskler/Iliopsoas|iliopsoas]] (iliacus-del).
 

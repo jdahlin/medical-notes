@@ -7,4 +7,4 @@ Funktioner:
 Består av:
 * Labia major
 * Labia minor
-* [[Clitoris]]
+* [[Histologi/KUG/Clitoris]]

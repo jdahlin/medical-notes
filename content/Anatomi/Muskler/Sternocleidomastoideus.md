@@ -2,19 +2,19 @@
 AKA: m. sternocleidomastoideus, SCM
 
 ## Ursprung
-- Manubrium sterni – [[Sternum|sternum]]
-- Mediala clavicula – [[Clavicula|clavicula]]
+- Manubrium sterni – [[Anatomi/Ben/Sternum|sternum]]
+- Mediala clavicula – [[Anatomi/Ben/Clavicula|clavicula]]
 
 ## Fäste
-- Processus mastoideus – [[Os Temporale|os temporale]]
+- Processus mastoideus – [[Anatomi/Ben/Os Temporale|os temporale]]
 
 ## Funktion
 - Unilateral: kontralateral rotation, ipsilateral lateralflexion
 - Bilateral: flexion cervikalt; accessorisk inandning
 
 ## Innervation
-- Motorik: [[N Accessorius|n. accessorius (XI)]]
-- Proprioception: [[Plexus Cervicalis|plexus cervicalis]]
+- Motorik: [[Anatomi/Nerver/N Accessorius|n. accessorius (XI)]]
+- Proprioception: [[Anatomi/Nerver/Plexus Cervicalis|plexus cervicalis]]
 
 ## Relaterat
-- [[Ryggrad Mellankotsleder|mellankotsleder]]
+- [[Anatomi/Leder/Ryggrad Mellankotsleder|mellankotsleder]]

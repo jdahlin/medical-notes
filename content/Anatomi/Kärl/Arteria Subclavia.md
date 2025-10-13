@@ -2,7 +2,7 @@ Typ
 - Elastisk/muskulär artär (övergångstyp)
 
 Ursprung
-- Dx: från truncus brachiocephalicus; Sin: från [[Arcus Aortae|arcus aortae]]
+- Dx: från truncus brachiocephalicus; Sin: från [[Anatomi/Kärl/Arcus Aortae|arcus aortae]]
 
 Förlopp
 - Löper över första revbenet till axillen där den blir a. axillaris
@@ -14,5 +14,5 @@ Försörjer
 - Huvud/hals (via grenar), bröstkorgsvägg, övre extremitet (via fortsättning)
 
 Relaterat
-- Övergår i a. axillaris → [[Arteria Brachialis|a. brachialis]]
+- Övergår i a. axillaris → [[Anatomi/Kärl/Arteria Brachialis|a. brachialis]]
 

@@ -5,5 +5,5 @@ Exempel
 - Thyroidea (sköldkörteln).
 
 Relaterat
-- [[Endokrin strängtyp|endokrin – strängtyp]]
+- [[Histologi/Körtlar/Endokrin strängtyp|endokrin – strängtyp]]
 

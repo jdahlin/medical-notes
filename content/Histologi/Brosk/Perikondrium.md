@@ -1,10 +1,10 @@
 ![[Pasted image 20251009191239.png]]
 
 ### Uppbyggnad
-- Består av två lager tät bindväv runt brosk (ej vid ledyta eller [[Histologi/Brosk/Trådbrosk|trådbrosk]]).  
+- Består av två lager tät bindväv runt brosk (ej vid ledyta eller [[Histologi/Brosk/Trådbrosk|trådbrosk]]).  
   - **Yttre fibröst lager**: kollagen typ I, [[Histologi/Bindväv/Fibroblast|Fibroblaster]], vaskulariserat.  
   - **Inre kondrogent lager**: kondroprogenitorer/[[Histologi/Brosk/Kondroblast|kondroblaster]] med hög syntesaktivitet.  
-- Fibrerna övergår gradvis i omgivande [[Histologi/Bindväv/Stram Regelbunden Bindväv|stram regelbunden bindväv]] eller periost.
+- Fibrerna övergår gradvis i omgivande [[Histologi/Bindväv/Stram Regelbunden Bindväv|stram regelbunden bindväv]] eller periost.
 ### Funktion
 - Försörjer avaskulärt [[Histologi/Brosk/Hyalint Brosk|brosk]] med näring och syre via diffusion.  
 - Ger mekaniskt skydd och formstöd åt brosket.  
@@ -22,7 +22,7 @@
 - [[Histologi/Brosk/Kondroblast|Kondroblast]]  
 - [[Histologi/Brosk/Kondrocyt|Kondrocyt]]  
 - [[Histologi/Brosk/Elastiskt Brosk|Elastiskt brosk]] – tydligt perikondrium med elastinfibrer.  
-- [[Histologi/Brosk/Trådbrosk|Trådbrosk]] – saknar perikondrium.  
+- [[Histologi/Brosk/Trådbrosk|Trådbrosk]] – saknar perikondrium.  
 - [[Histologi/Ben/Periost och Endost|Periost]] – benets motsvarighet; delar progenitorpotential.  
 
 ---

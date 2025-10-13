@@ -8,6 +8,6 @@ Funktion
 - Absorption, mognad av spermier (epididymis).
 
 Relaterat
-- [[Flerradigt Cylinderepitel Cilierat|flerradigt cilierat]]
+- [[Histologi/Epitel/Flerradigt Cylinderepitel Cilierat|flerradigt cilierat]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]
 

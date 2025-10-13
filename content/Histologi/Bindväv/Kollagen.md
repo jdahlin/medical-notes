@@ -8,8 +8,8 @@ Viktiga typer
 - Typ IV: nätverk i basalmembran (lamina densa).
 
 Funktion
-- Dragstyrka, vävnadsarkitektur; samverkan med [[Grundsubstans]]
+- Dragstyrka, vävnadsarkitektur; samverkan med [[Histologi/Bindväv/Grundsubstans]]
 
 Relaterat
-- [[Kollagensyntes|Kollagensyntes]]
-- [[Fibrer i Bindväv|Fibrer i bindväv]]
+- [[Histologi/Bindväv/Kollagensyntes|Kollagensyntes]]
+- [[Histologi/Bindväv/Fibrer i Bindväv|Fibrer i bindväv]]

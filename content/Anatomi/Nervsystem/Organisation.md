@@ -6,9 +6,9 @@
 - Perifera nervsystemet kopplar CNS till effektororgan genom spinal- och kranialnerver, plexa och autonoma gångsystem.
 
 ### Relaterat
-- [[Nervi spinales|Nervi spinales]]  
-- [[Nervi craniales|Nervi craniales]]  
+- [[Anatomi/Nervsystem/Nervi spinales|Nervi spinales]]  
+- [[Anatomi/Nervsystem/Nervi craniales|Nervi craniales]]  
 - [[Anatomi/Nervsystem/ANS|ANS]]  
-- [[Koppling PNS|CNS-koppling]]  
+- [[Anatomi/Nervsystem/Koppling PNS|CNS-koppling]]  
 
 ---

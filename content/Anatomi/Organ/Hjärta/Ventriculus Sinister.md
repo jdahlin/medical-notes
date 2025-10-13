@@ -1,7 +1,7 @@
 Kort
-- Vänster kammare; tjock vägg; pumpar till [[Aorta Ascendens|aorta ascendens]]. Papillarmuskler till [[Valva Mitralis|mitralisklaffen]].
+- Vänster kammare; tjock vägg; pumpar till [[Anatomi/Kärl/Aorta Ascendens|aorta ascendens]]. Papillarmuskler till [[Anatomi/Organ/Hjärta/Valva Mitralis|mitralisklaffen]].
 
 Relaterat
-- [[Valva Mitralis|Valva mitralis]]
-- [[Valva Aortae|Valva aortae]]
+- [[Anatomi/Organ/Hjärta/Valva Mitralis|Valva mitralis]]
+- [[Anatomi/Organ/Hjärta/Valva Aortae|Valva aortae]]
 

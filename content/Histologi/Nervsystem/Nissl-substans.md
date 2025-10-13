@@ -3,7 +3,7 @@
 ### Histologiskt utseende
 - Består av grovt endoplasmatiskt retikulum, ribosomer och polysomer i [[Histologi/Nervsystem/Soma|soma]].  
 - Färgas intensivt basofilt med toluidinblå, cresylviolett och liknande Nissl-färgningar.  
-- Saknas i [[Histologi/Nervsystem/Axon|axon]] och axonkägla men finns i [[Dendrit|dendriter]] nära cellkroppen.
+- Saknas i [[Histologi/Nervsystem/Axon|axon]] och axonkägla men finns i [[Histologi/Nervsystem/Dendrit|dendriter]] nära cellkroppen.
 
 ### Funktion
 - Producerar membran- och sekretoriska proteiner inklusive neurotransmittorpre- peptider.  

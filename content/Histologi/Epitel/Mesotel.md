@@ -8,5 +8,5 @@ Funktion
 Relaterat
 - [[Histologi/Epitel/Skivepitel|enkelt skivepitel]]
 - [[Pericardium Serosum|pericardium serosum]]
-- [[Anatomi/Organ/Hjärta/_Index_|Hjärta – översikt]]
+- [[Anatomi/Organ/Hjärta/index|Hjärta – översikt]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]

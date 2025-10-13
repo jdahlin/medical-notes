@@ -8,5 +8,5 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Juxtaglomerulär apparat]]
-- [[Afferent arteriol]]
+- [[Histologi/Njure/Juxtaglomerulär apparat]]
+- [[Histologi/Njure/Afferent arteriol]]

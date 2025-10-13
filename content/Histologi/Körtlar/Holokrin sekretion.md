@@ -5,6 +5,6 @@ Exempel
 - Talgkörtel (glandula sebacea).
 
 Relaterat
-- [[Merokrin sekretion|merokrin]]
-- [[Apokrin sekretion|apokrin]]
+- [[Histologi/Körtlar/Merokrin sekretion|merokrin]]
+- [[Histologi/Körtlar/Apokrin sekretion|apokrin]]
 

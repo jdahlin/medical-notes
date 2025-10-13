@@ -1,8 +1,8 @@
 Kort
-- Fickklaff mot [[Truncus Pulmonalis|truncus pulmonalis]]; tre cuspar.
+- Fickklaff mot [[Anatomi/Kärl/Truncus Pulmonalis|truncus pulmonalis]]; tre cuspar.
 
 Relaterat
-- [[Ventriculus Dexter|Höger kammare]]
+- [[Anatomi/Organ/Hjärta/Ventriculus Dexter|Höger kammare]]
  
  Histologi
- - [[Klafflager Fibrosa|Fibrosa]] / [[Klafflager Spongiosa|Spongiosa]] / [[Klafflager Ventricularis|Ventricularis]]
+ - [[Histologi/Hjärta/Klafflager Fibrosa|Fibrosa]] / [[Histologi/Hjärta/Klafflager Spongiosa|Spongiosa]] / [[Histologi/Hjärta/Klafflager Ventricularis|Ventricularis]]

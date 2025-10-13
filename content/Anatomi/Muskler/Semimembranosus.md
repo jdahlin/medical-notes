@@ -3,14 +3,14 @@
 - Tuber ischiadicum – [[Anatomi/Ben/Os Ischii|os ischii]]
 
 ## Fäste
-- Mediala kondylen – [[Tibia|tibia]] (posteriort)
+- Mediala kondylen – [[Anatomi/Ben/Tibia|tibia]] (posteriort)
 
 ## Funktion
 - Höft: extension; knä: flexion och inåtrotation
 
 ## Innervation
-- [[N Tibialis|n. tibialis]]
+- [[Anatomi/Nerver/N Tibialis|n. tibialis]]
 
 ## Relaterat
-- [[Höftled|höftled]]
-- [[Knäled|knäled]]
+- [[Anatomi/Leder/Höftled|höftled]]
+- [[Anatomi/Leder/Knäled|knäled]]

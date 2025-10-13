@@ -5,6 +5,6 @@ Exempel
 - Apokrina svettkörtlar (axill, areola), mjölkkörtel (delvis apokrin lipidsekretion).
 
 Relaterat
-- [[Merokrin sekretion|merokrin]]
-- [[Holokrin sekretion|holokrin]]
+- [[Histologi/Körtlar/Merokrin sekretion|merokrin]]
+- [[Histologi/Körtlar/Holokrin sekretion|holokrin]]
 

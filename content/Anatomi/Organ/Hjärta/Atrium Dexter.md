@@ -1,7 +1,7 @@
 Kort
-- Höger förmak; tar emot blod från [[Vena Cava Superior|vena cava superior]], [[Vena Cava Inferior|vena cava inferior]] och [[Sinus Coronarius|sinus coronarius]]. Crista terminalis separerar glatt/sinus-del.
+- Höger förmak; tar emot blod från [[Anatomi/Kärl/Vena Cava Superior|vena cava superior]], [[Anatomi/Kärl/Vena Cava Inferior|vena cava inferior]] och [[Anatomi/Kärl/Sinus Coronarius|sinus coronarius]]. Crista terminalis separerar glatt/sinus-del.
 
 Relaterat
-- [[Valva Tricuspidalis|Valva tricuspidalis]]
-- [[Nodus Sinuatrialis|SA‑knutan]]
+- [[Anatomi/Organ/Hjärta/Valva Tricuspidalis|Valva tricuspidalis]]
+- [[Anatomi/Organ/Hjärta/Nodus Sinuatrialis|SA‑knutan]]
 

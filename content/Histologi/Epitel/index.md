@@ -5,9 +5,9 @@ title: Epitel – översikt
 # Epitel – översikt
 
 Generella egenskaper
-- Polariserade celler (apikal–basal polaritet); vilande på [[Basalmembran|basalmembran]]; avaskulär vävnad (näring via diffusion); hög regenerationsförmåga; rika [[Cellkontakter|cellkontakter]].
+- Polariserade celler (apikal–basal polaritet); vilande på [[Basalmembran|basalmembran]]; avaskulär vävnad (näring via diffusion); hög regenerationsförmåga; rika [[Histologi/Epitel/Cellkontakter|cellkontakter]].
 - Apikala specialiseringar: mikrovilli (absorption), cilier (transport), stereocilier (epididymis).
-- Huvudfunktioner: [[Epitelens Huvudfunktioner|skydd, barriär, absorption, sekretion, transport, sensorik, utbyte]].
+- Huvudfunktioner: [[Histologi/Epitel/Epitelens Huvudfunktioner|skydd, barriär, absorption, sekretion, transport, sensorik, utbyte]].
 
 Allmänna typer
 - [[Histologi/Epitel/Skivepitel|Skivepitel]]
@@ -16,13 +16,13 @@ Allmänna typer
 - [[Histologi/Epitel/Enkelt Epitel|Enkelt epitel]]
 - [[Histologi/Epitel/Flerradigt Epitel|Flerradigt epitel]]
 - [[Histologi/Epitel/Flerskiktat Epitel|Flerskiktat epitel]]
-- [[Histologi/Epitel/Övergångsepitel|Övergångsepitel]]
+- [[Histologi/Epitel/Övergångsepitel|Övergångsepitel]]
 
 Specialfall/namngivna varianter
-- [[Respirationsvägsepitel|respirationsvägsepitel]]
-- [[Endotel|endotel]]
-- [[Mesotel|mesotel]]
-- [[Ependym|ependym]]
+- [[Histologi/Epitel/Respirationsvägsepitel|respirationsvägsepitel]]
+- [[Histologi/Epitel/Endotel|endotel]]
+- [[Histologi/Epitel/Mesotel|mesotel]]
+- [[Histologi/Epitel/Ependym|ependym]]
 
 | Epiteltyp | Underklass / egenskap | Preparatkod(er) | Struktur / Organ | Lokalisation i vävnaden | Kännetecken / Kommentar | Dominerande celltyper | Huvudfunktion |
 |------------|----------------------|------------------|------------------|--------------------------|--------------------------|------------------------|----------------|
@@ -65,6 +65,6 @@ Specialfall/namngivna varianter
 | Specialiserat/blandat epitel | Kavernöst platt epitel | MG9–MG10 | Penis (corpora) | Kavernas vägg | Enskiktat platt epitel | Platta endotel-liknande celler | Friktionsreduktion, blodflöde |
 
 Fördjupning
-- [[Cellkontakter|Cell–cell- och cell–matrixkontakter]]
+- [[Histologi/Epitel/Cellkontakter|Cell–cell- och cell–matrixkontakter]]
 - [[Basalmembran]]
-- [[Epitelens Huvudfunktioner|Epitelens huvudfunktioner]]
+- [[Histologi/Epitel/Epitelens Huvudfunktioner|Epitelens huvudfunktioner]]

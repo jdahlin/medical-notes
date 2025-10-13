@@ -5,10 +5,10 @@ title: Terminologi – översikt
 # Terminologi – översikt
 
 
-- [[Anatomisk Grundställning|Anatomisk grundställning]]
-- [[Termers Uppbyggnad|Termers uppbyggnad]]
-- [[Strukturella Prefix|Strukturella prefix]]
-- [[Lage Och Riktningsbegrepp|Läges- och riktningsbegrepp]]
-- [[Rorelseplan Och Axlar|Rörelseplan och axlar]]
-- [[Kinematisk Terminologi|Kinematisk terminologi]]
-- [[Muskelfunktioner|Muskelfunktioner och roller]]
+- [[Anatomi/Terminologi/Anatomisk Grundställning|Anatomisk grundställning]]
+- [[Anatomi/Terminologi/Termers Uppbyggnad|Termers uppbyggnad]]
+- [[Anatomi/Terminologi/Strukturella Prefix|Strukturella prefix]]
+- [[Anatomi/Terminologi/Lage Och Riktningsbegrepp|Läges- och riktningsbegrepp]]
+- [[Anatomi/Terminologi/Rorelseplan Och Axlar|Rörelseplan och axlar]]
+- [[Anatomi/Terminologi/Kinematisk Terminologi|Kinematisk terminologi]]
+- [[Anatomi/Terminologi/Muskelfunktioner|Muskelfunktioner och roller]]

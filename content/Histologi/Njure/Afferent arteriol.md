@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Glomerulus]]
-- [[Efferent arteriol]]
-- [[Juxtaglomerulär apparat]]
+- [[Histologi/Njure/Glomerulus]]
+- [[Histologi/Njure/Efferent arteriol]]
+- [[Histologi/Njure/Juxtaglomerulär apparat]]

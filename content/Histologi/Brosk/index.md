@@ -6,10 +6,10 @@ title: Brosk – översikt
 
 
 Typer
-- [[Hyalint Brosk|hyalint brosk]]
-- [[Elastiskt Brosk|elastiskt brosk]]
-- [[Trådbrosk|trådbrosk (fibrocartilago)]]
+- [[Histologi/Brosk/Hyalint Brosk|hyalint brosk]]
+- [[Histologi/Brosk/Elastiskt Brosk|elastiskt brosk]]
+- [[Histologi/Brosk/Trådbrosk|trådbrosk (fibrocartilago)]]
 
 Relaterat
-- [[Histologi/Bindväv/_Index_|Bindväv – översikt]]
+- [[Histologi/Bindväv/index|Bindväv – översikt]]
 - [[bok/histologi/Kap Brosk|Brosk (kapitel)]]

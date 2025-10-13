@@ -5,4 +5,4 @@ Funktion
 - Kompakt: styrka/bärighet. Spongiöst: metabolt aktivt, lättar skelettet.
 
 Relaterat
-- [[Osteon Haverska System|Osteon]]
+- [[Histologi/Ben/Osteon Haverska System|Osteon]]

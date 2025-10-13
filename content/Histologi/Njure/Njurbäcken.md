@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Histologi/Epitel/Övergångsepitel Urotel]]
-- [[Ureter]]
-- [[Njurpapill]]
+- [[Histologi/Epitel/Övergångsepitel Urotel]]
+- [[Histologi/Urinvägar/Ureter]]
+- [[Histologi/Njure/Njurpapill]]

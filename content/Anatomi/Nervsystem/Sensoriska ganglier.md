@@ -10,7 +10,7 @@
 
 ### Funktion
 - Förmedlar sensorisk information från perifera receptorer till CNS utan synapser i gangliet.  
-- Perifera axonet tar emot stimuli; centrala axonet går in i [[Medulla spinalis|ryggmärgen]] via dorsalroten.
+- Perifera axonet tar emot stimuli; centrala axonet går in i [[Anatomi/Nervsystem/Medulla spinalis|ryggmärgen]] via dorsalroten.
 
 ### Kliniska aspekter
 - Herpesvirus kan ligga latent i sensoriska ganglier (herpes zoster).  
@@ -18,8 +18,8 @@
 - Biopsi vid amyloidos eller inflammatorisk neuropati.
 
 ### Relaterat
-- [[Nervi spinales|Nervi spinales]]  
-- [[Autonoma ganglier|Autonoma ganglier]]  
-- [[Koppling PNS|CNS-koppling]]  
+- [[Anatomi/Nervsystem/Nervi spinales|Nervi spinales]]  
+- [[Anatomi/Nervsystem/Autonoma ganglier|Autonoma ganglier]]  
+- [[Anatomi/Nervsystem/Koppling PNS|CNS-koppling]]  
 
 ---

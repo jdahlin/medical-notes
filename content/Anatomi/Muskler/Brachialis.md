@@ -1,16 +1,16 @@
 ![[Pasted image 20251009194941.png]]
 ## Ursprung
-- Distala halvan av [[Humerus|humerus]] anteriora yta
+- Distala halvan av [[Anatomi/Ben/Humerus|humerus]] anteriora yta
 
 ## Fäste
-- Tuberositas ulnae – [[Ulna|ulna]]
+- Tuberositas ulnae – [[Anatomi/Ben/Ulna|ulna]]
 
 ## Funktion
 - Armbågsflexion i alla underarmslägen
 
 ## Innervation
-- [[N Musculocutaneus|n. musculocutaneus]]; ibland bidrag från [[N Radialis|n. radialis]]
+- [[Anatomi/Nerver/N Musculocutaneus|n. musculocutaneus]]; ibland bidrag från [[Anatomi/Nerver/N Radialis|n. radialis]]
 
 ## Relaterat
-- [[Biceps Brachii|biceps brachii]]
-- [[Armbågsled|armbågsled]]
+- [[Anatomi/Muskler/Biceps Brachii|biceps brachii]]
+- [[Anatomi/Leder/Armbågsled|armbågsled]]

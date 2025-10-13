@@ -1,16 +1,16 @@
 ![[Pasted image 20251009195642.png]]
 ## Ursprung
-- Caput longum: tuberculum infraglenoidale – [[Scapula|scapula]]
-- Caput laterale/mediale: dorsala [[Humerus|humerus]]
+- Caput longum: tuberculum infraglenoidale – [[Anatomi/Ben/Scapula|scapula]]
+- Caput laterale/mediale: dorsala [[Anatomi/Ben/Humerus|humerus]]
 
 ## Fäste
-- Olecranon – [[Ulna|ulna]]
+- Olecranon – [[Anatomi/Ben/Ulna|ulna]]
 
 ## Funktion
 - Armbågsled: extension; caput longum även extension i axelled
 
 ## Innervation
-- [[N Radialis|n. radialis]]
+- [[Anatomi/Nerver/N Radialis|n. radialis]]
 
 ## Relaterat
-- [[Armbågsled|armbågsled]]
+- [[Anatomi/Leder/Armbågsled|armbågsled]]

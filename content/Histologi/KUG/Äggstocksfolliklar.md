@@ -4,10 +4,10 @@
 
 
 Follikelfas
-- [[Primordialfollikel]]
-- [[Tidigt primärfollikel]]
-- [[Sen primärfollikel]]
-- [[Sekundärfollikel]]
+- [[Histologi/KUG/Primordialfollikel]]
+- [[Histologi/KUG/Tidigt primärfollikel]]
+- [[Histologi/KUG/Sen primärfollikel]]
+- [[Histologi/KUG/Sekundärfollikel]]
 - Tetriärfollikel eller Graafs follikel
 Lutealfas
 - 

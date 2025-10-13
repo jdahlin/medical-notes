@@ -8,6 +8,6 @@ Funktion
 - Skydd i specifika kanaler.
 
 Relaterat
-- [[Flerskiktat Kubiskt Epitel|flerskiktat kubiskt]]
+- [[Histologi/Epitel/Flerskiktat Kubiskt Epitel|flerskiktat kubiskt]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]
 

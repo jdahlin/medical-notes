@@ -5,5 +5,5 @@ Nyckelkomponenter
 - Koagulationsfaktorer (II, V, VII, VIII, IX, X, XI, XII), kalcium, fosfolipidyta.
 
 Relaterat
-- [[Hemostas Primär|Hemostas – primär]]
-- [[Fibrinolys|Fibrinolys]]
+- [[Histologi/Blod/Hemostas Primär|Hemostas – primär]]
+- [[Histologi/Blod/Fibrinolys|Fibrinolys]]

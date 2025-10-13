@@ -1,6 +1,6 @@
 Funktion:
 - Utveckling och selektion av T-celler
-- Ersatt av [[Vit Fettväv|fettvävnad]] i vuxna personer.
+- Ersatt av [[Histologi/Bindväv/Vit Fettväv|fettvävnad]] i vuxna personer.
 
 ## Vävnader
 * Kapsel

@@ -1,14 +1,14 @@
 ## PNS – Perifera nervsystemet
 
-- [[Organisation|Övergripande organisation]]
-- [[Nervi spinales|Nervi spinales]]
-- [[Nervi craniales|Nervi craniales]]
-- [[Perifera nerver|Perifera nerver – struktur]]
-- [[Sensoriska ganglier|Sensoriska ganglier]]
-- [[Autonoma ganglier|Autonoma ganglier]]
-- [[Blod-nerv-barriär|Blod–nerv-barriär och Ranviers noder]]
-- [[Koppling PNS|Relation till CNS]]
+- [[Anatomi/Nervsystem/Organisation|Övergripande organisation]]
+- [[Anatomi/Nervsystem/Nervi spinales|Nervi spinales]]
+- [[Anatomi/Nervsystem/Nervi craniales|Nervi craniales]]
+- [[Anatomi/Nervsystem/Perifera nerver|Perifera nerver – struktur]]
+- [[Anatomi/Nervsystem/Sensoriska ganglier|Sensoriska ganglier]]
+- [[Anatomi/Nervsystem/Autonoma ganglier|Autonoma ganglier]]
+- [[Anatomi/Nervsystem/Blod-nerv-barriär|Blod–nerv-barriär och Ranviers noder]]
+- [[Anatomi/Nervsystem/Koppling PNS|Relation till CNS]]
 
-Relaterat: [[Anatomi/Nervsystem/CNS|CNS – översikt]], [[Anatomi/Nervsystem/ANS|ANS]], [[Målbeskrivning/AI-summeringar/Nerv|AI-summering nervsystem]].
+Relaterat: [[Anatomi/Nervsystem/CNS|CNS – översikt]], [[Anatomi/Nervsystem/ANS|ANS]], [[Målbeskrivning/AI-summeringar/Nerv|AI-summering nervsystem]].
 
 ---

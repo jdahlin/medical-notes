@@ -5,6 +5,6 @@ Kännetecken
 - Kubiska/cylindriska celler på benytor; basofil cytoplasma vid aktivitet.
 
 Relaterat
-- [[Osteocyt|Osteocyt]] (differentierad osteoblast)
-- [[Mineralisering och Osteoid|Mineralisering och osteoid]]
+- [[Histologi/Ben/Osteocyt|Osteocyt]] (differentierad osteoblast)
+- [[Histologi/Ben/Mineralisering och Osteoid|Mineralisering och osteoid]]
 

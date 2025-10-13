@@ -9,5 +9,5 @@ Elastiska fibrer
 - Elastin + fibrillin; ger elastic recoil (t.ex. ligamenta flava, stora elastiska artärer).
 
 Relaterat
-- [[Kollagen|Kollagen]] / [[Kollagensyntes|Kollagensyntes]]
+- [[Histologi/Bindväv/Kollagen|Kollagen]] / [[Histologi/Bindväv/Kollagensyntes|Kollagensyntes]]
 - [[Histologi/Bindväv/Elastisk Bindväv|Elastisk bindväv]]

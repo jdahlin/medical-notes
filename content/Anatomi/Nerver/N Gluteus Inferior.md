@@ -1,3 +1,3 @@
 Kort
-- Innerverar [[Gluteus Maximus|gluteus maximus]].
+- Innerverar [[Anatomi/Muskler/Gluteus Maximus|gluteus maximus]].
 

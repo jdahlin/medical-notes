@@ -1,7 +1,7 @@
 ## Dorsalrotsganglion (spinalganglion)
 
 ### Organisation
-- Beläget i [[Nervi spinales|dorsalrötterna]] strax utanför ryggmärgen.  
+- Beläget i [[Anatomi/Nervsystem/Nervi spinales|dorsalrötterna]] strax utanför ryggmärgen.  
 - Omgiven av bindvävskapsel (epineurium) som fortsätter i perineuriet runt nervfibrer.  
 - Inre stroma av lucker bindväv med kapillärer och fibroblaster.
 
@@ -30,7 +30,7 @@
 - Radikulopati p.g.a. kompression (diskbråck) drabbar neuron som passerar gangliet.
 
 ### Relaterat
-- [[Sensoriska ganglier|Sensoriska ganglier]]  
+- [[Anatomi/Nervsystem/Sensoriska ganglier|Sensoriska ganglier]]  
 - [[Histologi/Nervsystem/Satellitcell|Satellitcell]]  
 - [[Histologi/Nervsystem/Nervsystemet Oversikt och celler|Nervsystemöversikt]]  
 

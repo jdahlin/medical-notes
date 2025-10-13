@@ -4,5 +4,5 @@ title: Organ – översikt
 
 # Organ – översikt
 
-- [[Anatomi/Organ/Hjärta/_Index_|Hjärta]]
+- [[Anatomi/Organ/Hjärta/index|Hjärta]]
 

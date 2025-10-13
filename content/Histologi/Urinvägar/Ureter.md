@@ -8,7 +8,7 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Histologi/Epitel/Övergångsepitel Urotel]]
+- [[Histologi/Epitel/Övergångsepitel Urotel]]
 - [[Histologi/Bindväv/Lamina propria]]
 - [[Histologi/Muskelvävnad/Glattmuskel]]
-- [[Histologi/Urinvägar/Urinblåsa]]
+- [[Histologi/Urinvägar/Urinblåsa]]

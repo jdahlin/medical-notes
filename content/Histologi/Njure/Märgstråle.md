@@ -2,15 +2,15 @@
 
 Kännetecken
 - Ser ut som tuber som går mellan bark och märg.
-- Namnet är lite missvisande då de ligger i [[Njurbark|barken]], inte i [[Njurmärg|märgen]].
+- Namnet är lite missvisande då de ligger i [[Histologi/Njure/Njurbark|barken]], inte i [[Histologi/Njure/Njurmärg|märgen]].
 
 Vanliga lokaler
-- I [[Njurbark|barken]] mellan kapsel och [[Njurmärg|märgen]].
+- I [[Histologi/Njure/Njurbark|barken]] mellan kapsel och [[Histologi/Njure/Njurmärg|märgen]].
 
 Funktion
-- Leder primärurin genom tubuli från barkens [[Nefron]] mot [[Njurmärg|märgen]].
+- Leder primärurin genom tubuli från barkens [[Histologi/Njure/Nefron]] mot [[Histologi/Njure/Njurmärg|märgen]].
 
 Relaterat
-- [[Njurbark]]
-- [[Njurmärg]]
-- [[Nefron]]
+- [[Histologi/Njure/Njurbark]]
+- [[Histologi/Njure/Njurmärg]]
+- [[Histologi/Njure/Nefron]]

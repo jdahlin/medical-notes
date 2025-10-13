@@ -5,6 +5,6 @@ Kännetecken
 - Hematom och inflammation; fibro-/kondroblastaktivitet; woven bone deposition; gradvis ombyggnad.
 
 Relaterat
-- [[Vävnadsben vs Lamellärt Ben|Vävnadsben vs lamellärt]]
-- [[Benremodellering|Benremodellering]]
+- [[Histologi/Ben/Vävnadsben vs Lamellärt Ben|Vävnadsben vs lamellärt]]
+- [[Histologi/Ben/Benremodellering|Benremodellering]]
 

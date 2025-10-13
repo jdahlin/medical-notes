@@ -11,4 +11,4 @@ Andel i blod
 - 20–40 % av leukocyter.
 
 Relaterat
-- [[Lymfopoes|Lymfopoes]]
+- [[Histologi/Blod/Lymfopoes|Lymfopoes]]

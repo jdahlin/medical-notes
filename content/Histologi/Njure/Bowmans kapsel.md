@@ -1,17 +1,17 @@
 ![[Pasted image 20251010134449.png|300]]
 Kännetecken
-- Ligger i [[Njurbark]]
-- Inkapslar [[Glomerulus]]
-- Har ett yttre lager av [[Enkelt Skivepitel]] och inre lager av [[Podocyt]].
+- Ligger i [[Histologi/Njure/Njurbark]]
+- Inkapslar [[Histologi/Njure/Glomerulus]]
+- Har ett yttre lager av [[Histologi/Epitel/Enkelt Skivepitel]] och inre lager av [[Histologi/Njure/Podocyt]].
 
 Vanliga lokaler
-- [[Njurbark]]
+- [[Histologi/Njure/Njurbark]]
 
 Funktion
-- Mottagare av filtrerad primärurin som skickas vidare till [[Proximala tubulus]].
+- Mottagare av filtrerad primärurin som skickas vidare till [[Histologi/Njure/Proximala tubulus]].
 
 Relaterat
-- [[Glomerulus]]
-- [[Podocyt]]
-- [[Blodfiltrationsbarriär]]
-- [[Proximala tubulus]]
+- [[Histologi/Njure/Glomerulus]]
+- [[Histologi/Njure/Podocyt]]
+- [[Histologi/Njure/Blodfiltrationsbarriär]]
+- [[Histologi/Njure/Proximala tubulus]]

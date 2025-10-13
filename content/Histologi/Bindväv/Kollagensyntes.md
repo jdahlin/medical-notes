@@ -1,5 +1,5 @@
 Kort
-- Intracellulär och extracellulär process där [[Kollagen|kollagen]] bildas av fibroblaster (m.fl.). Kräver bl.a. C‑vitamin och koppar.
+- Intracellulär och extracellulär process där [[Histologi/Bindväv/Kollagen|kollagen]] bildas av fibroblaster (m.fl.). Kräver bl.a. C‑vitamin och koppar.
 
 Steg (översikt)
 - Transkription/translation → preprokollagen (RER)
@@ -15,7 +15,7 @@ Kliniska kopplingar
 - Osteogenesis imperfecta (COL1A1/2): defekt typ I‑kollagen → frakturkänslighet.
 
 Relaterat
-- [[Fibrer i Bindväv|Fibrer i bindväv]]
-- [[Kollagen|Kollagen]]
-- [[Målbeskrivning/AI-summeringar/Fibroblast|Fibroblast]]
+- [[Histologi/Bindväv/Fibrer i Bindväv|Fibrer i bindväv]]
+- [[Histologi/Bindväv/Kollagen|Kollagen]]
+- [[Histologi/Bindväv/Fibroblast|Fibroblast]]
 

@@ -2,23 +2,23 @@
 AKA: M. biceps brachii, biceps
 
 ## Ursprung
-- Tuberculum supraglenoidale (caput longum) – [[Scapula|scapula]]
-- Processus coracoideus (caput breve) – [[Scapula|scapula]]
+- Tuberculum supraglenoidale (caput longum) – [[Anatomi/Ben/Scapula|scapula]]
+- Processus coracoideus (caput breve) – [[Anatomi/Ben/Scapula|scapula]]
 
 ## Fäste
-- Tuberositas radii – [[Radius|radius]] (senan fortsätter som aponeurosis m. bicipitis brachii i fascia antebrachii)
+- Tuberositas radii – [[Anatomi/Ben/Radius|radius]] (senan fortsätter som aponeurosis m. bicipitis brachii i fascia antebrachii)
 
 ## Funktion
 - Armbågsflexion, underarmsupination, svag axelflexion
 
 ## Innervation
-- [[N Musculocutaneus|n. musculocutaneus]]
+- [[Anatomi/Nerver/N Musculocutaneus|n. musculocutaneus]]
 
 ## Blodförsörjning
-- [[Arteria Brachialis|a. brachialis]]
+- [[Anatomi/Kärl/Arteria Brachialis|a. brachialis]]
 
 ## Relaterat
-- [[Brachialis|brachialis]]
-- [[Humerus|humerus]]
-- [[Axelled|axelled]]
-- [[Armbågsled|armbågsled]]
+- [[Anatomi/Muskler/Brachialis|brachialis]]
+- [[Anatomi/Ben/Humerus|humerus]]
+- [[Anatomi/Leder/Axelled|axelled]]
+- [[Anatomi/Leder/Armbågsled|armbågsled]]

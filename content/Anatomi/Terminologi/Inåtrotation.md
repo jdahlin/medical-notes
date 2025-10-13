@@ -15,7 +15,7 @@
 - Rehabilitering fokuserar på balans mellan inåt- och utåtrotatorer.
 
 ### Relaterat
-- Motsats: [[Anatomi/Terminologi/Utåtrotation|Utåtrotation]]  
+- Motsats: [[Anatomi/Terminologi/Utåtrotation|Utåtrotation]]  
 - Kombineras med flexion/extension vid funktionella rörelser.  
 - [[Anatomi/Terminologi/Rorelseplan Och Axlar|Rörelseplan och axlar]]  
 

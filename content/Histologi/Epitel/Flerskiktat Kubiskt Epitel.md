@@ -8,6 +8,6 @@ Funktion
 - Skydd/kanalbeklädnad.
 
 Relaterat
-- [[Flerskiktat Cylinderepitel|flerskiktat cylinderepitel]]
+- [[Histologi/Epitel/Flerskiktat Cylinderepitel|flerskiktat cylinderepitel]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]
 

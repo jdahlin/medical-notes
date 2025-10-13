@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Njurmärg]]
-- [[Njurbäcken]]
-- [[Histologi/Epitel/Övergångsepitel Urotel]]
+- [[Histologi/Njure/Njurmärg]]
+- [[Histologi/Njure/Njurbäcken]]
+- [[Histologi/Epitel/Övergångsepitel Urotel]]

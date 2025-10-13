@@ -4,4 +4,4 @@
 - Lagrats i basofila granulocyter och mastceller; frigörs vid allergisk/inflammatorisk respons.  
 - Kliniskt används heparin som läkemedel mot trombbildning.
 
-Relaterat: [[Histologi/Blod/Basofil|basofil]], [[Histologi/Blod/Hemostas Primär|primär hemostas]].
+Relaterat: [[Histologi/Blod/Basofil|basofil]], [[Histologi/Blod/Hemostas Primär|primär hemostas]].

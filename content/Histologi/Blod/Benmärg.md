@@ -7,5 +7,5 @@ Struktur
 - Sinusoider: fenestrerade kapillärer som släpper ut mogna celler.
 
 Relaterat
-- [[Hematopoes Översikt|Hematopoes – översikt]]
-- [[Spongiöst Ben|Spongiöst ben]] / [[Periost och Endost|Endost]]
+- [[Histologi/Blod/Hematopoes Översikt|Hematopoes – översikt]]
+- [[Histologi/Ben/Spongiöst Ben|Spongiöst ben]] / [[Histologi/Ben/Periost och Endost|Endost]]

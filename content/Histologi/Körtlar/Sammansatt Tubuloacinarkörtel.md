@@ -5,5 +5,5 @@ Exempel
 - Stora spottkörtlar: parotis (mest serös), submandibularis (seromukös), sublingualis (mest mukös).
 
 Relaterat
-- [[Seröskörtel|serös]] / [[Mukös Kortel|mukös]] / [[Seromuköskörtel|seromukös]]
+- [[Histologi/Körtlar/Seröskörtel|serös]] / [[Histologi/Körtlar/Mukös Kortel|mukös]] / [[Histologi/Körtlar/Seromuköskörtel|seromukös]]
 

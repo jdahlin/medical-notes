@@ -8,7 +8,7 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Makula densa]]
-- [[Afferent arteriol]]
-- [[Mesangiell cell]]
-- [[Renin]]
+- [[Histologi/Njure/Makula densa]]
+- [[Histologi/Njure/Afferent arteriol]]
+- [[Histologi/Njure/Mesangiell cell]]
+- [[Histologi/Njure/Renin]]

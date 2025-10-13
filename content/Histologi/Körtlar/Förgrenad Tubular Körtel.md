@@ -5,5 +5,5 @@ Exempel
 - Magsäckens körtlar (cardia/pylorus), endometriekörtlar.
 
 Relaterat
-- [[Enkel Tubularkörtel|enkel tubulär]]
+- [[Histologi/Körtlar/Enkel Tubularkörtel|enkel tubulär]]
 

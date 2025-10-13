@@ -6,5 +6,5 @@ Exempel
 - v. / vena – ven
 
 Relaterat
-- [[Termers Uppbyggnad|Termers uppbyggnad]]
+- [[Anatomi/Terminologi/Termers Uppbyggnad|Termers uppbyggnad]]
 

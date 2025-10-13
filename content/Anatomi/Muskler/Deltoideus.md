@@ -1,16 +1,16 @@
 ![[Pasted image 20251009195012.png]]
 ## Ursprung
-- Laterala [[Clavicula|clavicula]]
-- Acromion/spina – [[Scapula|scapula]]
+- Laterala [[Anatomi/Ben/Clavicula|clavicula]]
+- Acromion/spina – [[Anatomi/Ben/Scapula|scapula]]
 
 ## Fäste
-- Tuberositas deltoidea – [[Humerus|humerus]]
+- Tuberositas deltoidea – [[Anatomi/Ben/Humerus|humerus]]
 
 ## Funktion
 - Abduktion (mellan 15–90°); främre del flexion/inåtrotation, bakre del extension/utåtrotation
 
 ## Innervation
-- [[N Axillaris|n. axillaris]] (C5–C6)
+- [[Anatomi/Nerver/N Axillaris|n. axillaris]] (C5–C6)
 
 ## Relaterat
-- [[Axelled|axelled]]
+- [[Anatomi/Leder/Axelled|axelled]]

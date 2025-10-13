@@ -2,16 +2,16 @@
 AKA: m. temporalis
 
 ## Ursprung
-- Fossa temporalis på [[Os Temporale|os temporale]] (via fascia temporalis)
+- Fossa temporalis på [[Anatomi/Ben/Os Temporale|os temporale]] (via fascia temporalis)
 
 ## Fäste
-- Processus coronoideus – [[Mandibula|mandibula]]
+- Processus coronoideus – [[Anatomi/Ben/Mandibula|mandibula]]
 
 ## Funktion
 - Käkled: elevation, retraktion av mandibula
 
 ## Innervation
-- [[N Mandibularis V3|n. mandibularis (V3)]] (nn. temporales profundae)
+- [[Anatomi/Nerver/N Mandibularis V3|n. mandibularis (V3)]] (nn. temporales profundae)
 
 ## Relaterat
-- [[Käkled|käkled]]
+- [[Anatomi/Leder/Käkled|käkled]]

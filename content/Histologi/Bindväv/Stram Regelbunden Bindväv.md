@@ -8,6 +8,6 @@ Funktion
 - Hög draghållfasthet i en huvudriktning.
 
 Relaterat
-- [[Stram Oregelbunden Bindväv]]
+- [[Histologi/Bindväv/Stram Oregelbunden Bindväv]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]
 

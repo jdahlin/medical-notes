@@ -18,8 +18,8 @@
 - Kronisk alkoholpåverkan → degeneration av anterior lob.
 
 ### Relaterat
-- [[Banor|Uppåt- och nedåtgående banor]]  
-- [[Truncus encephali|Truncus encephali]]  
-- [[Koppling PNS|Koppling till PNS]]  
+- [[Anatomi/Nervsystem/Banor|Uppåt- och nedåtgående banor]]  
+- [[Anatomi/Nervsystem/Truncus encephali|Truncus encephali]]  
+- [[Anatomi/Nervsystem/Koppling PNS|Koppling till PNS]]  
 
 ---

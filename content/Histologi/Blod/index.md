@@ -5,37 +5,37 @@ title: Blod – översikt
 # Blod – översikt
 
 Sammansättning
-- [[Blodets Sammansättning|Blodets sammansättning]]
-- [[Plasma|Plasma]] / [[Serum|Serum]]
-- [[Buffy Coat|Buffy coat]]
-- [[Blodutstryk och Färgning|Blodutstryk och färgning (Wright–Giemsa)]]
+- [[Histologi/Blod/Blodets Sammansättning|Blodets sammansättning]]
+- [[Histologi/Blod/Plasma|Plasma]] / [[Histologi/Blod/Serum|Serum]]
+- [[Histologi/Blod/Buffy Coat|Buffy coat]]
+- [[Histologi/Blod/Blodutstryk och Färgning|Blodutstryk och färgning (Wright–Giemsa)]]
 
 Celler
-- [[Erytrocyt|Erytrocyt]]
-- [[Leukocyter Översikt|Leukocyter – översikt]]
-- Granulocyter: [[Neutrofil|Neutrofil]], [[Eosinofil|Eosinofil]], [[Basofil|Basofil]]
-- Agranulocyter: [[Lymfocyt|Lymfocyt]], [[Monocyt|Monocyt]]
-- Lymfocyt-subtyper: [[T-Lymfocyt|T-lymfocyt]], [[B-Lymfocyt|B-lymfocyt]]
-- [[Trombocyt|Trombocyt]]
-- [[Granulocytgranula|Granulocytgranula]], [[Lysozym|Lysozym]], [[Heparin|Heparin]], [[Histamin|Histamin]]
+- [[Histologi/Blod/Erytrocyt|Erytrocyt]]
+- [[Histologi/Blod/Leukocyter Översikt|Leukocyter – översikt]]
+- Granulocyter: [[Histologi/Blod/Neutrofil|Neutrofil]], [[Histologi/Blod/Eosinofil|Eosinofil]], [[Histologi/Blod/Basofil|Basofil]]
+- Agranulocyter: [[Histologi/Blod/Lymfocyt|Lymfocyt]], [[Histologi/Blod/Monocyt|Monocyt]]
+- Lymfocyt-subtyper: [[Histologi/Blod/T-Lymfocyt|T-lymfocyt]], [[Histologi/Blod/B-Lymfocyt|B-lymfocyt]]
+- [[Histologi/Blod/Trombocyt|Trombocyt]]
+- [[Histologi/Blod/Granulocytgranula|Granulocytgranula]], [[Histologi/Blod/Lysozym|Lysozym]], [[Histologi/Blod/Heparin|Heparin]], [[Histologi/Blod/Histamin|Histamin]]
 
 Benmärg och hematopoes
-- [[Benmärg|Benmärg – översikt]]
-- [[Hematopoes Översikt|Hematopoes – översikt]]
-- [[Stomacell Benmärg|Stromaceller]], [[Hematopoetisk Stamcell|Hematopoetisk stamcell]]
-- [[Erytopoes|Erytopoes]]
-- Erytropoesstadier: [[Basofil Erytroblast|Basofil]], [[Polykromatisk Erytroblast|Polykromatisk]], [[Ortokromatisk Erytroblast|Ortokromatisk]], [[Retikulocyt|Retikulocyt]]
-- [[Granulopoes|Granulopoes]]
-- Granulopoesstadier: [[Myeloblast|Myeloblast]], [[Promyelocyt|Promyelocyt]], [[Myelocyt|Myelocyt]], [[Metamyelocyt|Metamyelocyt]], [[Bandcell|Bandcell]]
-- [[Monocytopoes|Monocytopoes]]
-- [[Lymfopoes|Lymfopoes]]
-- [[Trombopoes|Trombopoes]]
-- [[Megakaryocyt|Megakaryocyt]]
+- [[Histologi/Blod/Benmärg|Benmärg – översikt]]
+- [[Histologi/Blod/Hematopoes Översikt|Hematopoes – översikt]]
+- [[Histologi/Blod/Stomacell Benmärg|Stromaceller]], [[Histologi/Blod/Hematopoetisk Stamcell|Hematopoetisk stamcell]]
+- [[Histologi/Blod/Erytopoes|Erytopoes]]
+- Erytropoesstadier: [[Histologi/Blod/Basofil Erytroblast|Basofil]], [[Histologi/Blod/Polykromatisk Erytroblast|Polykromatisk]], [[Histologi/Blod/Ortokromatisk Erytroblast|Ortokromatisk]], [[Histologi/Blod/Retikulocyt|Retikulocyt]]
+- [[Histologi/Blod/Granulopoes|Granulopoes]]
+- Granulopoesstadier: [[Histologi/Blod/Myeloblast|Myeloblast]], [[Histologi/Blod/Promyelocyt|Promyelocyt]], [[Histologi/Blod/Myelocyt|Myelocyt]], [[Histologi/Blod/Metamyelocyt|Metamyelocyt]], [[Histologi/Blod/Bandcell|Bandcell]]
+- [[Histologi/Blod/Monocytopoes|Monocytopoes]]
+- [[Histologi/Blod/Lymfopoes|Lymfopoes]]
+- [[Histologi/Blod/Trombopoes|Trombopoes]]
+- [[Histologi/Blod/Megakaryocyt|Megakaryocyt]]
 
 Hemostas
-- [[Hemostas Primär|Hemostas – primär]]
-- [[Koagulation Sekundär|Koagulation – sekundär]]
-- [[Fibrinolys|Fibrinolys]]
+- [[Histologi/Blod/Hemostas Primär|Hemostas – primär]]
+- [[Histologi/Blod/Koagulation Sekundär|Koagulation – sekundär]]
+- [[Histologi/Blod/Fibrinolys|Fibrinolys]]
 
 Relaterat
-- [[Histologi/Ben/_Index_|Benbildning – översikt]]
+- [[Histologi/Ben/index|Benbildning – översikt]]

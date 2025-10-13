@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Glomerulus]]
-- [[Podocyt]]
+- [[Histologi/Njure/Glomerulus]]
+- [[Histologi/Njure/Podocyt]]
 - [[Basalmembran]]

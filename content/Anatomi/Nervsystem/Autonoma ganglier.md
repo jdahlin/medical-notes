@@ -4,7 +4,7 @@
 - **Intramurala**: parasympatiska ganglier i/ nära målorgan (plexus myentericus, submucosus).
 
 ### Histologi
-- Multipolära neuron med excentrisk kärna; mer oregelbundet arrangerade än [[Sensoriska ganglier|sensoriska ganglier]].  
+- Multipolära neuron med excentrisk kärna; mer oregelbundet arrangerade än [[Anatomi/Nervsystem/Sensoriska ganglier|sensoriska ganglier]].  
 - Färre satellitceller; neuroner åtskiljs av lucker bindväv och nervfiberbuntar.  
 - Pre- och postganglionära synapser med autonoma neurotransmittorer (ACh, NA, peptider).
 
@@ -19,8 +19,8 @@
 - Diabetisk neuropati kan påverka autonoma ganglier → gastropares, ortostatism.
 
 ### Relaterat
-- [[Organisation|PNS – organisation]]  
-- [[Nervi craniales|Parasympatiska kranialganglier]]  
+- [[Anatomi/Nervsystem/Organisation|PNS – organisation]]  
+- [[Anatomi/Nervsystem/Nervi craniales|Parasympatiska kranialganglier]]  
 - [[Histologi/Nervsystem/Satellitcell|Satellitcell]]  
 
 ---

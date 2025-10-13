@@ -8,6 +8,6 @@ Funktion
 - Värmeproduktion
 
 Relaterat
-- [[Vit Fettväv|vit fettväv]]
+- [[Histologi/Bindväv/Vit Fettväv|vit fettväv]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]
 

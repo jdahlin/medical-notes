@@ -5,4 +5,4 @@ Användning
 - Klinisk kemi (analys av lösta substanser utan störning av fibrinogen).
 
 Relaterat
-- [[Plasma|Plasma]]
+- [[Histologi/Blod/Plasma|Plasma]]

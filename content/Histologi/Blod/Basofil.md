@@ -12,4 +12,4 @@ Andel i blod
 - <1 % av leukocyter.
 
 Relaterat
-- [[Granulopoes|Granulopoes]]
+- [[Histologi/Blod/Granulopoes|Granulopoes]]

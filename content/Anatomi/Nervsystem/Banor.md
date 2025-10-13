@@ -23,9 +23,9 @@
 - Degeneration (ALS) drabbar både övre och nedre motorneuron.
 
 ### Relaterat
-- [[Medulla spinalis|Medulla spinalis]]  
-- [[Truncus encephali|Truncus encephali]]  
-- [[Telencephalon|Telencephalon]]  
-- [[Koppling PNS|Koppling till PNS]]  
+- [[Anatomi/Nervsystem/Medulla spinalis|Medulla spinalis]]  
+- [[Anatomi/Nervsystem/Truncus encephali|Truncus encephali]]  
+- [[Anatomi/Nervsystem/Telencephalon|Telencephalon]]  
+- [[Anatomi/Nervsystem/Koppling PNS|Koppling till PNS]]  
 
 ---

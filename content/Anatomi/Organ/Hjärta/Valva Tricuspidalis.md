@@ -2,8 +2,8 @@ Kort
 - AV‑klaff mellan höger förmak/kammare; tre segel; chordae tendineae till papillarmuskler.
 
 Relaterat
-- [[Ventriculus Dexter|Höger kammare]]
-- [[Atrium Dexter|Höger förmak]]
+- [[Anatomi/Organ/Hjärta/Ventriculus Dexter|Höger kammare]]
+- [[Anatomi/Organ/Hjärta/Atrium Dexter|Höger förmak]]
  
  Histologi
- - [[Klafflager Fibrosa|Fibrosa]] / [[Klafflager Spongiosa|Spongiosa]] / [[Klafflager Ventricularis|Ventricularis]] / [[Klafflager Atrialis|Atrialis]]
+ - [[Histologi/Hjärta/Klafflager Fibrosa|Fibrosa]] / [[Histologi/Hjärta/Klafflager Spongiosa|Spongiosa]] / [[Histologi/Hjärta/Klafflager Ventricularis|Ventricularis]] / [[Histologi/Hjärta/Klafflager Atrialis|Atrialis]]

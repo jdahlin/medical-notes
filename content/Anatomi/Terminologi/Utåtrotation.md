@@ -15,7 +15,7 @@
 - Rehabilitering inkluderar träning av utåtrotatorer för stabilitet.
 
 ### Relaterat
-- Motsats: [[Anatomi/Terminologi/Inåtrotation|Inåtrotation]]  
+- Motsats: [[Anatomi/Terminologi/Inåtrotation|Inåtrotation]]  
 - Kan kombineras med abduktion/adduktion för att beskriva komplexa rörelser.  
 - [[Anatomi/Terminologi/Rorelseplan Och Axlar|Rörelseplan och axlar]]  
 

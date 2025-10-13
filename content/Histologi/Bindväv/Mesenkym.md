@@ -8,6 +8,6 @@ Funktion
 - Stam/prekursorvävnad som ger upphov till bindväv, brosk, ben m.m.
 
 Relaterat
-- [[Gelatinös Bindväv|mukös bindväv]]
+- [[Histologi/Bindväv/Gelatinös Bindväv|mukös bindväv]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]
 

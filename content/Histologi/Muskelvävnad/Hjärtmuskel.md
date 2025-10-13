@@ -38,8 +38,8 @@ Se även [[Histologi/Hjärta/Retledningssystem|retledningssystemet]].
 - [[Histologi/Hjärta/Myoendokrina Celler (Hjärta)|Myoendokrina celler]] (framförallt i förmaken) utsöndrar ANF som reglerar blodtryck/volym.
 
 ### Relaterat
-- [[Målbeskrivning/AI-summeringar/Muskelvävnad|AI-sammanfattning – muskelvävnad]]  
-- [[Histologi/Hjärta/_Index_|Hjärta – histologi]]  
+- [[Målbeskrivning/AI-summeringar/Muskelvävnad|AI-sammanfattning – muskelvävnad]]  
+- [[Histologi/Hjärta/index|Hjärta – histologi]]  
 - [[Histologi/Muskelvävnad/Skelettmuskel|Skelettmuskel]]  
 - [[Histologi/Muskelvävnad/Glattmuskel|Glatt muskel]]  
 

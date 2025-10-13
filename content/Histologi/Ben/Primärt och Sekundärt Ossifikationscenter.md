@@ -5,6 +5,6 @@ Betydelse
 - Möjliggör samtidig tillväxt i längd (tillväxtplatta) och förbening.
 
 Relaterat
-- [[Endokondral Ossifikation|Endokondral ossifikation]]
-- [[Tillväxtplatta Zonindelning|Tillväxtplatta – zoner]]
+- [[Histologi/Ben/Endokondral Ossifikation|Endokondral ossifikation]]
+- [[Histologi/Ben/Tillväxtplatta Zonindelning|Tillväxtplatta – zoner]]
 

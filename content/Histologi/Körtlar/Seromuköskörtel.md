@@ -5,6 +5,6 @@ Exempel
 - Glandula submandibularis, vissa sublingualis‑delar.
 
 Relaterat
-- [[Seröskörtel|serös]]
-- [[Mukös Kortel|mukös]]
+- [[Histologi/Körtlar/Seröskörtel|serös]]
+- [[Histologi/Körtlar/Mukös Kortel|mukös]]
 

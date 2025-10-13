@@ -1,5 +1,5 @@
 ### Översikt
-- Tolv par nerver (I–XII) med ursprung i [[Truncus encephali|hjärnstam]] eller telencephalon (I, II).  
+- Tolv par nerver (I–XII) med ursprung i [[Anatomi/Nervsystem/Truncus encephali|hjärnstam]] eller telencephalon (I, II).  
 - Innehåller somatiska motoriska, branchiomotoriska, sensoriska och autonoma komponenter beroende på nerv.
 
 ### Exempel på nerver
@@ -18,8 +18,8 @@
 - Testas via lukt, synfält, ögonrörelser, ansiktssensorik, svalgreﬂex, tunga, axellyft etc.
 
 ### Relaterat
-- [[Autonoma ganglier|Autonoma ganglier]]  
+- [[Anatomi/Nervsystem/Autonoma ganglier|Autonoma ganglier]]  
 - [[Anatomi/Nervsystem/ANS|ANS]]  
-- [[Truncus encephali|Truncus encephali]]  
+- [[Anatomi/Nervsystem/Truncus encephali|Truncus encephali]]  
 
 ---

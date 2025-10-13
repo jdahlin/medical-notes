@@ -4,4 +4,4 @@
 - Producerar cytokiner (SCF, IL-7) och tillväxtfaktorer som reglerar hematopoies.  
 - Bygger hematopoetiska nischer tillsammans med osteoblaster, endotel och makrofager.
 
-Relaterat: [[Histologi/Blod/Benmärg|benmärg]], [[Histologi/Blod/Hematopoes Översikt|hematopoes]].
+Relaterat: [[Histologi/Blod/Benmärg|benmärg]], [[Histologi/Blod/Hematopoes Översikt|hematopoes]].

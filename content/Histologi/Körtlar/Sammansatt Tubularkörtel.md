@@ -5,5 +5,5 @@ Exempel
 - Brunners körtlar (duodenum).
 
 Relaterat
-- [[Sammansatt Tubuloacinarkörtel|sammansatt tubuloacinös]]
+- [[Histologi/Körtlar/Sammansatt Tubuloacinarkörtel|sammansatt tubuloacinös]]
 

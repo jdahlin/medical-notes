@@ -2,8 +2,8 @@ Kort
 - AV‑klaff mellan vänster förmak/kammare; två segel (bicuspidalis); chordae till två papillarmuskler.
 
 Relaterat
-- [[Ventriculus Sinister|Vänster kammare]]
-- [[Atrium Sinister|Vänster förmak]]
+- [[Anatomi/Organ/Hjärta/Ventriculus Sinister|Vänster kammare]]
+- [[Anatomi/Organ/Hjärta/Atrium Sinister|Vänster förmak]]
  
  Histologi
- - [[Klafflager Fibrosa|Fibrosa]] / [[Klafflager Spongiosa|Spongiosa]] / [[Klafflager Ventricularis|Ventricularis]] / [[Klafflager Atrialis|Atrialis]]
+ - [[Histologi/Hjärta/Klafflager Fibrosa|Fibrosa]] / [[Histologi/Hjärta/Klafflager Spongiosa|Spongiosa]] / [[Histologi/Hjärta/Klafflager Ventricularis|Ventricularis]] / [[Histologi/Hjärta/Klafflager Atrialis|Atrialis]]

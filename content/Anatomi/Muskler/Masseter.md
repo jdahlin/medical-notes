@@ -2,16 +2,16 @@
 AKA: m. masseter
 
 ## Ursprung
-- Arcus zygomaticus – [[Os Zygomaticum|os zygomaticum]]/[[Os Temporale|os temporale]]
+- Arcus zygomaticus – [[Anatomi/Ben/Os Zygomaticum|os zygomaticum]]/[[Anatomi/Ben/Os Temporale|os temporale]]
 
 ## Fäste
-- Angulus/ramus mandibulae – [[Mandibula|mandibula]]
+- Angulus/ramus mandibulae – [[Anatomi/Ben/Mandibula|mandibula]]
 
 ## Funktion
 - Käkled: kraftig elevation av mandibula
 
 ## Innervation
-- [[N Mandibularis V3|n. mandibularis (V3)]] (n. massetericus)
+- [[Anatomi/Nerver/N Mandibularis V3|n. mandibularis (V3)]] (n. massetericus)
 
 ## Relaterat
-- [[Käkled|käkled]]
+- [[Anatomi/Leder/Käkled|käkled]]

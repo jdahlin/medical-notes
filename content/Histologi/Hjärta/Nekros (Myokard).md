@@ -3,5 +3,5 @@ Kort
 
 Relaterat
 - [[Histologi/Hjärta/Myokardium|Myokardium]]
-- [[Histologi/Hjärta/_Index_|Hjärta – histologi]]
+- [[Histologi/Hjärta/index|Hjärta – histologi]]
 

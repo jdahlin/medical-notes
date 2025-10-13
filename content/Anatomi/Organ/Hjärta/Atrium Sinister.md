@@ -1,6 +1,6 @@
 Kort
-- Vänster förmak; tar emot syrerikt blod via fyra [[Venae Pulmonales|vv. pulmonales]]. Glatt vägg; aurikeln trabekulerad.
+- Vänster förmak; tar emot syrerikt blod via fyra [[Anatomi/Kärl/Venae Pulmonales|vv. pulmonales]]. Glatt vägg; aurikeln trabekulerad.
 
 Relaterat
-- [[Valva Mitralis|Valva mitralis]]
+- [[Anatomi/Organ/Hjärta/Valva Mitralis|Valva mitralis]]
 

@@ -3,13 +3,13 @@
 - Ala ossis ilii – [[Anatomi/Ben/Os Ilium|os ilium]]
 
 ## Fäste
-- Trochanter major – [[Femur|femur]]
+- Trochanter major – [[Anatomi/Ben/Femur|femur]]
 
 ## Funktion
 - Höft: abduktion; stabiliserar bäcken under gång; inåt/utåtrotation beroende på fibrer
 
 ## Innervation
-- [[N Gluteus Superior|n. gluteus superior]]
+- [[Anatomi/Nerver/N Gluteus Superior|n. gluteus superior]]
 
 ## Relaterat
-- [[Höftled|höftled]]
+- [[Anatomi/Leder/Höftled|höftled]]

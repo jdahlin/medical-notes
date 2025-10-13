@@ -14,5 +14,5 @@ Livslängd
 - 8–10 dagar; elimineras i mjälte.
 
 Relaterat
-- [[Trombopoes|Trombopoes]]
-- [[Hemostas Primär|Hemostas – primär]]
+- [[Histologi/Blod/Trombopoes|Trombopoes]]
+- [[Histologi/Blod/Hemostas Primär|Hemostas – primär]]

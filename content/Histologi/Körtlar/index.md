@@ -6,8 +6,8 @@ title: Körtlar – översikt
 
 
 Klassificering
-- Sekretionssätt: [[Merokrin sekretion|merokrin]], [[Apokrin sekretion|apokrin]], [[Holokrin sekretion|holokrin]].
-- Sekretets natur: [[Seröskörtel|serös]], [[Mukös Kortel|mukös]], [[Seromuköskörtel|seromukös]].
-- Duct-/ändstyckearkitektur: [[Enkel Tubularkörtel|enkel tubulär]], [[Förgrenad Tubular Körtel|förgrenad tubulär]], [[Slingrad Tubularkörtel|slingrad tubulär]], [[Enkel Acinus|enkel acinös]], [[Förgrenad Acinus|förgrenad acinös]], [[Sammansatt Tubularkörtel|sammansatt tubulär]], [[Sammansatt Tubuloacinarkörtel|sammansatt tubuloacinös]].
-- Särfall: [[Bägarcell|bägarcell (unicellulär exokrin)]].
-- Endokrin arkitektur: [[Endokrin Follikulär Typ|follikulär (thyroidea)]], [[Endokrin strängtyp|strängtyp (cordonal)]].
+- Sekretionssätt: [[Histologi/Körtlar/Merokrin sekretion|merokrin]], [[Histologi/Körtlar/Apokrin sekretion|apokrin]], [[Histologi/Körtlar/Holokrin sekretion|holokrin]].
+- Sekretets natur: [[Histologi/Körtlar/Seröskörtel|serös]], [[Histologi/Körtlar/Mukös Kortel|mukös]], [[Histologi/Körtlar/Seromuköskörtel|seromukös]].
+- Duct-/ändstyckearkitektur: [[Histologi/Körtlar/Enkel Tubularkörtel|enkel tubulär]], [[Histologi/Körtlar/Förgrenad Tubular Körtel|förgrenad tubulär]], [[Histologi/Körtlar/Slingrad Tubularkörtel|slingrad tubulär]], [[Histologi/Körtlar/Enkel Acinus|enkel acinös]], [[Histologi/Körtlar/Förgrenad Acinus|förgrenad acinös]], [[Histologi/Körtlar/Sammansatt Tubularkörtel|sammansatt tubulär]], [[Histologi/Körtlar/Sammansatt Tubuloacinarkörtel|sammansatt tubuloacinös]].
+- Särfall: [[Histologi/Körtlar/Bägarcell|bägarcell (unicellulär exokrin)]].
+- Endokrin arkitektur: [[Histologi/Körtlar/Endokrin Follikulär Typ|follikulär (thyroidea)]], [[Histologi/Körtlar/Endokrin strängtyp|strängtyp (cordonal)]].

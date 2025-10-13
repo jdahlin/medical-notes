@@ -5,6 +5,6 @@ Kännetecken
 - Förgrenade celler, tvärstrimmighet, intercalated discs (fascia adherens, desmosomer, gap junctions).
 
 Relaterat
-- [[Nodus Sinuatrialis|SA‑knutan]], [[Nodus Atrioventricularis|AV‑knutan]], [[His Bunt|His bunt]], [[Purkinjefibrer|Purkinjefibrer]]
-- [[Endokardium|Endokardium]], [[Epikardium|Epikardium]]
+- [[Anatomi/Organ/Hjärta/Nodus Sinuatrialis|SA‑knutan]], [[Anatomi/Organ/Hjärta/Nodus Atrioventricularis|AV‑knutan]], [[Histologi/Hjärta/His Bunt|His bunt]], [[Histologi/Hjärta/Purkinjefibrer|Purkinjefibrer]]
+- [[Histologi/Hjärta/Endokardium|Endokardium]], [[Histologi/Hjärta/Epikardium|Epikardium]]
 

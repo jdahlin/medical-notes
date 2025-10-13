@@ -7,7 +7,7 @@
 - Omgivande astrocytära utskott bildar tripartit synaps och reglerar neurotransmittor-clearance via [[Histologi/Nervsystem/Astrocyt|astrocyter]].
 
 ### Synapstyper
-- **Axodendritiska** – vanligast, ofta på [[Dendrit#Dendritiska-spines|dendritiska spines]].  
+- **Axodendritiska** – vanligast, ofta på [[Histologi/Nervsystem/Dendrit#Dendritiska-spines|dendritiska spines]].  
 - **Axosomatiska** – stark inhibitorisk påverkan direkt på [[Histologi/Nervsystem/Soma|soma]].  
 - **Axoaxonala** – modulera presynaptisk frisättning (t.ex. i ryggmärgens grindteori).  
 - Elektriska synapser (gap junctions) förekommer i snabb synkronisering men är mer sällsynta i vuxen CNS.

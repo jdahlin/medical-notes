@@ -2,7 +2,7 @@ Typ
 - Muskulär artär
 
 Ursprung
-- Terminal gren av [[Arteria Poplitea|a. poplitea]]
+- Terminal gren av [[Anatomi/Kärl/Arteria Poplitea|a. poplitea]]
 
 Förlopp
 - Löper i djupa bakre kompartment; passerar bakom malleolus medialis; delar sig i foten

@@ -14,5 +14,5 @@ Försörjer
 - Främre kompartment i överarmen (via grenar), bidrar till underarm via a. radialis/ulnaris
 
 Relaterat
-- [[Biceps Brachii|Biceps brachii]]
-- [[Humerus|Humerus]]
+- [[Anatomi/Muskler/Biceps Brachii|Biceps brachii]]
+- [[Anatomi/Ben/Humerus|Humerus]]

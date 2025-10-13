@@ -2,7 +2,7 @@ Typ
 - Venöst sinus (hjärtats dränagesystem)
 
 Mynnar i
-- [[Atrium Dexter|Höger förmak]]
+- [[Anatomi/Organ/Hjärta/Atrium Dexter|Höger förmak]]
 
 Förlopp
 - Löper i hjärtats bakre del av sulcus coronarius mellan förmak och kammare

@@ -1,17 +1,17 @@
 ![[Pasted image 20251010135008.png|400]]
 Kännetecken
 - Ett kapillär nystan mellan afferent och efferent arteriol.
-- Inkapslad av [[Bowmans kapsel]]
-- Här sker filtration över [[Blodfiltrationsbarriär|blodfiltrationsbarriären]].
+- Inkapslad av [[Histologi/Njure/Bowmans kapsel]]
+- Här sker filtration över [[Histologi/Njure/Blodfiltrationsbarriär|blodfiltrationsbarriären]].
 
 Vanliga lokaler
-- I [[Njurbark|njurbarken]], innuti [[Bowmans kapsel]] som syns som runda strukturer.
+- I [[Histologi/Njure/Njurbark|njurbarken]], innuti [[Histologi/Njure/Bowmans kapsel]] som syns som runda strukturer.
 
 Funktion
 - Utför primära blodfiltrationen och ger upphov till primärurin.
 
 Relaterat
-- [[Nefron]]
-- [[Bowmans kapsel]]
-- [[Mesangiell cell]]
-- [[Blodfiltrationsbarriär]]
+- [[Histologi/Njure/Nefron]]
+- [[Histologi/Njure/Bowmans kapsel]]
+- [[Histologi/Njure/Mesangiell cell]]
+- [[Histologi/Njure/Blodfiltrationsbarriär]]

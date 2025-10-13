@@ -5,7 +5,7 @@ All rörelseutgångar definieras från [[Anatomi/Terminologi/Anatomisk Grundstä
 - [[Anatomi/Terminologi/Flexion|Flexion]] / [[Anatomi/Terminologi/Extension|Extension]]
 - [[Anatomi/Terminologi/Abduktion|Abduktion]] / [[Anatomi/Terminologi/Adduktion|Adduktion]]
 - [[Anatomi/Terminologi/Lateralflexion|Lateralflexion]]
-- [[Anatomi/Terminologi/Inåtrotation|Inåtrotation]] / [[Anatomi/Terminologi/Utåtrotation|Utåtrotation]]
+- [[Anatomi/Terminologi/Inåtrotation|Inåtrotation]] / [[Anatomi/Terminologi/Utåtrotation|Utåtrotation]]
 - [[Anatomi/Terminologi/Palmarflexion|Palmarflexion]] / [[Anatomi/Terminologi/Dorsalflexion|Dorsalflexion]] (handled)
 - [[Anatomi/Terminologi/Plantarflexion|Plantarflexion]] / [[Anatomi/Terminologi/Dorsalflexion|Dorsalflexion]] (fotled)
 - [[Anatomi/Terminologi/Inversion|Inversion]] / [[Anatomi/Terminologi/Eversion|Eversion]]

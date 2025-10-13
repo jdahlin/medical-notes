@@ -5,5 +5,5 @@ Förekomst
 - Vävnadsben: foster, frakturläkning. Lamellärt: moget ben, ersätter woven.
 
 Relaterat
-- [[Intramembranös Ossifikation|Intramembranös]] / [[Endokondral Ossifikation|Endokondral]]
+- [[Histologi/Ben/Intramembranös Ossifikation|Intramembranös]] / [[Histologi/Ben/Endokondral Ossifikation|Endokondral]]
 

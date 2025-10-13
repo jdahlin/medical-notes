@@ -10,5 +10,5 @@ Funktion
 - Sträckbar barriär som tål urinens miljö.
 
 Relaterat
-- [[Histologi/Epitel/_Index_|Epitel – översikt]]
+- [[Histologi/Epitel/index|Epitel – översikt]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]

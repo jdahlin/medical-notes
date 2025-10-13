@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Njurmärg]]
-- [[Efferent arteriol]]
-- [[Henles slynga]]
+- [[Histologi/Njure/Njurmärg]]
+- [[Histologi/Njure/Efferent arteriol]]
+- [[Histologi/Njure/Henles slynga]]

@@ -1,8 +1,8 @@
 Kort
-- Strukturell enhet i kompakt ben: koncentriska lameller kring [[Haversk Kanal|Haversk kanal]]; [[Volkmanns Kanal|Volkmanns kanaler]] mellan osteon.
+- Strukturell enhet i kompakt ben: koncentriska lameller kring [[Histologi/Ben/Haversk Kanal|Haversk kanal]]; [[Histologi/Ben/Volkmanns Kanal|Volkmanns kanaler]] mellan osteon.
 
 Kännetecken
-- [[Osteocyt|Osteocyter]] i [[Lakuner|lakuner]] med [[Canaliculi|canaliculi]]; cementlinjer markerar remodelleringsgränser.
+- [[Histologi/Ben/Osteocyt|Osteocyter]] i [[Histologi/Ben/Lakuner|lakuner]] med [[Histologi/Ben/Canaliculi|canaliculi]]; cementlinjer markerar remodelleringsgränser.
 
 Relaterat
-- [[Kompakt vs Spongiöst Ben|Kompakt vs spongiöst]]
+- [[Histologi/Ben/Kompakt vs Spongiöst Ben|Kompakt vs spongiöst]]

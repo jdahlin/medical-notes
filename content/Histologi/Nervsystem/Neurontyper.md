@@ -11,7 +11,7 @@
 - **Interneuron** – kopplar samman neuron i lokala nätverk; kan vara excitatoriska (glutamat) eller inhibitoriska (GABA, glycin).
 
 ### Mikroanatomiska särdrag
-- Motorneuron i ryggmärgens ventralhorn har [[Histologi/Nervsystem/Soma|stora somata]] och välutvecklade [[Dendrit|dendritträd]].  
+- Motorneuron i ryggmärgens ventralhorn har [[Histologi/Nervsystem/Soma|stora somata]] och välutvecklade [[Histologi/Nervsystem/Dendrit|dendritträd]].  
 - Sensoriska neuron i ganglier omges av satellitceller och saknar synapser inom gangliet.  
 - Interneuron uppvisar korta axon (Golgi typ II) och verkar inom specifika laminära kretsar.
 

@@ -5,6 +5,6 @@ Exempel
 - Parotis (gl. parotidea), pankreas (exokrint).
 
 Relaterat
-- [[Mukös Kortel|mukös]]
-- [[Seromuköskörtel|seromukös]]
+- [[Histologi/Körtlar/Mukös Kortel|mukös]]
+- [[Histologi/Körtlar/Seromuköskörtel|seromukös]]
 

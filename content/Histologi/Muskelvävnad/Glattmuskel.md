@@ -26,9 +26,9 @@
 - Kliniskt: leiomyom (benign tumör), leiomyosarkom, ateroskleros (glatta muskelceller i intiman).
 
 ### Relaterat
-- [[Målbeskrivning/AI-summeringar/Muskelvävnad|AI-sammanfattning – muskelvävnad]]  
+- [[Målbeskrivning/AI-summeringar/Muskelvävnad|AI-sammanfattning – muskelvävnad]]  
 - [[Histologi/Muskelvävnad/Skelettmuskel|Skelettmuskel]]  
 - [[Histologi/Muskelvävnad/Hjärtmuskel|Hjärtmuskel och hjärta]]  
-- [[Målbeskrivning/2.6 Histologi Muskelvävnad och Hjärta|Målbeskrivning 2.6]]  
+- [[Målbeskrivning/2.6 Histologi Muskelvävnad och Hjärta|Målbeskrivning 2.6]]  
 
 ---

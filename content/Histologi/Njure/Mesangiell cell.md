@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Glomerulus]]
-- [[Juxtaglomerulär apparat]]
-- [[Nefron]]
+- [[Histologi/Njure/Glomerulus]]
+- [[Histologi/Njure/Juxtaglomerulär apparat]]
+- [[Histologi/Njure/Nefron]]

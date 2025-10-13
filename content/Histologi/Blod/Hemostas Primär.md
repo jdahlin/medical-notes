@@ -5,5 +5,5 @@ Nyckelkomponenter
 - Endotel, vWF, trombocytreceptorer, kollagenexponering.
 
 Relaterat
-- [[Trombocyt|Trombocyt]]
-- [[Koagulation Sekundär|Koagulation – sekundär]]
+- [[Histologi/Blod/Trombocyt|Trombocyt]]
+- [[Histologi/Blod/Koagulation Sekundär|Koagulation – sekundär]]

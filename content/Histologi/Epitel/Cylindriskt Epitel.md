@@ -19,8 +19,8 @@
 - Förekommer i vissa övergångszoner och större utförsgångar; ger extra skydd.
 
 ## Relaterat
-- [[Flerradigt Epitel]]
-- [[Flerskiktat Epitel]]
-- [[Enkelt Epitel]]
-- [[Respirationsvägsepitel]]
+- [[Histologi/Epitel/Flerradigt Epitel]]
+- [[Histologi/Epitel/Flerskiktat Epitel]]
+- [[Histologi/Epitel/Enkelt Epitel]]
+- [[Histologi/Epitel/Respirationsvägsepitel]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]

@@ -4,8 +4,8 @@ Kännetecken
 - Enskiktat, platta celler med tillplattade kärnor; mycket tunt.
 
 Vanliga lokaler
-- Endotel (kärl, hjärta) – se [[Endotel|endotel]].
-- Mesotel (pleura, peritoneum, perikard) – se [[Mesotel|mesotel]].
+- Endotel (kärl, hjärta) – se [[Histologi/Epitel/Endotel|endotel]].
+- Mesotel (pleura, peritoneum, perikard) – se [[Histologi/Epitel/Mesotel|mesotel]].
 - Alveoler i lunga
 - Bowmans kapsel (parietalt blad).
 

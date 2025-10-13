@@ -1,11 +1,11 @@
 Ben
-- [[Scapula|scapula]] (cavitas glenoidalis)
-- [[Humerus|humerus]] (caput humeri)
+- [[Anatomi/Ben/Scapula|scapula]] (cavitas glenoidalis)
+- [[Anatomi/Ben/Humerus|humerus]] (caput humeri)
 
 Relaterade muskler
-- [[Deltoideus|deltoideus]]
-- [[Latissimus Dorsi|latissimus dorsi]]
-- [[Pectoralis Major|pectoralis major]]
-- [[Trapezius|trapezius]] (scapulär rytm)
-- [[Biceps Brachii|biceps brachii]] (caput longum stabiliserar)
-- [[Triceps Brachii|triceps brachii]] (caput longum)
+- [[Anatomi/Muskler/Deltoideus|deltoideus]]
+- [[Anatomi/Muskler/Latissimus Dorsi|latissimus dorsi]]
+- [[Anatomi/Muskler/Pectoralis Major|pectoralis major]]
+- [[Anatomi/Muskler/Trapezius|trapezius]] (scapulär rytm)
+- [[Anatomi/Muskler/Biceps Brachii|biceps brachii]] (caput longum stabiliserar)
+- [[Anatomi/Muskler/Triceps Brachii|triceps brachii]] (caput longum)

@@ -2,7 +2,7 @@ Typ
 - Stor ven
 
 Mynnar i
-- [[Venae Brachiocephalicae|V. brachiocephalica]]
+- [[Anatomi/Kärl/Venae Brachiocephalicae|V. brachiocephalica]]
 
 Förlopp
 - Från laterala kanten av första revbenet under clavicula till sammanflödet med v. jugularis interna

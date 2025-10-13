@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Distala tubulus]]
-- [[Juxtaglomerulär apparat]]
-- [[Afferent arteriol]]
+- [[Histologi/Njure/Distala tubulus]]
+- [[Histologi/Njure/Juxtaglomerulär apparat]]
+- [[Histologi/Njure/Afferent arteriol]]

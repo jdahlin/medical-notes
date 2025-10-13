@@ -6,5 +6,5 @@ Linjer
 - Lymfoid: B-, T- och NK-celler.
 
 Relaterat
-- [[Erytopoes|Erytopoes]] / [[Trombopoes|Trombopoes]]
-- [[Granulopoes|Granulopoes]] / [[Monocytopoes|Monocytopoes]] / [[Lymfopoes|Lymfopoes]]
+- [[Histologi/Blod/Erytopoes|Erytopoes]] / [[Histologi/Blod/Trombopoes|Trombopoes]]
+- [[Histologi/Blod/Granulopoes|Granulopoes]] / [[Histologi/Blod/Monocytopoes|Monocytopoes]] / [[Histologi/Blod/Lymfopoes|Lymfopoes]]

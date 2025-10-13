@@ -1,16 +1,16 @@
 ![[Pasted image 20251010141529.png|500]]
 Kännetecken
-- Ser ut som en körtel med [[Enkelt Kubiskt Epitel]] och [[mikrovilli]] mot lumen.
+- Ser ut som en körtel med [[Histologi/Epitel/Enkelt Kubiskt Epitel]] och [[Anatomi/Organ/GI/Mikrovilli]] mot lumen.
 - Cytoplasman är ensinofil (rosa i H&E) med otydliga cellgränser.
 
 Vanliga lokaler
-- I [[Njurbark]] direkt ansluten till [[Bowmans kapsel]].
+- I [[Histologi/Njure/Njurbark]] direkt ansluten till [[Histologi/Njure/Bowmans kapsel]].
 
 Funktion
 - Absorverar vatten, glukos, aminosyror och elektrolyter från primärurin. 
-- Tar emot filtrerad primärurin från [[Bowmans kapsel]] och skickar det vidare till [[Henles slynga]] proximalt mot [[Benmärg]]
+- Tar emot filtrerad primärurin från [[Histologi/Njure/Bowmans kapsel]] och skickar det vidare till [[Histologi/Njure/Henles slynga]] proximalt mot [[Histologi/Blod/Benmärg]]
 
 Relaterat
-- [[Nefron]]
-- [[Henles slynga]]
-- [[Enkelt Kubiskt Epitel]]
+- [[Histologi/Njure/Nefron]]
+- [[Histologi/Njure/Henles slynga]]
+- [[Histologi/Epitel/Enkelt Kubiskt Epitel]]

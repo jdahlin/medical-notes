@@ -9,6 +9,6 @@ Funktion
 - Transport av innehåll (ägg, slem/partiklar) via cilier.
 
 Relaterat
-- [[Flerradigt Cylinderepitel Cilierat|flerradigt cilierat (respirationsvägsepitel)]]
+- [[Histologi/Epitel/Flerradigt Cylinderepitel Cilierat|flerradigt cilierat (respirationsvägsepitel)]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]
 

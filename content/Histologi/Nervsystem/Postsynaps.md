@@ -3,7 +3,7 @@
 ### Struktur
 - Membrandomän på mottagande neuron (eller muskel/körtel) som innehåller specialiserade receptorer och signalproteiner.  
 - Postsynaptiska densiteten (PSD) består av scaffold-proteiner som PSD-95, Homer, Shank och ankyriner som organiserar receptorer.  
-- Under membranet finns cytoskelett (aktin, spectrin) som stabiliserar [[Dendrit|dendritiska spines]].
+- Under membranet finns cytoskelett (aktin, spectrin) som stabiliserar [[Histologi/Nervsystem/Dendrit|dendritiska spines]].
 
 ### Receptorer
 - **Jonotropa**: snabba responskanaler (AMPA, NMDA, GABA-A, glycin).  

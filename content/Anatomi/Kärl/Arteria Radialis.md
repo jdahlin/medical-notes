@@ -2,7 +2,7 @@ Typ
 - Muskulär artär
 
 Ursprung
-- Terminal gren av [[Arteria Brachialis|a. brachialis]] i fossa cubiti
+- Terminal gren av [[Anatomi/Kärl/Arteria Brachialis|a. brachialis]] i fossa cubiti
 
 Förlopp
 - Laterala underarmen; ytlig vid handled (puls); bidrar till arcus palmaris profundus

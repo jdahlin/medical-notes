@@ -9,6 +9,6 @@ Funktioner
 - Förankring av epitel (hemidesmosomer, integriner), filtrering (särskilt i glomerulus), barriär, vävnadsarkitektur och regeneration.
 
 Relaterat
-- [[Cellkontakter|Cellkontakter]] (hemidesmosomer/fokala adhesioner)
-- [[Endotel|Endotel]] (kärlens basalmembran)
-- [[Mesotel|Mesotel]]
+- [[Histologi/Epitel/Cellkontakter|Cellkontakter]] (hemidesmosomer/fokala adhesioner)
+- [[Histologi/Epitel/Endotel|Endotel]] (kärlens basalmembran)
+- [[Histologi/Epitel/Mesotel|Mesotel]]

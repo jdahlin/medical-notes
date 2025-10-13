@@ -23,8 +23,8 @@
 - Degenerativa myelopatier (vitamin B12-brist, MS) påverkar specifika banor.
 
 ### Relaterat
-- [[Banor|Uppåt- och nedåtgående banor]]  
-- [[Nervi spinales|Nervi spinales]]  
-- [[Hjärnhinnor och ventriklar|Hjärnhinnor och ventriklar]]  
+- [[Anatomi/Nervsystem/Banor|Uppåt- och nedåtgående banor]]  
+- [[Anatomi/Nervsystem/Nervi spinales|Nervi spinales]]  
+- [[Anatomi/Nervsystem/Hjärnhinnor och ventriklar|Hjärnhinnor och ventriklar]]  
 
 ---

@@ -1,11 +1,11 @@
 Ben
-- [[Femur|femur]]
-- [[Tibia|tibia]]
-- [[Fibula|fibula]] (ledhuvud proximalt)
+- [[Anatomi/Ben/Femur|femur]]
+- [[Anatomi/Ben/Tibia|tibia]]
+- [[Anatomi/Ben/Fibula|fibula]] (ledhuvud proximalt)
 
 Relaterade muskler
-- [[Quadriceps Femoris|quadriceps femoris]]
-- [[Biceps Femoris|biceps femoris]]
-- [[Semitendinosus|semitendinosus]]
-- [[Semimembranosus|semimembranosus]]
-- [[Triceps Surae|triceps surae]] (gastrocnemius)
+- [[Anatomi/Muskler/Quadriceps Femoris|quadriceps femoris]]
+- [[Anatomi/Muskler/Biceps Femoris|biceps femoris]]
+- [[Anatomi/Muskler/Semitendinosus|semitendinosus]]
+- [[Anatomi/Muskler/Semimembranosus|semimembranosus]]
+- [[Anatomi/Muskler/Triceps Surae|triceps surae]] (gastrocnemius)

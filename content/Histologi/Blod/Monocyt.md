@@ -11,4 +11,4 @@ Andel i blod
 - 2–8 % av leukocyter.
 
 Relaterat
-- [[Monocytopoes|Monocytopoes]]
+- [[Histologi/Blod/Monocytopoes|Monocytopoes]]

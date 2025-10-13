@@ -8,6 +8,6 @@ Funktion
 - Stöd, diffusion, immunförsvar, flexibel förskjutning mellan vävnader.
 
 Relaterat
-- [[Retikulär Bindväv|retikulär bindväv]]
+- [[Histologi/Bindväv/Retikulär Bindväv|retikulär bindväv]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]
 

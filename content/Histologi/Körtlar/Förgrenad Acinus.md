@@ -5,6 +5,6 @@ Exempel
 - Talgkörtlar (holokrin), pyloriska körtlar (delvis alveolära).
 
 Relaterat
-- [[Enkel Acinus|enkel acinös]]
-- [[Sammansatt Tubuloacinarkörtel|sammansatt tubuloacinös]]
+- [[Histologi/Körtlar/Enkel Acinus|enkel acinös]]
+- [[Histologi/Körtlar/Sammansatt Tubuloacinarkörtel|sammansatt tubuloacinös]]
 

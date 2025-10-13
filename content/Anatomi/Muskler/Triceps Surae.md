@@ -3,8 +3,8 @@
 AKA: m. gastrocnemius + m. soleus
 
 ## Ursprung
-- Gastrocnemius: condyli femoris – [[Femur|femur]]
-- Soleus: tibia/fibula – [[Tibia|tibia]], [[Fibula|fibula]]
+- Gastrocnemius: condyli femoris – [[Anatomi/Ben/Femur|femur]]
+- Soleus: tibia/fibula – [[Anatomi/Ben/Tibia|tibia]], [[Anatomi/Ben/Fibula|fibula]]
 
 ## Fäste
 - Via achillessenan till tuber calcanei – [[Anatomi/Ben/Calcaneus|calcaneus]]
@@ -13,8 +13,8 @@ AKA: m. gastrocnemius + m. soleus
 - Plantarflexion i fotled; gastrocnemius även knäflexion
 
 ## Innervation
-- [[N Tibialis|n. tibialis]]
+- [[Anatomi/Nerver/N Tibialis|n. tibialis]]
 
 ## Relaterat
-- [[Fotled|fotled]]
-- [[Knäled|knäled]] (gastrocnemius)
+- [[Anatomi/Leder/Fotled|fotled]]
+- [[Anatomi/Leder/Knäled|knäled]] (gastrocnemius)

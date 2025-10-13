@@ -21,8 +21,8 @@
 - Kranialnervsutfall lokaliserar skador.
 
 ### Relaterat
-- [[Cerebellum|Cerebellum]]  
-- [[Banor|Uppåt- och nedåtgående banor]]  
-- [[Nervi craniales|Nervi craniales]]  
+- [[Anatomi/Nervsystem/Cerebellum|Cerebellum]]  
+- [[Anatomi/Nervsystem/Banor|Uppåt- och nedåtgående banor]]  
+- [[Anatomi/Nervsystem/Nervi craniales|Nervi craniales]]  
 
 ---

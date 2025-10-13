@@ -20,7 +20,7 @@
 
 ### Relaterat
 - [[Histologi/Nervsystem/Myelin och axonal transport|Myelin och axonal transport]]  
-- [[Nervi spinales|Nervi spinales]]  
-- [[Blod-nerv-barriär|Blod–nerv-barriär]]  
+- [[Anatomi/Nervsystem/Nervi spinales|Nervi spinales]]  
+- [[Anatomi/Nervsystem/Blod-nerv-barriär|Blod–nerv-barriär]]  
 
 ---

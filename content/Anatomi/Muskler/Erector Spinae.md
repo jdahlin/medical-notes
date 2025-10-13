@@ -2,10 +2,10 @@
 AKA: m. erector spinae (iliocostalis, longissimus, spinalis)
 
 ## Ursprung
-- [[Sacrum|sacrum]], crista iliaca på [[Anatomi/Ben/Os Ilium|os ilium]] samt lumbala processus spinosi på [[Vertebra Lumbalis|vertebrae lumbales]]
+- [[Anatomi/Ben/Sacrum|sacrum]], crista iliaca på [[Anatomi/Ben/Os Ilium|os ilium]] samt lumbala processus spinosi på [[Anatomi/Ben/Vertebra Lumbalis|vertebrae lumbales]]
 
 ## Fäste
-- [[Costae|revben]] och processus transversi/spinosi längs [[Vertebra Thoracalis|thorakala]] och [[Vertebra Cervicalis|cervikala]] kotor
+- [[Anatomi/Ben/Costae|revben]] och processus transversi/spinosi längs [[Anatomi/Ben/Vertebra Thoracalis|thorakala]] och [[Anatomi/Ben/Vertebra Cervicalis|cervikala]] kotor
 
 ## Funktion
 - Bilateral extension, unilateral lateralflexion av ryggraden
@@ -14,4 +14,4 @@ AKA: m. erector spinae (iliocostalis, longissimus, spinalis)
 - Dorsala spinalnerver (segmentellt)
 
 ## Relaterat
-- [[Ryggrad Mellankotsleder|ryggradens mellankotsleder]]
+- [[Anatomi/Leder/Ryggrad Mellankotsleder|ryggradens mellankotsleder]]

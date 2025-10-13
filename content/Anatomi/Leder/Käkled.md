@@ -1,7 +1,7 @@
 Ben
-- [[Os Temporale|os temporale]]
-- [[Mandibula|mandibula]]
+- [[Anatomi/Ben/Os Temporale|os temporale]]
+- [[Anatomi/Ben/Mandibula|mandibula]]
 
 Relaterade muskler
-- [[Temporalis|temporalis]]
-- [[Masseter|masseter]]
+- [[Anatomi/Muskler/Temporalis|temporalis]]
+- [[Anatomi/Muskler/Masseter|masseter]]

@@ -11,6 +11,6 @@ Funktion
 - Endokrin (t.ex. leptin).
 
 Relaterat
-- [[Brun Fettväv|brun fettväv]]
+- [[Histologi/Bindväv/Brun Fettväv|brun fettväv]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]
 

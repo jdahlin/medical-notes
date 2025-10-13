@@ -2,9 +2,9 @@
 ![[Pasted image 20251009195041.png]]
 
 ## Ursprung
-- Sternalt: processus xiphoideus – [[Sternum|sternum]]
-- Costalt: inre ytor av [[Costae|costae]] 7–12
-- Lumbalt: crura från corpus [[Vertebra Lumbalis|L1–L3]]
+- Sternalt: processus xiphoideus – [[Anatomi/Ben/Sternum|sternum]]
+- Costalt: inre ytor av [[Anatomi/Ben/Costae|costae]] 7–12
+- Lumbalt: crura från corpus [[Anatomi/Ben/Vertebra Lumbalis|L1–L3]]
 
 ## Fäste
 Centrum tendineum (senplatta, ej benfäste)
@@ -16,4 +16,4 @@ Centrum tendineum (senplatta, ej benfäste)
 - N. phrenicus (C3–C5) – (ej egen sida ännu)
 
 ## Relaterat
-- [[Intercostales Externi|intercostales externi]]
+- [[Anatomi/Muskler/Intercostales Externi|intercostales externi]]

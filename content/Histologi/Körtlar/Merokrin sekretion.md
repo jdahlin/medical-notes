@@ -5,6 +5,6 @@ Exempel
 - Spottkörtlar, pankreas exokrina del, majoriteten svettkörtlar (ekkrina).
 
 Relaterat
-- [[Apokrin sekretion|apokrin]]
-- [[Holokrin sekretion|holokrin]]
+- [[Histologi/Körtlar/Apokrin sekretion|apokrin]]
+- [[Histologi/Körtlar/Holokrin sekretion|holokrin]]
 

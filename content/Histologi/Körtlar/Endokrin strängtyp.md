@@ -5,4 +5,4 @@ Exempel
 - Adenohypofysen, binjurebarken, parathyroidea (delvis).
 
 Relaterat
-- [[Endokrin Follikulär Typ|endokrin – follikulär]]
+- [[Histologi/Körtlar/Endokrin Follikulär Typ|endokrin – follikulär]]

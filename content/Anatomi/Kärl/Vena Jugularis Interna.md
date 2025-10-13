@@ -2,7 +2,7 @@ Typ
 - Stor ven
 
 Mynnar i
-- [[Venae Brachiocephalicae|V. brachiocephalica]] (respektive sida)
+- [[Anatomi/Kärl/Venae Brachiocephalicae|V. brachiocephalica]] (respektive sida)
 
 Förlopp
 - Från foramen jugulare längs halsen inom vagina carotica; förenas med v. subclavia

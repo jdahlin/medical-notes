@@ -1,3 +1,3 @@
 Kort
-- Innerverar främre underbenskompartment inkl. [[Tibialis Anterior|tibialis anterior]].
+- Innerverar främre underbenskompartment inkl. [[Anatomi/Muskler/Tibialis Anterior|tibialis anterior]].
 

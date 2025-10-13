@@ -7,8 +7,8 @@ Kännetecken
 - Spolformad cell med avlång, ljus kärna; mycket RER/Golgi vid aktiv syntes; kan bli inaktiv (fibrocyt).
 
 Funktion
-- Syntes av [[Kollagen|kollagen]]/[[Kollagensyntes|kollagensyntes]], [[Grundsubstans|grundsubstans]] och [[Fibrer i Bindväv|fibrer]].
+- Syntes av [[Histologi/Bindväv/Kollagen|kollagen]]/[[Histologi/Bindväv/Kollagensyntes|kollagensyntes]], [[Histologi/Bindväv/Grundsubstans|grundsubstans]] och [[Histologi/Bindväv/Fibrer i Bindväv|fibrer]].
 
 Relaterat
-- [[Myofibroblast|Myofibroblast]]
+- [[Histologi/Bindväv/Myofibroblast|Myofibroblast]]
 

@@ -15,5 +15,5 @@
 ## Relaterat
 - [[Histologi/Epitel/Cylindriskt Epitel|Cylindriskt epitel]]
 - [[Histologi/Epitel/Flerskiktat Epitel|Flerskiktat epitel]]
-- [[Histologi/Epitel/Respirationsvägsepitel|Respirationsvägsepitel]]
+- [[Histologi/Epitel/Respirationsvägsepitel|Respirationsvägsepitel]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]

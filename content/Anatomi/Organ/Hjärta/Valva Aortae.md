@@ -1,11 +1,11 @@
 sv: aortaklaffen
 
 Kort
-- Fickklaff mot [[Aorta Ascendens|aorta]]; tre cuspar; sinus aortae ger upphov till kranskärl.
+- Fickklaff mot [[Anatomi/Kärl/Aorta Ascendens|aorta]]; tre cuspar; sinus aortae ger upphov till kranskärl.
 
 Relaterat
-- [[Ventriculus Sinister|Vänster kammare]]
-- [[Arteria Coronaria Dextra|A. coronaria dextra]], [[Arteria Coronaria Sinistra|A. coronaria sinistra]]
+- [[Anatomi/Organ/Hjärta/Ventriculus Sinister|Vänster kammare]]
+- [[Anatomi/Kärl/Arteria Coronaria Dextra|A. coronaria dextra]], [[Anatomi/Kärl/Arteria Coronaria Sinistra|A. coronaria sinistra]]
  
  Histologi
- - [[Klafflager Fibrosa|Fibrosa]] / [[Klafflager Spongiosa|Spongiosa]] / [[Klafflager Ventricularis|Ventricularis]]
+ - [[Histologi/Hjärta/Klafflager Fibrosa|Fibrosa]] / [[Histologi/Hjärta/Klafflager Spongiosa|Spongiosa]] / [[Histologi/Hjärta/Klafflager Ventricularis|Ventricularis]]

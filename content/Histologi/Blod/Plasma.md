@@ -5,5 +5,5 @@ Innehåll
 - Albumin (kolloidosmotiskt tryck), globuliner (transport/Ig), fibrinogen (koagulation), elektrolyter, små molekyler.
 
 Relaterat
-- [[Serum|Serum]]
-- [[Blodets Sammansättning|Blodets sammansättning]]
+- [[Histologi/Blod/Serum|Serum]]
+- [[Histologi/Blod/Blodets Sammansättning|Blodets sammansättning]]

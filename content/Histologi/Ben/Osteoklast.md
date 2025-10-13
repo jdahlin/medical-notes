@@ -5,5 +5,5 @@ Kännetecken
 - Stora celler i Howships lakuner; ruffled border; eosinofil cytoplasma.
 
 Relaterat
-- [[Benremodellering|Benremodellering]]
+- [[Histologi/Ben/Benremodellering|Benremodellering]]
 

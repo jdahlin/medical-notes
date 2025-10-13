@@ -22,8 +22,8 @@
 - Hippocampus → känslig för hypoxi, Alzheimer.
 
 ### Relaterat
-- [[Diencephalon|Diencephalon]]  
-- [[Banor|Uppåt- och nedåtgående banor]]  
-- [[Koppling PNS|Koppling till PNS]]  
+- [[Anatomi/Nervsystem/Diencephalon|Diencephalon]]  
+- [[Anatomi/Nervsystem/Banor|Uppåt- och nedåtgående banor]]  
+- [[Anatomi/Nervsystem/Koppling PNS|Koppling till PNS]]  
 
 ---

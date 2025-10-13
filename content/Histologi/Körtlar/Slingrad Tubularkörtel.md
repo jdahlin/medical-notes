@@ -5,5 +5,5 @@ Exempel
 - Ekkrina svettkörtlar i dermis.
 
 Relaterat
-- [[Enkel Tubularkörtel|enkel tubulär]]
+- [[Histologi/Körtlar/Enkel Tubularkörtel|enkel tubulär]]
 

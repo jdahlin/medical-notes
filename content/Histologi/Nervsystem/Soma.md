@@ -6,7 +6,7 @@ Cellkropp för neuron.
 - Golgiapparat och lysosomer samordnar vesikeltransport mot [[Histologi/Nervsystem/Axon|axonterminalerna]].
 
 ### Funktioner
-- Integrerar signaler från [[Dendrit|dendriter]] innan beslut i axonkäglan.  
+- Integrerar signaler från [[Histologi/Nervsystem/Dendrit|dendriter]] innan beslut i axonkäglan.  
 - Producerar neurotransmittorer och strukturella proteiner för hela neuronet.  
 - Metabolisk nav: mitokondrier försörjer både axon och dendriter via axonal transport.
 

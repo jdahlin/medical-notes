@@ -1,9 +1,9 @@
 Kort
-- Omineraliserad benmatrix som främst består av kollagen typ I och matrixproteiner; produceras av [[Osteoblast|osteoblaster]].
+- Omineraliserad benmatrix som främst består av kollagen typ I och matrixproteiner; produceras av [[Histologi/Ben/Osteoblast|osteoblaster]].
 
 Kännetecken
 - Ses som ljusare rand (osteoid seam) på benytor före mineralisering.
 
 Relaterat
-- [[Mineralisering och Osteoid|Mineralisering och osteoid]]
+- [[Histologi/Ben/Mineralisering och Osteoid|Mineralisering och osteoid]]
 

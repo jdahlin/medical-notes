@@ -1,3 +1,3 @@
 Kort
-- Motorisk nerv; innerverar [[Sternocleidomastoideus|sternocleidomastoideus]] och [[Trapezius|trapezius]].
+- Motorisk nerv; innerverar [[Anatomi/Muskler/Sternocleidomastoideus|sternocleidomastoideus]] och [[Anatomi/Muskler/Trapezius|trapezius]].
 

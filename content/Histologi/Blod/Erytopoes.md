@@ -9,4 +9,4 @@ Reglering
 - Erytropoetin (njure) vid hypoxi.
 
 Relaterat
-- [[Erytrocyt|Erytrocyt]]
+- [[Histologi/Blod/Erytrocyt|Erytrocyt]]

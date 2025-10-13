@@ -1,14 +1,14 @@
 Översikt och typer
-- [[Histologi/Bindväv/_Index_|Bindväv – översikt]]
-- Grundtyper: [[Lucker Bindväv|lucker]], [[Retikulär Bindväv|retikulär]], [[Stram Oregelbunden Bindväv|tät oregelbunden]], [[Stram Regelbunden Bindväv|tät regelbunden]], [[Elastisk Bindväv|elastisk]]
-- Embryonal/specialiserad: [[Mesenkym|mesenkym]], [[Gelatinös Bindväv|mukös]], [[Vit Fettväv|vit fettväv]], [[Brun Fettväv|brun fettväv]]
+- [[Histologi/Bindväv/index|Bindväv – översikt]]
+- Grundtyper: [[Histologi/Bindväv/Lucker Bindväv|lucker]], [[Histologi/Bindväv/Retikulär Bindväv|retikulär]], [[Histologi/Bindväv/Stram Oregelbunden Bindväv|tät oregelbunden]], [[Histologi/Bindväv/Stram Regelbunden Bindväv|tät regelbunden]], [[Histologi/Bindväv/Elastisk Bindväv|elastisk]]
+- Embryonal/specialiserad: [[Histologi/Bindväv/Mesenkym|mesenkym]], [[Histologi/Bindväv/Gelatinös Bindväv|mukös]], [[Histologi/Bindväv/Vit Fettväv|vit fettväv]], [[Histologi/Bindväv/Brun Fettväv|brun fettväv]]
 
 Kort kännetecken
-- Celler (t.ex. [[Målbeskrivning/AI-summeringar/Fibroblast|fibroblast]] m.fl.) i rik ECM med [[Fibrer i Bindväv|fibrer]] (kollagen/elastin) och [[Grundsubstans|grundsubstans]]; varierande vaskularisering.
+- Celler (t.ex. [[Histologi/Bindväv/Fibroblast|fibroblast]] m.fl.) i rik ECM med [[Histologi/Bindväv/Fibrer i Bindväv|fibrer]] (kollagen/elastin) och [[Histologi/Bindväv/Grundsubstans|grundsubstans]]; varierande vaskularisering.
 
 Relaterade fördjupningar
-- [[Kollagen|Kollagen]] / [[Kollagensyntes|Kollagensyntes]]
+- [[Histologi/Bindväv/Kollagen|Kollagen]] / [[Histologi/Bindväv/Kollagensyntes|Kollagensyntes]]
 
 Relaterat
-- [[Histologi/_Index_|histologi – översikt]]
+- [[Histologi/index|histologi – översikt]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]

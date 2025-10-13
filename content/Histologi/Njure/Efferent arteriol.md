@@ -8,6 +8,6 @@ Funktion
 - (fyll i)
 
 Relaterat
-- [[Afferent arteriol]]
-- [[Glomerulus]]
-- [[Vasa recta]]
+- [[Histologi/Njure/Afferent arteriol]]
+- [[Histologi/Njure/Glomerulus]]
+- [[Histologi/Njure/Vasa recta]]

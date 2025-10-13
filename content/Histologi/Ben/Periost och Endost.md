@@ -5,6 +5,6 @@ Kännetecken
 - Periost: yttre fibröst lager + inre cellrikt (osteogent). Endost: tunt cellager mot märghåla/kanaler.
 
 Relaterat
-- [[Intramembranös Ossifikation|Intramembranös ossifikation]]
-- [[Benremodellering|Benremodellering]]
+- [[Histologi/Ben/Intramembranös Ossifikation|Intramembranös ossifikation]]
+- [[Histologi/Ben/Benremodellering|Benremodellering]]
 

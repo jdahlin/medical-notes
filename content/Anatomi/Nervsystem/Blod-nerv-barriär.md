@@ -16,8 +16,8 @@
 - Toxicitet (kemoterapi) passerar barriären och skadar axon/myelin.
 
 ### Relaterat
-- [[Perifera nerver|Perifera nerver – struktur]]  
+- [[Anatomi/Nervsystem/Perifera nerver|Perifera nerver – struktur]]  
 - [[Histologi/Nervsystem/Schwanncell|Schwanncell]]  
-- [[Organisation|PNS – organisation]]  
+- [[Anatomi/Nervsystem/Organisation|PNS – organisation]]  
 
 ---

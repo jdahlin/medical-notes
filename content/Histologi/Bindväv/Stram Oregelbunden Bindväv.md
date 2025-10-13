@@ -8,6 +8,6 @@ Funktion
 - Draghållfasthet i flera riktningar, skydd.
 
 Relaterat
-- [[Stram Regelbunden Bindväv]]
+- [[Histologi/Bindväv/Stram Regelbunden Bindväv]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]
 

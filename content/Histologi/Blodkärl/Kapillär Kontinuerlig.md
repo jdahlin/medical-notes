@@ -3,4 +3,4 @@
 - Kontinuerligt basalmembran och pericyter.  
 - Transport sker via diffusion och transcytos.
 
-Relaterat: [[Fenestrerad kapillär|fenestrerad kapillär]], [[Histologi/Blodkärl/Endotelcell|endotelcell]].
+Relaterat: [[Histologi/Blodkärl/Fenestrerad kapillär|fenestrerad kapillär]], [[Histologi/Blodkärl/Endotelcell|endotelcell]].

@@ -2,7 +2,7 @@ Typ
 - Ytlig ven (längsta venen)
 
 Mynnar i
-- [[Vena Femoralis|V. femoralis]] strax under lig. inguinale
+- [[Anatomi/Kärl/Vena Femoralis|V. femoralis]] strax under lig. inguinale
 
 Förlopp
 - Från mediala fotranden framför malleolus medialis upp längs mediala underben/lår

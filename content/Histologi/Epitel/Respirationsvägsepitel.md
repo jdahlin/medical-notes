@@ -1,7 +1,7 @@
 ![[Pasted image 20251009202442.png]]
 
 Definition
-- Flerradigt (pseudostratifierat) cilierat cylinderepitel med [[Bägarcell|bägarceller]].
+- Flerradigt (pseudostratifierat) cilierat cylinderepitel med [[Histologi/Körtlar/Bägarcell|bägarceller]].
 
 Lokaler
 - Näshåla, trakea, större bronker.

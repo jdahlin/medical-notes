@@ -2,10 +2,10 @@ Typ
 - Djup ven
 
 Mynnar i
-- [[Vena Femoralis|V. femoralis]] (distalt blir [[Vena Poplitea]] ← från underbenet)
+- [[Anatomi/Kärl/Vena Femoralis|V. femoralis]] (distalt blir [[Anatomi/Kärl/Vena Poplitea]] ← från underbenet)
 
 Förlopp
-- I fossa poplitea; följer [[Arteria Poplitea]]
+- I fossa poplitea; följer [[Anatomi/Kärl/Arteria Poplitea]]
 
 Tillflöden
 - Vv. tibiales ant./post., v. fibularis

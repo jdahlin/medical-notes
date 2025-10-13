@@ -4,7 +4,7 @@
 - [[Histologi/Blodkärl/Muskelartär|Muskelartär]]
 - [[Histologi/Blodkärl/Arteriol|Arteriol]]
 - [[Histologi/Blodkärl/Kapillär Kontinuerlig|Kontinuerlig kapillär]]
-- [[Fenestrerad kapillär|Fenestrerad kapillär]]
+- [[Histologi/Blodkärl/Fenestrerad kapillär|Fenestrerad kapillär]]
 - [[Histologi/Blodkärl/Sinusoid|Sinusoid]]
 - [[Histologi/Blodkärl/Venol|Venol]]
 - [[Histologi/Blodkärl/Ven|Ven]]
@@ -20,4 +20,4 @@
 - [[Histologi/Blodkärl/Lymfkärl|Lymfkärl]]
 - [[Histologi/Blodkärl/Anastomos|Anastomos]]
 
-Relaterat: [[Målbeskrivning/2.7 Histologi Blodkärl, blod och blodbildning|Mål 2.7]], [[Histologi/Blod/Blodets Sammansättning|Blodets sammansättning]].
+Relaterat: [[Målbeskrivning/2.7 Histologi Blodkärl, blod och blodbildning|Mål 2.7]], [[Histologi/Blod/Blodets Sammansättning|Blodets sammansättning]].

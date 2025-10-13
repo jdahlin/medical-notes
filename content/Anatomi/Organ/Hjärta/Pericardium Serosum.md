@@ -2,7 +2,7 @@ Kort
 - Seröst perikard med parietalt och visceralt blad (epikardiet); mellan dem cavitas pericardii.
 
 Relaterat
-- [[Pericardium Fibrosum|Pericardium fibrosum]]
+- [[Anatomi/Organ/Hjärta/Pericardium Fibrosum|Pericardium fibrosum]]
  
  Histologi
- - [[Epikardium|Epikardium (visceralt perikard)]]
+ - [[Histologi/Hjärta/Epikardium|Epikardium (visceralt perikard)]]

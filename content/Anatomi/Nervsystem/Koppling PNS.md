@@ -1,10 +1,10 @@
 ### Sensoriska inflöden
-- Perifera sensoriska neuroner (pseudounipolära) enter via [[Nervi spinales|dorsalrötter]] och synapsar i dorsalhorn eller ascenderar i baksträngar.  
+- Perifera sensoriska neuroner (pseudounipolära) enter via [[Anatomi/Nervsystem/Nervi spinales|dorsalrötter]] och synapsar i dorsalhorn eller ascenderar i baksträngar.  
 - Kranialnervsensorik projicerar till hjärnstamskärnor (t.ex. nucleus tractus solitarii, trigeminusnucleus).  
-- Sensoriska signaler reläas via [[Diencephalon|thalamus]] till kortex.
+- Sensoriska signaler reläas via [[Anatomi/Nervsystem/Diencephalon|thalamus]] till kortex.
 
 ### Motoriska utflöden
-- Övre motorneuron i motorcortex eller hjärnstam skickar axon via [[Banor|descendenta banor]].  
+- Övre motorneuron i motorcortex eller hjärnstam skickar axon via [[Anatomi/Nervsystem/Banor|descendenta banor]].  
 - Synapsar på nedre motorneuron i ventralhorn (somatiskt) eller autonomt i lateralhorn/retikulära kärnor.  
 - Nedre motorneuron lämnar CNS via ventralrötter (spinalnerver) eller kranialnerver (III, VII, IX, X, XI, XII).
 
@@ -18,7 +18,7 @@
 - Autonom dysfunktion (ortostatism, urinretention) speglar störd CNS–PNS-kommunikation.
 
 ### Relaterat
-- [[Organisation|PNS – organisation]]  
+- [[Anatomi/Nervsystem/Organisation|PNS – organisation]]  
 - [[Anatomi/Nervsystem/ANS|ANS]]  
 - [[Anatomi/Nervsystem/Afferens efferens integration|Afferens, efferens och integration]]  
 

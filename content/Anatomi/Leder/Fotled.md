@@ -1,8 +1,8 @@
 Ben
-- [[Tibia|tibia]]
-- [[Fibula|fibula]]
-- [[Tarsus|tarsus]] (talus)
+- [[Anatomi/Ben/Tibia|tibia]]
+- [[Anatomi/Ben/Fibula|fibula]]
+- [[Anatomi/Ben/Tarsus|tarsus]] (talus)
 
 Relaterade muskler
-- [[Tibialis Anterior|tibialis anterior]]
-- [[Triceps Surae|triceps surae]]
+- [[Anatomi/Muskler/Tibialis Anterior|tibialis anterior]]
+- [[Anatomi/Muskler/Triceps Surae|triceps surae]]

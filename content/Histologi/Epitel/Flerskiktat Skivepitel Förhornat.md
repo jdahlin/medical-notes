@@ -8,6 +8,6 @@ Funktion
 - Skydd mot abrasion, uttorkning, mikrober.
 
 Relaterat
-- [[Flerskiktat Skivepitel Oförhornat|oförhornat skivepitel]]
+- [[Histologi/Epitel/Flerskiktat Skivepitel Oförhornat|oförhornat skivepitel]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]
 

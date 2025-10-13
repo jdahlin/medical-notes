@@ -5,4 +5,4 @@ Steg
 - Myeloblast → promyelocyt → myelocyt → metamyelocyt → stavkärnig (band) → segmentkärnig granulocyt.
 
 Relaterat
-- [[Neutrofil|Neutrofil]] / [[Eosinofil|Eosinofil]] / [[Basofil|Basofil]]
+- [[Histologi/Blod/Neutrofil|Neutrofil]] / [[Histologi/Blod/Eosinofil|Eosinofil]] / [[Histologi/Blod/Basofil|Basofil]]

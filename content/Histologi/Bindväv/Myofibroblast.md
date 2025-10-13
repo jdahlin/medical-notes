@@ -8,5 +8,5 @@ Funktion
 - Sårkontraktion, ECM‑remodellering; kan uppstå från fibroblaster/pericyter.
 
 Relaterat
-- [[Målbeskrivning/AI-summeringar/Fibroblast|Fibroblast]]
+- [[Histologi/Bindväv/Fibroblast|Fibroblast]]
 

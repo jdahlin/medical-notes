@@ -15,4 +15,4 @@ Livslängd
 - Dagar i vävnad efter snabb diapedes.
 
 Relaterat
-- [[Granulopoes|Granulopoes]]
+- [[Histologi/Blod/Granulopoes|Granulopoes]]

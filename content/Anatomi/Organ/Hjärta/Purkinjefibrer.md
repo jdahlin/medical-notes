@@ -2,5 +2,5 @@ Kort
 - Snabba ledningsfibrer i subendokardiella skiktet som aktiverar kammarmyokard.
 
 Histologi
-- [[Endokardium|Endokardium]]
-- [[Myokardium|Myokardium]]
+- [[Histologi/Hjärta/Endokardium|Endokardium]]
+- [[Histologi/Hjärta/Myokardium|Myokardium]]

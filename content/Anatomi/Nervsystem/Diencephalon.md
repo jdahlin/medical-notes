@@ -18,8 +18,8 @@
 - Pinealom påverkar pubertetssignalering.
 
 ### Relaterat
-- [[Telencephalon|Telencephalon]]  
+- [[Anatomi/Nervsystem/Telencephalon|Telencephalon]]  
 - [[Anatomi/Nervsystem/ANS|ANS]]  
-- [[Banor|Uppåt- och nedåtgående banor]]  
+- [[Anatomi/Nervsystem/Banor|Uppåt- och nedåtgående banor]]  
 
 ---

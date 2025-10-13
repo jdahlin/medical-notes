@@ -9,10 +9,10 @@ Faser
 5. vilofas
 
 Kännetecken (histologi)
-- Cementlinjer, nysyntetiserade osteoidlagret (omineraliserat), [[Howships Lakuner|Howships lakuner]]; gradvis lamellär organisation.
+- Cementlinjer, nysyntetiserade osteoidlagret (omineraliserat), [[Histologi/Ben/Howships Lakuner|Howships lakuner]]; gradvis lamellär organisation.
 
 Relaterat
-- [[Osteoklast|Osteoklast]]
-- [[Osteoblast|Osteoblast]]
-- [[Osteocyt|Osteocyt]]
-- [[Osteon Haverska System|Osteon]]
+- [[Histologi/Ben/Osteoklast|Osteoklast]]
+- [[Histologi/Ben/Osteoblast|Osteoblast]]
+- [[Histologi/Ben/Osteocyt|Osteocyt]]
+- [[Histologi/Ben/Osteon Haverska System|Osteon]]

@@ -21,8 +21,8 @@
 - Spinal anestesi, epidural, lumbalpunktion (nål under L2).
 
 ### Relaterat
-- [[Perifera nerver|Perifera nerver – struktur]]  
-- [[Medulla spinalis|Medulla spinalis]]  
-- [[Autonoma ganglier|Autonoma ganglier]]  
+- [[Anatomi/Nervsystem/Perifera nerver|Perifera nerver – struktur]]  
+- [[Anatomi/Nervsystem/Medulla spinalis|Medulla spinalis]]  
+- [[Anatomi/Nervsystem/Autonoma ganglier|Autonoma ganglier]]  
 
 ---

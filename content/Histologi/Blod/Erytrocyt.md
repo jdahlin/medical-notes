@@ -18,4 +18,4 @@ Livslängd
 - ~120 dagar; elimineras i mjälte/lever.
 
 Relaterat
-- [[Erytopoes|Erytopoes]]
+- [[Histologi/Blod/Erytopoes|Erytopoes]]

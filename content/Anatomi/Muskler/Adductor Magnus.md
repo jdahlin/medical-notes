@@ -4,13 +4,13 @@
 - Ramus ossis ischii – [[Anatomi/Ben/Os Ischii|os ischii]]
 
 ## Fäste
-- Linea aspera och tuberculum adductorium – [[Femur|femur]]
+- Linea aspera och tuberculum adductorium – [[Anatomi/Ben/Femur|femur]]
 
 ## Funktion
-- Höft: [[Adduktion]]; delar bidrar till [[Flexion]]]/[[Extension]]
+- Höft: [[Anatomi/Terminologi/Adduktion]]; delar bidrar till [[Anatomi/Terminologi/Flexion]]]/[[Anatomi/Terminologi/Extension]]
 
 ## Innervation
-- [[N Obturatorius|n. obturatorius]] (adduktor-del) och [[N Tibialis|n. tibialis]] (hamstring-del)
+- [[Anatomi/Nerver/N Obturatorius|n. obturatorius]] (adduktor-del) och [[Anatomi/Nerver/N Tibialis|n. tibialis]] (hamstring-del)
 
 ## Relaterat
-- [[Höftled|höftled]]
+- [[Anatomi/Leder/Höftled|höftled]]

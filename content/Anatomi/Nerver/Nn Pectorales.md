@@ -1,3 +1,3 @@
 Kort
-- Innerverar [[Pectoralis Major|pectoralis major]] (och minor).
+- Innerverar [[Anatomi/Muskler/Pectoralis Major|pectoralis major]] (och minor).
 

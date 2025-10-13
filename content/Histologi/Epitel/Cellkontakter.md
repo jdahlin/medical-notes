@@ -21,4 +21,4 @@ Cell–matrix-kontakter (basal)
 
 Relaterat
 - [[Basalmembran|Basalmembran]]
-- [[Epitelens Huvudfunktioner|Epitelens huvudfunktioner]]
+- [[Histologi/Epitel/Epitelens Huvudfunktioner|Epitelens huvudfunktioner]]

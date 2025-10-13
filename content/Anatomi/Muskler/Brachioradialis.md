@@ -1,15 +1,15 @@
 ![[Pasted image 20251009194956.png]]
 ## Ursprung
-- Crista supracondylaris lateralis – [[Humerus|humerus]]
+- Crista supracondylaris lateralis – [[Anatomi/Ben/Humerus|humerus]]
 
 ## Fäste
-- Processus styloideus – [[Radius|radius]]
+- Processus styloideus – [[Anatomi/Ben/Radius|radius]]
 
 ## Funktion
 - Armbågsflexion, särskilt i neutral pronation/supination
 
 ## Innervation
-- [[N Radialis|n. radialis]]
+- [[Anatomi/Nerver/N Radialis|n. radialis]]
 
 ## Relaterat
-- [[Armbågsled|armbågsled]]
+- [[Anatomi/Leder/Armbågsled|armbågsled]]

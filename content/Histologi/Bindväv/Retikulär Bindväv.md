@@ -8,6 +8,6 @@ Funktion
 - Stödjande stroma för hematopoetisk/lymfoid vävnad.
 
 Relaterat
-- [[Lucker Bindväv|lucker bindväv]]
+- [[Histologi/Bindväv/Lucker Bindväv|lucker bindväv]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]
 

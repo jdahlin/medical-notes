@@ -2,16 +2,16 @@ Typ
 - Elastisk artär
 
 Ursprung
-- [[Ventriculus Sinister|Vänster kammare]] vid [[Valva Aortae|valva aortae]]
+- [[Anatomi/Organ/Hjärta/Ventriculus Sinister|Vänster kammare]] vid [[Anatomi/Organ/Hjärta/Valva Aortae|valva aortae]]
 
 Förlopp
-- Från aortaroten upp till sinotubulära övergången där den övergår i [[Arcus Aortae|arcus aortae]]
+- Från aortaroten upp till sinotubulära övergången där den övergår i [[Anatomi/Kärl/Arcus Aortae|arcus aortae]]
 
 Grenar
-- [[Arteria Coronaria Dextra|A. coronaria dextra]] och [[Arteria Coronaria Sinistra|A. coronaria sinistra]]
+- [[Anatomi/Kärl/Arteria Coronaria Dextra|A. coronaria dextra]] och [[Anatomi/Kärl/Arteria Coronaria Sinistra|A. coronaria sinistra]]
 
 Försörjer
 - Hela kroppen via sina fortsättningar och grenar; kranskärl försörjer hjärtat
 
 Relaterat
-- [[Valva Aortae|Valva aortae]]
+- [[Anatomi/Organ/Hjärta/Valva Aortae|Valva aortae]]

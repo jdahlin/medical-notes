@@ -1,10 +1,10 @@
 Ben
-- [[Humerus|humerus]]
-- [[Ulna|ulna]]
-- [[Radius|radius]]
+- [[Anatomi/Ben/Humerus|humerus]]
+- [[Anatomi/Ben/Ulna|ulna]]
+- [[Anatomi/Ben/Radius|radius]]
 
 Relaterade muskler
-- [[Biceps Brachii|biceps brachii]]
-- [[Brachialis|brachialis]]
-- [[Brachioradialis|brachioradialis]]
-- [[Triceps Brachii|triceps brachii]]
+- [[Anatomi/Muskler/Biceps Brachii|biceps brachii]]
+- [[Anatomi/Muskler/Brachialis|brachialis]]
+- [[Anatomi/Muskler/Brachioradialis|brachioradialis]]
+- [[Anatomi/Muskler/Triceps Brachii|triceps brachii]]

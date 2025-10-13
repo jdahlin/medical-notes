@@ -9,6 +9,6 @@ Zoner (från epifys → diafys)
 - Ossifikationszon: osteoblaster ersätter brosket med ben.
 
 Relaterat
-- [[Endokondral Ossifikation|Endokondral ossifikation]]
-- [[Hyalint Brosk|hyalint brosk]]
+- [[Histologi/Ben/Endokondral Ossifikation|Endokondral ossifikation]]
+- [[Histologi/Brosk/Hyalint Brosk|hyalint brosk]]
 
