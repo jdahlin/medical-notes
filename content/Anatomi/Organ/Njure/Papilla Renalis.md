@@ -1,3 +1,5 @@
+![[Pasted image 20251013234405.png]]
+
 Kort
 - Pyramidspets där samlingsrör tömmer urin i calyx minor.
 

@@ -1,3 +1,4 @@
+![[Pasted image 20251013234307.png|300]]
 Kort
 - Parigt retroperitonealt organ som filtrerar blod och producerar urin via sina [[Histologi/Njure/Nefron|nefron]].
 - Omgiven av [[Anatomi/Organ/Njure/Gerotas Fascia|Gerotas fascia]] och ett perirenalt fettlager.

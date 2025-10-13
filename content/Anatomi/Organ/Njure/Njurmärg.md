@@ -1,4 +1,4 @@
-Kort
+![[Pasted image 20251013234337.png]]Kort
 - Innersta delen av njuren bestående av 10–12 koniska pyramider.
 
 Anatomi

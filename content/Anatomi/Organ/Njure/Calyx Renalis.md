@@ -1,3 +1,5 @@
+![[Pasted image 20251013234100.png]]
+
 Kort
 - Trattformade samlingsrum som tar emot urin från papillerna.
 

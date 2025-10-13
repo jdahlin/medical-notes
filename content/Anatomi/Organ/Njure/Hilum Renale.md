@@ -1,3 +1,5 @@
+![[Pasted image 20251013234200.png]]
+
 Kort
 - Portals område på njurens medialsida där kärl, nerver och ureter passerar.
 
