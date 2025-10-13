@@ -16,6 +16,7 @@ title: Histologi – översikt
 - [[Histologi/Epitel/|Epitel – översikt]]
 - [[Histologi/GI/|GI – översikt]]
 - [[Histologi/Hjärta/|Hjärta – histologi]]
+- [[Histologi/Respiration/index|Respiration – histologi]]
 - [[Histologi/Hud/|Hud – översikt]]
 - [[Histologi/KUG/|KUG – översikt]]
 - [[Histologi/Körtlar/|Körtlar – översikt]]

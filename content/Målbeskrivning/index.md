@@ -18,9 +18,8 @@ title: Målbeskrivningar – översikt
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi – Endokrina organ]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi – GI]]
 - [[Målbeskrivning/3.6 Respiration|3.6 Respiration]]
-- [[Målbeskrivning/4.1 Anatomi MUG, KUG, Njurar, urinvägar|4.1 Anatomi – MUG/KUG/Njurar/Urinvägar]]
+- [[Målbeskrivning/4.1 Anatomi MUG, KUG, Njurar, urinvägar|4.1 Anatomi – MUG, KUG, Njurar, Urinvägar]]
 - [[Målbeskrivning/4.2 Histologi KUG 1|4.2 Histologi – KUG]]
 - [[Målbeskrivning/4.3 Histologi Njurar och Urinvägar|4.3 Histologi – Njurar och urinvägar]]
-- [[Målbeskrivning/4.5 Histologi MUG|4.4 Histologi – MUG]]
-
-- [[Målbeskrivning/AI-summeringar/|AI-summeringar – översikt]]
+- [[Målbeskrivning/4.4 Histologi KUG 2|4.4 Histologi – KUG 2]]
+- [[Målbeskrivning/4.5 Histologi MUG|4.5 Histologi – MUG]]
