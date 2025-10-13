@@ -12,7 +12,7 @@ Magsäckens slemhinna rymmer ytepitelceller, mukösa halsceller, parietalceller,
 - Relatera stamcellsnischerna i kryptornas hals till slemhinnans förnyelse.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Magsäck – histologi och regionala skillnader|Magsäck – histologi och regionala skillnader]]
 - [[Histologi/GI/Slemhinna – struktur och funktion|Slemhinna – struktur och funktion]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

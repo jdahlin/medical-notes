@@ -39,7 +39,7 @@ Se även [[Histologi/Hjärta/Retledningssystem|retledningssystemet]].
 
 ### Relaterat
 - [[Målbeskrivning/AI-summeringar/Muskelvävnad|AI-sammanfattning – muskelvävnad]]  
-- [[Histologi/Hjärta/index|Hjärta – histologi]]  
+- [[Histologi/Hjärta/|Hjärta – histologi]]  
 - [[Histologi/Muskelvävnad/Skelettmuskel|Skelettmuskel]]  
 - [[Histologi/Muskelvävnad/Glattmuskel|Glatt muskel]]  
 

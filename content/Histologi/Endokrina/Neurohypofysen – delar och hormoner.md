@@ -12,7 +12,7 @@ Neurohypofysen består av pars nervosa, infundibulum och eminentia mediana där 
 - Förstå innervationen från supraoptiska och paraventrikulära kärnor samt transporten via neurosekretoriska granula.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Hypothalamus – läge och funktion|Hypothalamus – läge och funktion]]
 - [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]

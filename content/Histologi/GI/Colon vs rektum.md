@@ -12,7 +12,7 @@ Colon och rektum delar kryptdominerad mucosa men skiljer sig åt genom ökande a
 - Relatera skillnaderna till funktionell lagring och tömning av feces.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Tjocktarm – väggens uppbyggnad|Tjocktarm – väggens uppbyggnad]]
 - [[Histologi/GI/Rektum–analkanal – övergång|Rektum–analkanal – övergång]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

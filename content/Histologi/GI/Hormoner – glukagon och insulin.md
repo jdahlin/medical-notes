@@ -12,7 +12,7 @@ Glukagon från pankreas alfa-celler höjer blodglukos genom glykogenolys och glu
 - Beskriva hur glukagon och insulin samverkar för att upprätthålla normoglykemi.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Pankreas – struktur och funktion|Pankreas – struktur och funktion]]
 - [[Histologi/GI/Diabetes typ I och II|Diabetes typ I och II]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

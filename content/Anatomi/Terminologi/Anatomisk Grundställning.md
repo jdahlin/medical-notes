@@ -4,4 +4,4 @@ Kort
 Relaterat
 - [[Anatomi/Terminologi/Lage Och Riktningsbegrepp|Läges- och riktningsbegrepp]]
 - [[Anatomi/Terminologi/Kinematisk Terminologi|Kinematisk terminologi]]
-- [[Anatomi/index|Anatomi – översikt]]
+- [[Anatomi/|Anatomi – översikt]]

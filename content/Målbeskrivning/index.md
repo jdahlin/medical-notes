@@ -23,4 +23,4 @@ title: Målbeskrivningar – översikt
 - [[Målbeskrivning/4.3 Histologi Njurar och Urinvägar|4.3 Histologi – Njurar och urinvägar]]
 - [[Målbeskrivning/4.5 Histologi MUG|4.4 Histologi – MUG]]
 
-- [[Målbeskrivning/AI-summeringar/Index|AI-summeringar – översikt]]
+- [[Målbeskrivning/AI-summeringar/|AI-summeringar – översikt]]

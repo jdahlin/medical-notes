@@ -1,7 +1,7 @@
 ## Skelettmuskel
 
 ### Organisation
-- [[Histologi/Muskelvävnad/index|Muskelvävnad]]en byggs upp av **[[Histologi/Muskelvävnad/Anatomisk Muskel|anatomiska muskler]]** som omges av [[Histologi/Muskelvävnad/Epimysium|epimysium]].  
+- [[Histologi/Muskelvävnad/|Muskelvävnad]]en byggs upp av **[[Histologi/Muskelvävnad/Anatomisk Muskel|anatomiska muskler]]** som omges av [[Histologi/Muskelvävnad/Epimysium|epimysium]].  
 - Muskeln består av **[[Histologi/Muskelvävnad/Fascikel|fasciklar]]** (muskelbuntar) omslutna av [[Histologi/Muskelvävnad/Perimysium|perimysium]].  
 - Varje fascikel innehåller **[[Histologi/Muskelvävnad/Muskelfiber|muskelfibrer]]** (multinukleära [[Histologi/Muskelvävnad/Syncytium|syncytier]]) omgivna av [[Histologi/Muskelvävnad/Endomysium|endomysium]] och [[Histologi/Basalmembran|basalmembran]].  
 - Muskelfiberns plasmamembran kallas [[Histologi/Muskelvävnad/Sarcolemma|sarcolemma]]; cytoplasman benämns [[Histologi/Muskelvävnad/Sarkoplasma|sarkoplasma]].

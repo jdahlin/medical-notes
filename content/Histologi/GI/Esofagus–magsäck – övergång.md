@@ -12,7 +12,7 @@ title: Esofagus–magsäck – övergång
 - Diskutera kliniska konsekvenser av metaplasier (t.ex. Barretts esofagus).
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Esofagus – struktur och funktion|Esofagus – struktur och funktion]]
 - [[Histologi/GI/Magsäck – histologi och regionala skillnader|Magsäck – histologi och regionala skillnader]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

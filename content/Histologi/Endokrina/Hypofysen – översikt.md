@@ -12,7 +12,7 @@ Hypofysen (glandula pituitaria) består av adenohypofys (framlob) och neurohypof
 - Redogöra översiktligt för hormonportföljen och respektive målorgan.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Adenohypofysen – celler och hormoner|Adenohypofysen – celler och hormoner]]
 - [[Histologi/Endokrina/Neurohypofysen – delar och hormoner|Neurohypofysen – delar och hormoner]]
 - [[Histologi/Endokrina/Hypofysen – anatomi och kärl|Hypofysen – anatomi och kärl]]

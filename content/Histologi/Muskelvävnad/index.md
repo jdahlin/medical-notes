@@ -16,4 +16,4 @@ Begrepp
 - Fibertyper: [[Histologi/Muskelvävnad/Muskelfiber Typ I|Typ I]], [[Histologi/Muskelvävnad/Muskelfiber Typ IIa|Typ IIa]], [[Histologi/Muskelvävnad/Muskelfiber Typ IIb|Typ IIb]]
 - Anpassning: [[Histologi/Muskelvävnad/Hypertrofi (Muskel)|hypertrofi]], [[Histologi/Muskelvävnad/Atrofi (Muskel)|atrofi]]
 
-Se även [[Histologi/Hjärta/index|Hjärta – histologi]] för detaljer om hjärtväggens lager och [[Målbeskrivning/AI-summeringar/Muskelvävnad|AI‑sammanfattning för muskelvävnad]].
+Se även [[Histologi/Hjärta/|Hjärta – histologi]] för detaljer om hjärtväggens lager och [[Målbeskrivning/AI-summeringar/Muskelvävnad|AI‑sammanfattning för muskelvävnad]].

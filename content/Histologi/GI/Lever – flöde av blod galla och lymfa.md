@@ -12,7 +12,7 @@ Levern tar emot syrerikt blod från arteria hepatica och näringsrikt blod från
 - Redogöra för lymfdränaget och dess koppling till periportala fält.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Leverlobulus – histologisk uppbyggnad|Leverlobulus – histologisk uppbyggnad]]
 - [[Histologi/GI/Gallblåsa – struktur och funktion|Gallblåsa – struktur och funktion]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

@@ -12,7 +12,7 @@ Tandens hårdvävnader (emalj, dentin, cement) omger pulpan och förankras i alv
 - Förklara huvudskeenden i tandutvecklingen från tandlist till rotbildning.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Stora spottkörtlar – struktur och funktion|Stora spottkörtlar – struktur och funktion]]
 - [[Histologi/GI/Tonsiller – struktur|Tonsiller – struktur]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

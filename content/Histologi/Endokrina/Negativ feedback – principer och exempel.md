@@ -12,7 +12,7 @@ Negativ feedback stabiliserar hormonaxlar genom att målhormoner eller fysiologi
 - Förklara skillnaden mellan kort och lång feedback-loop samt kliniska konsekvenser vid tumörer eller bortfall.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Endokrin signalering – principer|Endokrin signalering – principer]]
 - [[Histologi/Endokrina/Hypothalamus – läge och funktion|Hypothalamus – läge och funktion]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

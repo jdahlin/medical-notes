@@ -12,7 +12,7 @@ Parotis, submandibularis och sublingualis är sammansatta tubuloacinösa körtla
 - Förklara myoepiteliala cellers roll för sekretion.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Stora spottkörtlar – skillnader|Stora spottkörtlar – skillnader]]
 - [[Histologi/GI/Slemhinna – struktur och funktion|Slemhinna – struktur och funktion]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

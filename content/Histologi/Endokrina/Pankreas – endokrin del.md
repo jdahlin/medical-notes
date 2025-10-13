@@ -12,7 +12,7 @@ Pankreas endokrina del utgörs av Langerhansöar bestående av alfa-, beta-, del
 - Förklara hur blodflödet inom öarna möjliggör parakrin reglering mellan celltyper.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/GI/Pankreas – struktur och funktion|Pankreas – struktur och funktion]]
 - [[Histologi/Endokrina/Hormoner – glukagon och insulin|Hormoner – glukagon och insulin]]
 - [[Histologi/Endokrina/Endokrina hormoner – produktionsorgan och funktion|Endokrina hormoner – produktionsorgan och funktion]]

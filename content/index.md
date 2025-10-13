@@ -4,7 +4,7 @@ title: Anteckningar - Översikt
 
 # Översikt
 
-- [[Anatomi/index|Anatomi]]
-- [[Histologi/index|Histologi]]
-- [[Histologi/Demokompendium/Index|Demokompendium]]
-- [[Målbeskrivning/index|Målbeskrivningar]]
+- [[Anatomi/|Anatomi]]
+- [[Histologi/|Histologi]]
+- [[Histologi/Demokompendium/|Demokompendium]]
+- [[Målbeskrivning/|Målbeskrivningar]]

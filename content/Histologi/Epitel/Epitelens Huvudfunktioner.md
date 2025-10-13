@@ -14,4 +14,4 @@ Huvudfunktioner
 Relaterat
 - [[Histologi/Epitel/Cellkontakter|Cell–cell- och cell–matrixkontakter]]
 - [[Basalmembran|Basalmembran]]
-- [[Histologi/Körtlar/index|Körtlar – översikt]]
+- [[Histologi/Körtlar/|Körtlar – översikt]]

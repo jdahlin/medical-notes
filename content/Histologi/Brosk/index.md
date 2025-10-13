@@ -11,5 +11,5 @@ Typer
 - [[Histologi/Brosk/Trådbrosk|trådbrosk (fibrocartilago)]]
 
 Relaterat
-- [[Histologi/Bindväv/index|Bindväv – översikt]]
+- [[Histologi/Bindväv/|Bindväv – översikt]]
 - [[bok/histologi/Kap Brosk|Brosk (kapitel)]]

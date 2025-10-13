@@ -12,7 +12,7 @@ Den klassiska leverlobulus är hexagonalt organiserad kring en centralven och up
 - Känna igen Kupfferceller och Ito-celler i sinusoidernas vägg.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Lever – cellorganisation och funktion|Lever – cellorganisation och funktion]]
 - [[Histologi/GI/Lever – flöde av blod galla och lymfa|Lever – flöde av blod, galla och lymfa]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

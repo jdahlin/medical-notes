@@ -12,7 +12,7 @@ Tonsilla palatina utgör lymfoid vävnad med sekundära folliklar och kryptor t�
 - Relatera mukösa och serösa körtlar (exempelvis Von Ebners) till lokalt immunskydd.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Slemhinna – struktur och funktion|Slemhinna – struktur och funktion]]
 - [[Histologi/GI/Tandens uppbyggnad och utveckling|Tandens uppbyggnad och utveckling]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

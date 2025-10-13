@@ -12,7 +12,7 @@ Esofagus transporterar bolus från svalg till magsäck via en slemhinna med fler
 - Beskriva muskulaturens segmentering och plexus myentericus roll för peristaltik.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Esofagus–magsäck – övergång|Esofagus–magsäck – övergång]]
 - [[Histologi/GI/Magsäck – histologi och regionala skillnader|Magsäck – histologi och regionala skillnader]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

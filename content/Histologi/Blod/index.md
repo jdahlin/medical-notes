@@ -38,4 +38,4 @@ Hemostas
 - [[Histologi/Blod/Fibrinolys|Fibrinolys]]
 
 Relaterat
-- [[Histologi/Ben/index|Benbildning – översikt]]
+- [[Histologi/Ben/|Benbildning – översikt]]

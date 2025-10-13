@@ -12,7 +12,7 @@ Binjurebarken delas i tre zoner: zona glomerulosa (mineralkortikoider), zona fas
 - Förstå kolesterolsyntesens roll och lipiddropparnas betydelse för steroidogenes.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Binjuremärg – kromaffina celler|Binjuremärg – kromaffina celler]]
 - [[Histologi/Endokrina/Endokrina hormoner – produktionsorgan och funktion|Endokrina hormoner – produktionsorgan och funktion]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

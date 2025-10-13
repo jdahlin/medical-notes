@@ -12,7 +12,7 @@ De tre stora spottkörtlarna särskiljs histologiskt av proportionen serösa res
 - Känna igen sublingualis som mukösdominerad körtel med kortare gångsystem.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Stora spottkörtlar – struktur och funktion|Stora spottkörtlar – struktur och funktion]]
 - [[Histologi/GI/Tonsiller – struktur|Tonsiller – struktur]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

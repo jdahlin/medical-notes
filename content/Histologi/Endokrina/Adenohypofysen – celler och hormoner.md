@@ -12,7 +12,7 @@ Adenohypofysen innehåller körtelceller organiserade i strängar runt sinusform
 - Relatera hormonfrisättning till hypothalamiska releasing- och inhibiting-hormoner via portasystemet.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]
 - [[Histologi/Endokrina/Neurohypofysen – delar och hormoner|Neurohypofysen – delar och hormoner]]

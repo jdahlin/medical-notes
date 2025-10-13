@@ -5,4 +5,4 @@
 - Funktioner: cytokinproduktion, aktivering av makrofager och B-celler, avdödning av infekterade/tumorala celler.  
 - I blodutstryk: små till medelstora lymfocyter med smal cytoplasmarand.
 
-Relaterat: [[Histologi/Blod/Lymfocyt|lymfocyt]], [[Histologi/Blod/B-Lymfocyt|B-lymfocyt]], [[Histologi/Lymfatiska organ/index|lymfatiska organ]].
+Relaterat: [[Histologi/Blod/Lymfocyt|lymfocyt]], [[Histologi/Blod/B-Lymfocyt|B-lymfocyt]], [[Histologi/Lymfatiska organ/|lymfatiska organ]].

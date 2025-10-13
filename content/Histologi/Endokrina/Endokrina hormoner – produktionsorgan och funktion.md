@@ -12,7 +12,7 @@ De viktigaste endokrina hormonerna kan organiseras efter ursprungsorgan: hypotal
 - Relatera hormonernas kemiska klass till deras transport och receptorer.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Endokrin signalering – principer|Endokrin signalering – principer]]
 - [[Histologi/Endokrina/Negativ feedback – principer och exempel|Negativ feedback – principer och exempel]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

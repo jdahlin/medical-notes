@@ -6,4 +6,4 @@
 - töms i ven nära hjärtat
 
 
-Relaterat: [[Histologi/Blodkärl/Venklaff|venklaff]], [[Histologi/Lymfatiska organ/index|lymfatiska organ]].
+Relaterat: [[Histologi/Blodkärl/Venklaff|venklaff]], [[Histologi/Lymfatiska organ/|lymfatiska organ]].

@@ -29,5 +29,5 @@ Strukturer och celler
 - [[Histologi/Ben/Frakturläkning|Frakturläkning – faser]]
 
 Relaterat
-- [[Histologi/Brosk/index|Brosk – översikt]] (mall vid endokondral ossifikation)
-- [[Anatomi/Ben/index|Ben – översikt]]
+- [[Histologi/Brosk/|Brosk – översikt]] (mall vid endokondral ossifikation)
+- [[Anatomi/Ben/|Ben – översikt]]

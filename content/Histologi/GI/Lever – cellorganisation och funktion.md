@@ -12,7 +12,7 @@ Hepatocyter organiseras i plattor som kommunicerar via gallsinus och tight junct
 - Relatera zonindelningen (periportal, intermediär, centrilobulär) till syre- och substratgradienter.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Leverlobulus – histologisk uppbyggnad|Leverlobulus – histologisk uppbyggnad]]
 - [[Histologi/GI/Lever – flöde av blod galla och lymfa|Lever – flöde av blod, galla och lymfa]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

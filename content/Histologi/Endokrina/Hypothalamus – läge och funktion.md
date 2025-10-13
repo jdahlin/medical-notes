@@ -12,7 +12,7 @@ Hypothalamus ligger ventralt i diencephalon kring tredje ventrikeln och integrer
 - Ge exempel på hypofysreglerande hormoner (TRH, CRH, GnRH, GHRH, somatostatin, dopamin).
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

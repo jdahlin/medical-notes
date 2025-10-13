@@ -12,7 +12,7 @@ Magsäcken har enskiktat cylinderepitel som bildar foveolae och tubulära körtl
 - Identifiera magsäckens tredelade muskellager och dess funktion för blandning.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Magsäck – slemhinnans celltyper|Magsäck – slemhinnans celltyper]]
 - [[Histologi/GI/Esofagus–magsäck – övergång|Esofagus–magsäck – övergång]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

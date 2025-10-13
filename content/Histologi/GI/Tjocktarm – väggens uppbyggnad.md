@@ -12,7 +12,7 @@ Tjocktarmens vägg har en slät mucosa med raka Lieberkühn-kryptor rikliga på 
 - Beskriva skillnader i lamina propria och MALT jämfört med tunntarm.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Colon vs rektum|Colon vs rektum]]
 - [[Histologi/GI/Tjocktarm – funktion|Tjocktarm – funktion]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

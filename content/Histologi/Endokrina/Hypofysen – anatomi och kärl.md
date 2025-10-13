@@ -12,7 +12,7 @@ Hypofysen ligger i sella turcica på os sphenoidale och är förbunden med hypot
 - Koppla anatomiska relationer till kliniska konsekvenser (tumörer → synpåverkan).
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]
 - [[Histologi/Endokrina/Hypothalamus – läge och funktion|Hypothalamus – läge och funktion]]

@@ -12,7 +12,7 @@ Hypofysens portasystem består av två kapillärnät som förbinder hypothalamus
 - Relatera fel i portasystemet till kliniska syndrom (t.ex. Sheehans syndrom).
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Hypothalamus – läge och funktion|Hypothalamus – läge och funktion]]
 - [[Histologi/Endokrina/Adenohypofysen – celler och hormoner|Adenohypofysen – celler och hormoner]]
 - [[Histologi/Endokrina/Hypofysen – anatomi och kärl|Hypofysen – anatomi och kärl]]

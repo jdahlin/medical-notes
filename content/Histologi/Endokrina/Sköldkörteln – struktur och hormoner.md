@@ -12,7 +12,7 @@ Sköldkörteln består av folliklar beklädda av kubiskt till cylindriskt epitel
 - Identifiera parafollikulära celler och relatera calcitonin till kalciumbalans.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Bisköldkörtlar – struktur och hormoner|Bisköldkörtlar – struktur och hormoner]]
 - [[Histologi/Endokrina/Endokrina hormoner – produktionsorgan och funktion|Endokrina hormoner – produktionsorgan och funktion]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

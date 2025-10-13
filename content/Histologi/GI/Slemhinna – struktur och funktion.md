@@ -12,7 +12,7 @@ Slemhinnor klär munhåla och mag-tarmkanal och består av epitel som vilar på 
 - Förklara hur MALT och andra immunologiska komponenter integreras i slemhinnan.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/GI-kanal – histologisk översikt|GI-kanal – histologisk översikt]]
 - [[Histologi/GI/Magsäck – slemhinnans celltyper|Magsäck – slemhinnans celltyper]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

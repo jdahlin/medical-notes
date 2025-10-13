@@ -12,7 +12,7 @@ Gallblåsan lagrar och koncentrerar galla med hjälp av ett enskiktat cylinderep
 - Relatera gallblåsans struktur till risk för stas och stenbildning.
 
 ## Relaterat
-- [[Histologi/GI/index|GI-histologi – mål]]
+- [[Histologi/GI/|GI-histologi – mål]]
 - [[Histologi/GI/Lever – flöde av blod galla och lymfa|Lever – flöde av blod, galla och lymfa]]
 - [[Histologi/GI/Pankreas – struktur och funktion|Pankreas – struktur och funktion]]
 - [[Målbeskrivning/3.5 Histologi GI|3.5 Histologi GI]]

@@ -12,7 +12,7 @@ Endokrin signalering innebär att hormonproducerande celler frisätter signalmol
 - Ge exempel på tidsmässiga skillnader mellan snabb katekolaminrespons och långsam steroidrespons.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Negativ feedback – principer och exempel|Negativ feedback – principer och exempel]]
 - [[Histologi/Endokrina/Endokrina hormoner – produktionsorgan och funktion|Endokrina hormoner – produktionsorgan och funktion]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

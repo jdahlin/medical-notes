@@ -12,6 +12,6 @@ Corpus pineale består av pinealocyter och interstitiella astrocyter som omges a
 - Identifiera corpora arenacea (kalciumfosfat-depositioner) och deras ökande förekomst med ålder.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Endokrin signalering – principer|Endokrin signalering – principer]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

@@ -12,7 +12,7 @@ Parathyroidea består av tätt packade huvudceller som producerar parathormon (P
 - Identifiera fettceller som ökar med ålder och särskilja parathyroidea från lymfknutor.
 
 ## Relaterat
-- [[Histologi/Endokrina/index|Endokrina organ – mål]]
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Sköldkörteln – struktur och hormoner|Sköldkörteln – struktur och hormoner]]
 - [[Histologi/Endokrina/Endokrina hormoner – produktionsorgan och funktion|Endokrina hormoner – produktionsorgan och funktion]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]
