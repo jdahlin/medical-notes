@@ -1,9 +1,3 @@
-**DEMONSTRATIONKOMPENDIUM**
-
-**FUNKTIONELL HISTOLOGI FÖR MED. STUD**
-
-**Institutionen för biomedicin, Avdelningen för medicinsk kemi och cellbiologi**
-
 # Innehåll
 
 ## Introduktion
