@@ -13,7 +13,7 @@ Adenohypofysen innehåller körtelceller organiserade i strängar runt sinusform
 
 ## Relaterat
 - [[Histologi/Endokrina/|Endokrina organ – mål]]
-- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
+- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]
 - [[Histologi/Endokrina/Neurohypofysen – delar och hormoner|Neurohypofysen – delar och hormoner]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

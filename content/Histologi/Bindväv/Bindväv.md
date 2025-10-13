@@ -1,5 +1,5 @@
 Översikt och typer
-- [[Histologi/Bindväv/|Bindväv – översikt]]
+- [[Histologi/Bindväv/|Bindväv]]
 - Grundtyper: [[Histologi/Bindväv/Lucker Bindväv|lucker]], [[Histologi/Bindväv/Retikulär Bindväv|retikulär]], [[Histologi/Bindväv/Stram Oregelbunden Bindväv|tät oregelbunden]], [[Histologi/Bindväv/Stram Regelbunden Bindväv|tät regelbunden]], [[Histologi/Bindväv/Elastisk Bindväv|elastisk]]
 - Embryonal/specialiserad: [[Histologi/Bindväv/Mesenkym|mesenkym]], [[Histologi/Bindväv/Gelatinös Bindväv|mukös]], [[Histologi/Bindväv/Vit Fettväv|vit fettväv]], [[Histologi/Bindväv/Brun Fettväv|brun fettväv]]
 
@@ -10,5 +10,5 @@ Relaterade fördjupningar
 - [[Histologi/Bindväv/Kollagen|Kollagen]] / [[Histologi/Bindväv/Kollagensyntes|Kollagensyntes]]
 
 Relaterat
-- [[Histologi/|histologi – översikt]]
+- [[Histologi/|histologi]]
 - [[bok/histologi/Kap 05 Bindväv|Kapitel 5 – Bindväv]]

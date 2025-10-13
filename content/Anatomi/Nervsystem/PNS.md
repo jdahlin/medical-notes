@@ -9,6 +9,6 @@
 - [[Anatomi/Nervsystem/Blod-nerv-barriär|Blod–nerv-barriär och Ranviers noder]]
 - [[Anatomi/Nervsystem/Koppling PNS|Relation till CNS]]
 
-Relaterat: [[Anatomi/Nervsystem/CNS|CNS – översikt]], [[Anatomi/Nervsystem/ANS|ANS]], [[Målbeskrivning/AI-summeringar/Nerv|AI-summering nervsystem]].
+Relaterat: [[Anatomi/Nervsystem/CNS|CNS]], [[Anatomi/Nervsystem/ANS|ANS]], [[Målbeskrivning/AI-summeringar/Nerv|AI-summering nervsystem]].
 
 ---

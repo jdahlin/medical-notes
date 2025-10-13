@@ -26,7 +26,7 @@
 - Mutationer i presynaptiska proteiner ger synaptopatier (t.ex. vissa former av epilepsi och autism).
 
 ### Relaterat
-- [[Histologi/Nervsystem/Synaps|Synaps – översikt]]  
+- [[Histologi/Nervsystem/Synaps|Synaps]]  
 - [[Histologi/Nervsystem/Synaptiska vesiklar|Synaptiska vesiklar]]  
 - [[Histologi/Nervsystem/Synaptisk klyfta|Synaptisk klyfta]]  
 

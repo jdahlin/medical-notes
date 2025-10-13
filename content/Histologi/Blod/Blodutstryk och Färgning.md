@@ -7,6 +7,6 @@ Nyckelfynd
 - Trombocyter: små, violetta fragment.
 
 Relaterat
-- [[Histologi/Blod/Leukocyter Översikt|Leukocyter – översikt]]
+- [[Histologi/Blod/Leukocyter Översikt|Leukocyter]]
 - [[Histologi/Blod/Erytrocyt|Erytrocyt]]
 - [[Histologi/Blod/Trombocyt|Trombocyt]]

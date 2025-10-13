@@ -13,6 +13,6 @@ Hypothalamus ligger ventralt i diencephalon kring tredje ventrikeln och integrer
 
 ## Relaterat
 - [[Histologi/Endokrina/|Endokrina organ – mål]]
-- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
+- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

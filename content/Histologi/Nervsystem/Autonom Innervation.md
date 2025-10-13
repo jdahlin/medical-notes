@@ -4,5 +4,5 @@ Kort
 Relaterat
 - [[Histologi/Muskelvävnad/Glattmuskel|Glatt muskel]]
 - [[Histologi/Muskelvävnad/Hjärtmuskel|Hjärtmuskel]]
-- [[Histologi/Nervsystem/Nervsystemet Oversikt och celler|Nervsystemet – översikt]]
+- [[Histologi/Nervsystem/Nervsystemet Oversikt och celler|Nervsystemet]]
 

@@ -3,5 +3,5 @@ Kort
 
 Relaterat
 - [[Histologi/Hud/Subcutis|Subcutis]]
-- [[Histologi/Hud/Nervändslut – översikt|Nervändslut – översikt]]
+- [[Histologi/Hud/Nervändslut – översikt|Nervändslut]]
 

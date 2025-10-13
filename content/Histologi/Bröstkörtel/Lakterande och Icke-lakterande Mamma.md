@@ -3,5 +3,5 @@ Kort
 
 Relaterat
 - [[Histologi/Bröstkörtel/Sekretorisk Del (Mamma)|Sekretorisk del]]
-- [[Histologi/Bröstkörtel/Mamma – översikt|Mamma – översikt]]
+- [[Histologi/Bröstkörtel/Mamma – översikt|Mamma]]
 

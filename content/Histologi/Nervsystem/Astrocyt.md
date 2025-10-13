@@ -24,6 +24,6 @@
 ### Relaterat
 - [[Histologi/Nervsystem/Oligodendrocyt|Oligodendrocyt]]  
 - [[Histologi/Nervsystem/Mikroglia|Mikroglia]]  
-- [[Histologi/Nervsystem/Synaps|Synaps – översikt]]  
+- [[Histologi/Nervsystem/Synaps|Synaps]]  
 
 ---

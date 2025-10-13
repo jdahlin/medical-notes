@@ -3,5 +3,5 @@ Kort
 
 Relaterat
 - [[Histologi/Hud/Stratum Papillare|Stratum papillare]]
-- [[Histologi/Hud/Nervändslut – översikt|Nervändslut – översikt]]
+- [[Histologi/Hud/Nervändslut – översikt|Nervändslut]]
 

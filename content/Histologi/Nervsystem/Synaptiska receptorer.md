@@ -29,6 +29,6 @@
 ### Relaterat
 - [[Histologi/Nervsystem/Postsynaps|Postsynaps]]  
 - [[Histologi/Nervsystem/Transmittorer|Neurotransmittorer]]  
-- [[Histologi/Nervsystem/Synaps|Synaps – översikt]]  
+- [[Histologi/Nervsystem/Synaps|Synaps]]  
 
 ---

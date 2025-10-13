@@ -26,7 +26,7 @@
 - Excitotoxicitet (t.ex. vid stroke) orsakas av överdrivet postsynaptiskt Ca2+-inflöde via glutamatreceptorer.
 
 ### Relaterat
-- [[Histologi/Nervsystem/Synaps|Synaps – översikt]]  
+- [[Histologi/Nervsystem/Synaps|Synaps]]  
 - [[Histologi/Nervsystem/Synaptiska receptorer|Synaptiska receptorer]]  
 - [[Histologi/Nervsystem/Synaptisk klyfta|Synaptisk klyfta]]  
 

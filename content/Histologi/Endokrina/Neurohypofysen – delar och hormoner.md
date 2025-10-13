@@ -14,6 +14,6 @@ Neurohypofysen består av pars nervosa, infundibulum och eminentia mediana där 
 ## Relaterat
 - [[Histologi/Endokrina/|Endokrina organ – mål]]
 - [[Histologi/Endokrina/Hypothalamus – läge och funktion|Hypothalamus – läge och funktion]]
-- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
+- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]
 - [[Målbeskrivning/3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]

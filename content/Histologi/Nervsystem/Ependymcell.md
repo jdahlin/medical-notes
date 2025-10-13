@@ -18,6 +18,6 @@
 ### Relaterat
 - [[Histologi/Epitel/Ependym|Ependym (epitelöversikt)]]  
 - [[Histologi/Nervsystem/Astrocyt|Astrocyt]]  
-- [[Anatomi/Nervsystem/CNS|CNS-översikt]]  
+- [[Anatomi/Nervsystem/CNS|CNS]]  
 
 ---

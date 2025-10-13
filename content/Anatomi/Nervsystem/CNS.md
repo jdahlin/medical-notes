@@ -11,6 +11,6 @@
 - [[Anatomi/Nervsystem/Banor|Uppåt- och nedåtgående banor]]
 - [[Anatomi/Nervsystem/Koppling PNS|Kopplingar till PNS]]
 
-Relaterat: [[Anatomi/Nervsystem/PNS|PNS – översikt]], [[Anatomi/Nervsystem/ANS|ANS]], [[Anatomi/Nervsystem/Afferens efferens integration|Afferens/efferens och integration]].
+Relaterat: [[Anatomi/Nervsystem/PNS|PNS]], [[Anatomi/Nervsystem/ANS|ANS]], [[Anatomi/Nervsystem/Afferens efferens integration|Afferens/efferens och integration]].
 
 ---

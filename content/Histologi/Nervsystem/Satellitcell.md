@@ -22,6 +22,6 @@
 ### Relaterat
 - [[Histologi/Nervsystem/Schwanncell|Schwanncell]]  
 - [[Histologi/Nervsystem/Soma|Neuronens soma]]  
-- [[Anatomi/Nervsystem/PNS|PNS-översikt]]  
+- [[Anatomi/Nervsystem/PNS|PNS]]  
 
 ---

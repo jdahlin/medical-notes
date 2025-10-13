@@ -6,5 +6,5 @@ Kännetecken
 
 Relaterat
 - [[Histologi/Hjärta/Myokardium|Myokardium]]
-- [[Anatomi/Organ/Hjärta/|Hjärta – översikt]]
+- [[Anatomi/Organ/Hjärta/|Hjärta]]
 

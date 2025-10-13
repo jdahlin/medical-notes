@@ -12,7 +12,7 @@ Sammansättning
 
 Celler
 - [[Histologi/Blod/Erytrocyt|Erytrocyt]]
-- [[Histologi/Blod/Leukocyter Översikt|Leukocyter – översikt]]
+- [[Histologi/Blod/Leukocyter Översikt|Leukocyter]]
 - Granulocyter: [[Histologi/Blod/Neutrofil|Neutrofil]], [[Histologi/Blod/Eosinofil|Eosinofil]], [[Histologi/Blod/Basofil|Basofil]]
 - Agranulocyter: [[Histologi/Blod/Lymfocyt|Lymfocyt]], [[Histologi/Blod/Monocyt|Monocyt]]
 - Lymfocyt-subtyper: [[Histologi/Blod/T-Lymfocyt|T-lymfocyt]], [[Histologi/Blod/B-Lymfocyt|B-lymfocyt]]
@@ -20,8 +20,8 @@ Celler
 - [[Histologi/Blod/Granulocytgranula|Granulocytgranula]], [[Histologi/Blod/Lysozym|Lysozym]], [[Histologi/Blod/Heparin|Heparin]], [[Histologi/Blod/Histamin|Histamin]]
 
 Benmärg och hematopoes
-- [[Histologi/Blod/Benmärg|Benmärg – översikt]]
-- [[Histologi/Blod/Hematopoes Översikt|Hematopoes – översikt]]
+- [[Histologi/Blod/Benmärg|Benmärg]]
+- [[Histologi/Blod/Hematopoes Översikt|Hematopoes]]
 - [[Histologi/Blod/Stomacell Benmärg|Stromaceller]], [[Histologi/Blod/Hematopoetisk Stamcell|Hematopoetisk stamcell]]
 - [[Histologi/Blod/Erytopoes|Erytopoes]]
 - Erytropoesstadier: [[Histologi/Blod/Basofil Erytroblast|Basofil]], [[Histologi/Blod/Polykromatisk Erytroblast|Polykromatisk]], [[Histologi/Blod/Ortokromatisk Erytroblast|Ortokromatisk]], [[Histologi/Blod/Retikulocyt|Retikulocyt]]
@@ -38,4 +38,4 @@ Hemostas
 - [[Histologi/Blod/Fibrinolys|Fibrinolys]]
 
 Relaterat
-- [[Histologi/Ben/|Benbildning – översikt]]
+- [[Histologi/Ben/|Benbildning]]

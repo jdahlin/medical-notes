@@ -22,6 +22,6 @@
 ### Relaterat
 - [[Histologi/Nervsystem/Astrocyt|Astrocyt]]  
 - [[Histologi/Nervsystem/Oligodendrocyt|Oligodendrocyt]]  
-- [[Histologi/Nervsystem/Synaps|Synaps – översikt]]  
+- [[Histologi/Nervsystem/Synaps|Synaps]]  
 
 ---

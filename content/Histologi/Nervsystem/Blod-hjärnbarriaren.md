@@ -24,7 +24,7 @@
 
 ### Relaterat
 - [[Histologi/Nervsystem/Myelin och axonal transport|Myelin och axonal transport]]  
-- [[Anatomi/Nervsystem/CNS|CNS-översikt]]  
+- [[Anatomi/Nervsystem/CNS|CNS]]  
 - [[Histologi/Nervsystem/Mikroglia|Mikroglia]]  
 
 ---

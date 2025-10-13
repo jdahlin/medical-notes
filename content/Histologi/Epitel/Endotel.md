@@ -5,7 +5,7 @@ Funktion
 - Barriär, reglering av hemostas, inflammationsrespons, kärltonus.
 
 Relaterat
-- [[Anatomi/Kärl/|Kärl – översikt]]
-- [[Anatomi/Organ/Hjärta/|Hjärta – översikt]]
+- [[Anatomi/Kärl/|Kärl]]
+- [[Anatomi/Organ/Hjärta/|Hjärta]]
 - [[Histologi/Epitel/Skivepitel|skivepitel]]
 - [[bok/histologi/Kap 03 Epitel|Kapitel 3 – Epitel]]

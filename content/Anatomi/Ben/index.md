@@ -65,4 +65,4 @@ Exempel
 | [[Anatomi/Ben/Vertebra Lumbalis|vertebra lumbalis]] | Ryggrad |
 
 Relaterat
-- [[Histologi/Ben/|Benbildning – översikt]]
+- [[Histologi/Ben/|Benbildning]]

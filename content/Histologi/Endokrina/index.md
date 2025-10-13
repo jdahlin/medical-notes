@@ -8,7 +8,7 @@ title: Endokrina organ – mål
 
 ## Översikt
 - [[Histologi/Endokrina/Hypothalamus – läge och funktion|Hypothalamus – läge och funktion]]
-- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen – översikt]]
+- [[Histologi/Endokrina/Hypofysen – översikt|Hypofysen]]
 - [[Histologi/Endokrina/Adenohypofysen – celler och hormoner|Adenohypofysen – celler och hormoner]]
 - [[Histologi/Endokrina/Neurohypofysen – delar och hormoner|Neurohypofysen – delar och hormoner]]
 - [[Histologi/Endokrina/Hypofysen – portasystem|Hypofysen – portasystem]]

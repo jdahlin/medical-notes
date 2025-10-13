@@ -23,6 +23,6 @@
 ### Relaterat
 - [[Histologi/Nervsystem/Satellitcell|Satellitcell]]  
 - [[Histologi/Nervsystem/Oligodendrocyt|Oligodendrocyt]]  
-- [[Anatomi/Nervsystem/PNS|PNS-översikt]]  
+- [[Anatomi/Nervsystem/PNS|PNS]]  
 
 ---

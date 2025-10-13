@@ -28,5 +28,5 @@ Ledningssystem
 - [[Histologi/Hjärta/Myoendokrina Celler (Hjärta)|Myoendokrina celler (ANF)]]
 
 Relaterat
-- [[Anatomi/Organ/Hjärta/|Hjärta – översikt]]
+- [[Anatomi/Organ/Hjärta/|Hjärta]]
 - [[Anatomi/Organ/Hjärta/Valva Aortae|Valva aortae]], [[Anatomi/Organ/Hjärta/Valva Mitralis|Valva mitralis]], [[Anatomi/Organ/Hjärta/Valva Tricuspidalis|Valva tricuspidalis]], [[Anatomi/Organ/Hjärta/Valva Trunci Pulmonalis|Valva trunci pulmonalis]]

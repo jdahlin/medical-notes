@@ -21,7 +21,7 @@
 - Synaptisk gap-synaps (elektrisk synaps) saknar klassisk klyfta och använder gap junctions.
 
 ### Relaterat
-- [[Histologi/Nervsystem/Synaps|Synaps – översikt]]  
+- [[Histologi/Nervsystem/Synaps|Synaps]]  
 - [[Histologi/Nervsystem/Synaptiska vesiklar|Synaptiska vesiklar]]  
 - [[Histologi/Nervsystem/Transmittorer|Neurotransmittorer]]  
 
