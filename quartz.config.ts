@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "johandahlin.github.io/medical-notes",
+    baseUrl: "jdahlin.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "node_modules"],
     defaultDateType: "modified",
     theme: {
