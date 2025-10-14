@@ -1,4 +1,4 @@
-## Blodkärl – översikt
+## Blodkärl
 
 - [[Histologi/Blodkärl/Elastisk Artär|Elastisk artär]]
 - [[Histologi/Blodkärl/Muskelartär|Muskelartär]]

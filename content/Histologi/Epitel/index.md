@@ -1,8 +1,8 @@
 ---
-title: Epitel – översikt
+title: Epitel
 ---
 
-# Epitel – översikt
+# Epitel
 
 Generella egenskaper
 - Polariserade celler (apikal–basal polaritet); vilande på [[Basalmembran|basalmembran]]; avaskulär vävnad (näring via diffusion); hög regenerationsförmåga; rika [[Histologi/Epitel/Cellkontakter|cellkontakter]].

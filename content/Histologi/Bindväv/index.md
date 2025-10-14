@@ -1,8 +1,8 @@
 ---
-title: Bindväv – översikt
+title: Bindväv
 ---
 
-# Bindväv – översikt
+# Bindväv
 
 
 Grundtyper

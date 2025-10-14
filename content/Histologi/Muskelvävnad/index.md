@@ -1,8 +1,8 @@
 ---
-title: Muskelvävnad – översikt
+title: Muskelvävnad
 ---
 
-# Muskelvävnad – översikt
+# Muskelvävnad
 
 - [[Histologi/Muskelvävnad/Skelettmuskel|Skelettmuskel]]
 - [[Histologi/Muskelvävnad/Hjärtmuskel|Hjärtmuskel och hjärta]]

@@ -1,8 +1,8 @@
 ---
-title: Blod – översikt
+title: Blod
 ---
 
-# Blod – översikt
+# Blod
 
 Sammansättning
 - [[Histologi/Blod/Blodets Sammansättning|Blodets sammansättning]]

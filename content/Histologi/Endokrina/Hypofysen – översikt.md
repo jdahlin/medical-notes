@@ -1,8 +1,8 @@
 ---
-title: Hypofysen – översikt
+title: Hypofysen
 ---
 
-# Hypofysen – översikt
+# Hypofysen
 
 Hypofysen (glandula pituitaria) består av adenohypofys (framlob) och neurohypofys (baklob) som sitter i sella turcica och binds till hypothalamus via infundibulum.
 

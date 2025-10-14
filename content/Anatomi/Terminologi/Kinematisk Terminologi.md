@@ -1,4 +1,4 @@
-## Kinematisk terminologi – översikt
+## Kinematisk terminologi
 
 All rörelseutgångar definieras från [[Anatomi/Terminologi/Anatomisk Grundställning|anatomisk grundställning]]. Se även [[Anatomi/Terminologi/Rorelseplan Och Axlar|rörelseplan och axlar]] för vilka plan/axlar rörelserna sker i.
 

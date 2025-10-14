@@ -1,8 +1,8 @@
 ---
-title: Körtlar – översikt
+title: Körtlar
 ---
 
-# Körtlar – översikt
+# Körtlar
 
 
 Klassificering

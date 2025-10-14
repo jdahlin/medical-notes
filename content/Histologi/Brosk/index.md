@@ -1,8 +1,8 @@
 ---
-title: Brosk – översikt
+title: Brosk
 ---
 
-# Brosk – översikt
+# Brosk
 
 
 Typer

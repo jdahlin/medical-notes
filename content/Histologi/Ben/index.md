@@ -1,8 +1,8 @@
 ---
-title: Benbildning – översikt
+title: Benbildning
 ---
 
-# Benbildning – översikt
+# Benbildning
 
 Processer
 - [[Histologi/Ben/Intramembranös Ossifikation|Intramembranös ossifikation]]

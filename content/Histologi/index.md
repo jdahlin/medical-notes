@@ -1,8 +1,6 @@
 ---
-title: Histologi – översikt
+title: Histologi
 ---
-
-# Histologi – översikt
 
 - [[Histologi/Basalmembran|Basalmembran]]
 - [[Histologi/Ben/|Ben]]

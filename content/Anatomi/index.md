@@ -1,9 +1,6 @@
 ---
-title: Anatomi – översikt
+title: Anatomi
 ---
-
-# Anatomi – översikt
-
 
 Underkategorier
 - [[Anatomi/Ben/|Ben]]
