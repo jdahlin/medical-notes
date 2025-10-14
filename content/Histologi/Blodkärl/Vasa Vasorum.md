@@ -3,4 +3,4 @@
 - Viktiga för metabolt stöd där diffusion från lumen ej räcker.  
 - Ökad neovaskularisering ses vid ateroskleros.
 
-Relaterat: [[Histologi/Blodkärl/Elastisk Artär|elastisk artär]], [[Histologi/Blodkärl/Ven|ven]].
+Relaterat: [[Elastisk Artär]] [[Ven]]
