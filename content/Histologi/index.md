@@ -3,7 +3,11 @@ title: Histologi
 ---
 
 # Tabeller
-[Lager & Höljen i vävnader.md](Lager%20&%20Höljen%20i%20vävnader.md)
+
+- [Celltyper](Celltyper.md)
+- [Lager & Höljen i vävnader](Lager%20&%20Höljen%20i%20vävnader.md)
+
+# Underkategorier
 
 - [[Histologi/Basalmembran|Basalmembran]]
 - [[Histologi/Ben/|Ben]]
