@@ -1,8 +1,6 @@
 ---
-title: Hjärta – översikt
+title: Hjärta
 ---
-
-# Hjärta – översikt
 
 Kammare och septa
 - [[Anatomi/Organ/Hjärta/Atrium Dexter|Atrium dexter]] - höger förmak

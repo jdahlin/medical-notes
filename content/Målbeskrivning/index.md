@@ -1,8 +1,6 @@
 ---
-title: Målbeskrivningar – översikt
+title: Målbeskrivningar
 ---
-
-# Målbeskrivningar
 
 - [[Målbeskrivning/1.1 Anatomi Rörelseapparaten|1.1 Anatomi – Rörelseapparaten]]
 - [[Målbeskrivning/1.2 Anatomi Hjärta och cirkulation|1.2 Anatomi – Hjärt- och cirkulation]]

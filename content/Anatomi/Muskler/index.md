@@ -1,9 +1,6 @@
 ---
-title: Muskler – översikt
+title: Muskler
 ---
-
-# Muskler – översikt
-
 
 Exempel
 - [[Anatomi/Muskler/Biceps Brachii|biceps brachii]]

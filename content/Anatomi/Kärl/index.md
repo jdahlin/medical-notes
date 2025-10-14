@@ -1,8 +1,6 @@
 ---
-title: Kärl – översikt
+title: Kärl
 ---
-
-# Kärl – översikt
 
 Exempel
 - [[Anatomi/Kärl/Arteria Brachialis|A Brachialis]]

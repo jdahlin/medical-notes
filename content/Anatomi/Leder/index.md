@@ -1,9 +1,6 @@
 ---
-title: Leder – översikt
+title: Leder
 ---
-
-# Leder – översikt
-
 
 Exempel (synovialleder m.fl.)
 - [[Anatomi/Leder/Axelled|axelled (art. humeri)]]

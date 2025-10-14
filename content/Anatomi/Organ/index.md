@@ -1,8 +1,6 @@
 ---
-title: Organ – översikt
+title: Organ
 ---
-
-# Organ – översikt
 
 - [[Anatomi/Organ/Hjärta/|Hjärta]]
 

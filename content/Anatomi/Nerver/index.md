@@ -1,9 +1,6 @@
 ---
-title: Nerver – översikt
+title: Nerver
 ---
-
-# Nerver – översikt
-
 
 Exempel
 - [[Anatomi/Nerver/N Musculocutaneus|n. musculocutaneus]]

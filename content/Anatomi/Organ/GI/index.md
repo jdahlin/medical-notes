@@ -1,6 +1,4 @@
-title: GI – översikt
-
-# GI – översikt
+title: GI
 
 Delar
 - [[Anatomi/Organ/GI/Cavum Oris|Cavum oris (munhåla)]]

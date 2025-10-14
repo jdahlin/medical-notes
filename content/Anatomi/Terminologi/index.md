@@ -1,9 +1,6 @@
 ---
-title: Terminologi – översikt
+title: Terminologi
 ---
-
-# Terminologi – översikt
-
 
 - [[Anatomi/Terminologi/Anatomisk Grundställning|Anatomisk grundställning]]
 - [[Anatomi/Terminologi/Termers Uppbyggnad|Termers uppbyggnad]]

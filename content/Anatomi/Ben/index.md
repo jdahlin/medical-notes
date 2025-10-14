@@ -1,9 +1,6 @@
 ---
-title: Ben – översikt
+title: Ben
 ---
-
-# Ben – översikt
-
 
 Exempel
 - [[Anatomi/Ben/Humerus|humerus]]
