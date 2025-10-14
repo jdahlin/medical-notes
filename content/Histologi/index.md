@@ -2,6 +2,9 @@
 title: Histologi
 ---
 
+# Tabeller
+[Lager & Höljen i vävnader.md](Lager%20&%20Höljen%20i%20vävnader.md)
+
 - [[Histologi/Basalmembran|Basalmembran]]
 - [[Histologi/Ben/|Ben]]
 - [[Histologi/Bindväv/Bindväv|Bindväv]]
@@ -22,3 +25,4 @@ title: Histologi
 - [[Histologi/Nervsystem/|Nervsystem]]
 - [[Histologi/Njure/|Njure]]
 - [[Histologi/Urinvägar/|Urinvägar]]
+

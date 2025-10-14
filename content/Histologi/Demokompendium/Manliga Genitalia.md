@@ -1,5 +1,5 @@
 
-<span id="_Toc112582160" class="anchor"></span>**MANLIGA GENITALIA** (kapitel 22; Fig 22.1; plate 86 - 91)
+<span id="_Toc112582160" class="anchor"></span>**MANLIGA GENITALIA** ([kapitel 22](https://anatomicalsciences-lwwhealthlibrary-com.ezproxy.ub.gu.se/content.aspx?sectionid=257430537&bookid=3290); Fig 22.1; plate 86 - 91)
 
 **1. TESTIS (Testikel)** (plate 86 och 87; Fig 22.4; 22.5)
 

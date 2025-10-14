@@ -1,8 +1,8 @@
 
 ### Bindvävslager
-- **Epineurium**: yttre tät bindväv som skyddar nerven; innehåller större kärl.  
-- **Perineurium**: omsluter varje fascikel; består av lamellära celler med tight junctions → del av blod–nerv-barriären.  
-- **Endoneurium**: lucker bindväv runt enskilda axon; innehåller kapillärer och stödjeceller.
+- **[[Epineurium]]**: yttre tät bindväv som skyddar nerven; innehåller större kärl.  
+- **[[Perineurium]]**: omsluter varje fascikel; består av lamellära celler med tight junctions → del av blod–nerv-barriären.  
+- **[[Endoneurium]]**: lucker bindväv runt enskilda axon; innehåller kapillärer och stödjeceller.
 
 ### Axon och myelin
 - Axon myeliniseras av [[Histologi/Nervsystem/Schwanncell|Schwannceller]].  

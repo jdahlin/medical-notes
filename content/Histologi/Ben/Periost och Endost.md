@@ -1,10 +1,10 @@
 Kort
-- Bindvävsskikt som bekläder benets yttre (periost) respektive inre (endost) ytor; innehåller progenitorceller, kärl och nerver.
+- Översikt över benets två täckande bindvävslager: [[Histologi/Ben/Periosteum|periosteum]] (yttre) och [[Histologi/Ben/Endosteum|endosteum]] (inre).
 
 Kännetecken
-- Periost: yttre fibröst lager + inre cellrikt (osteogent). Endost: tunt cellager mot märghåla/kanaler.
+- Periosteum har fibröst och osteogent lager med Sharpeys fibrer; endosteum är ett tunt cellager mot märgrum och kanaler.
 
 Relaterat
 - [[Histologi/Ben/Intramembranös Ossifikation|Intramembranös ossifikation]]
 - [[Histologi/Ben/Benremodellering|Benremodellering]]
-
+- [[Histologi/Ben/Sharpeys fibrer|Sharpeys fibrer]]
