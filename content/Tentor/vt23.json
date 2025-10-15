@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "identification",
+    "question": "Vilket skallben på nedanstående bild är:\nos frontale (pannbenet)\nos parietale (hjässbenet)\nos occipitale (nackbenet)\nos temporale (tinningsbenet)",
+    "reference": "Image on Page 2",
+    "image_filename": "VT23.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilket skallben på nedanstående bild är os frontale (pannbenet), os parietale (hjässbenet), os occipitale (nackbenet), os temporale (tinningsbenet) (0,5 per rätt svar, totalt 2p)"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "Namnge en antagonist och en agonist vid flexion av höftleden och motivera ditt val!",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Namnge en antagonist och en agonist vid flexion av höftleden och motivera ditt val! (1,5 p)"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "Definiera begreppen muskelursprung och muskelfäste (eller ge exempel)! Vad är skillnaden mellan ursprung och fäste funktionellt respektive morfologiskt?",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Definiera begreppen muskelursprung och muskelfäste (eller ge exempel)! Vad är skillnaden mellan ursprung och fäste funktionellt respektive morfologiskt? (1,5 p)"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "Förklara sambandet mellan m. pectoralis majors läge och muskelns roterande effekt på överarmen. Vilken rörelseaxel är aktuell, hur rör sig muskelfästet i förhållande till rörelseaxeln och åt vilket håll (inåt/utåt) sker rotationen?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Förklara sambandet mellan m. pectoralis majors läge och muskelns roterande effekt på överarmen. Vilken rörelseaxel är aktuell, hur rör sig muskelfästet i förhållande till rörelseaxeln och åt vilket håll (inåt/utåt) sker rotationen? (2p)"
+  },
+  {
+    "id": 5,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "A. dorsalis pedis är en anatomisk struktur som finns inom foten (pes).\na) Vilken typ av struktur är det?\nb) Var på foten hittar man den?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "A. dorsalis pedis är en anatomisk struktur som finns inom foten (pes). a) Vilken typ av struktur är det? b) Var på foten hittar man den? (1p)"
+  },
+  {
+    "id": 6,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "multi",
+    "question": "Hjärtats placering i thorax - vilka påståenden stämmer?",
+    "choice": [
+      "Hjärtat är placerat medialt om lungorna, ventralt om columna vertebralis",
+      "Hjärtats mest caudala/inferiora del kallas apex och ligger i nivå med costa 5",
+      "Hjärtbasen, basis cordis, utgörs till största del av vänster kammare",
+      "Hjärtdelarna lateralt om sternum kallas mediastinum"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Hjärtats placering i thorax - vilka påståenden stämmer? (1p)"
+  },
+  {
+    "id": 7,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer angående hjärtats klaffar?",
+    "choice": [
+      "Under diastole kontraherar atrium dexter och sinister och skapar på så sätt ett ökat tryck som öppnar atrioventrikulär-klaffarna.",
+      "Ventilplanet/klaffplanet innehåller hjärtats bindvävsskelett samt klaffarna själva, och fungerar även som elektrisk isolator mellan förmak och kammare för att uppnå stabil signalöverföring och hjärtfrekvens.",
+      "Hjärtklaffen mellan vänster förmak och kammare behöver stå emot ett högre tryck, och har därför tre papillarmuskler med chordae tendinae som håller klaffen stängd under systole.",
+      "Aorta- och pulmonalisklaffen öppnas och stängs beroende av hur högt trycket proximalt om klaffen är."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka påståenden stämmer angående hjärtats klaffar? (1p)"
+  },
+  {
+    "id": 8,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad heter de olika delarna av aorta thoracica? Svara med latinska ord samt i proximal-distal riktning.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter de olika delarna av aorta thoracica? Svara med latinska ord samt i proximal-distal riktning. För 1 poäng krävs alla rätt."
+  },
+  {
+    "id": 9,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Om du var en erytrocyt med slutstation ileum - vilken avgång från aorta abdominalis skulle du då ta? Svara på latin.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Om du var en erytrocyt med slutstation ileum - vilken avgång från aorta abdominalis skulle du då ta? Svara på latin (1p)"
+  },
+  {
+    "id": 10,
+    "category": "Vävnadslära / Epitel",
+    "type": "short",
+    "question": "Svara på följande frågor om epitel:\na) Vilken typ av epitel är mest lämplig för effektiv diffusion av gaser över epitelet?\nb) Vilken typ av epitel bekläder vanligen slemhinnor som utsätts för mekanisk nötning?\nc) Vad kallas den cellförbindelse mellan epitelceller som förhindrar fri diffusion av molekyler mellan cellerna?\nd) Ange ett exempel på var i kroppen man hittar cilierad epitel (specificera organ/del av organ)\ne) Vad kallas proteinet som bygger upp epitelens intermediärfilament?\nf) Vad kallas den cellkontakt som förankrar epitelcellens intermediärfilament till basalmembranet?",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Svara på följande frågor om epitel. (0,5p per fråga, totalt 3p)"
+  },
+  {
+    "id": 11,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är korrekt om kollagen?",
+    "choice": [
+      "Syntesen av kollagen sker i sin helhet extracellulärt.",
+      "Kollagenmolekyler utgörs av en homo- eller heterotrimer av tre alfakedjor",
+      "Kollagen färgas rosa av eosin, men i övrigt finns det inga specialfärger för kollagen.",
+      "Hydroxylerade varianter av vissa aminosyror krävs för stabilt kollagen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är korrekt om kollagen?"
+  },
+  {
+    "id": 12,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är korrekt om grundsubstans?",
+    "choice": [
+      "Produceras av makrofager i den luckra bindväven.",
+      "Grundsubstansens uppbyggnad kan driva celldifferentiering åt olika håll.",
+      "Hyaluran är en viktig glukosaminoglykan i grundsubstansen",
+      "Proteindelen i proteoglykaner kan binda upp stora mängder vatten."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är korrekt om grundsubstans?"
+  },
+  {
+    "id": 13,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vilka av följande funktioner har makrofager i den luckra bindväven?",
+    "choice": [
+      "Stimulerar endotelceller att uttrycka adhesionsmolekyler på sin yta vid en infektion.",
+      "Frisätter heparininnehållande granule som förhindrar bildning av blodproppar",
+      "Fagocyterar skräp och apoptotiska celler i vävnaden.",
+      "Utgör en pool av stamceller som kan differentiera till olika bindvävsceller vid vävnadsskada"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka av följande funktioner har makrofager i den luckra bindväven?"
+  },
+  {
+    "id": 14,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "multi-part",
+    "question": "Bilden nedan visar epifysplattan i ett rörben, epifysen är till vänster. Svara på frågorna a-e nedan.\na) Vilken bokstav pekar på reservbrosk?\nb) Vilken bokstav pekar på benbildningszonen?\nc) Vad pekar pil 1 på?\nd) Vad pekar pil 2 på?\ne) Vad gäller för bilden ovan?",
+    "reference": "Image on Page 12",
+    "image_filename": "VT23.pdf",
+    "answer": null,
+    "max_points": 2.5,
+    "source_text": "Bilden nedan visar epifysplattan i ett rörben, epifysen är till vänster. Svara på frågorna a-e nedan. (0,5 p per rätt svar)"
+  },
+  {
+    "id": 15,
+    "category": "Nervsystemet / ANS",
+    "type": "hotspot",
+    "question": "Markera i bild var du finner preganglionära sympatiska neuron? Du måste göra två klick, en för varje sida (det spelar ingen roll vilken ordning).",
+    "reference": "Image on Page 14",
+    "image_filename": "VT23.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Markera i bild var du finner preganglionära sympatiska neuron? Du måste göra två klick, en för varje sida (det spelar ingen roll vilken ordning)."
+  },
+  {
+    "id": 16,
+    "category": "Nervsystemet / PNS",
+    "type": "essay",
+    "question": "Vad menas med grå- respektive vit substans? Ge ett exempel vardera på detta i PNS.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vad menas med grå- respektive vit substans? Ge ett exempel vardera på detta i PNS. (2p)"
+  },
+  {
+    "id": 17,
+    "category": "Nervsystemet / Celler",
+    "type": "essay",
+    "question": "Vilka stödjeceller finns i det perifera nervsystemet? Beskriv funktionen hos dessa celltyper.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilka stödjeceller finns i det perifera nervsystemet? Beskriv funktionen hos dessa celltyper. (2p)"
+  },
+  {
+    "id": 18,
+    "category": "Nervsystemet",
+    "type": "multi",
+    "question": "Vilka av följande påståenden stämmer om nervsystemet?",
+    "choice": [
+      "Ett multipolärt neuron har flera axon",
+      "I dorsalrotsganglier hittas nervcellskroppar hos sensoriska nervceller",
+      "Den mest frekvent förekommande typen av neuron är motoriskt neuron",
+      "Det yttre bindvävslagret som omger en perifer nerv kallas epineurium"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka av följande påståenden stämmer om nervsystemet?"
+  },
+  {
+    "id": 19,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vilka strukturer finns i hjärt- men inte i glattmuskelvävnad?",
+    "choice": [
+      "sarkomerer",
+      "glansstrimmor",
+      "centrala kärnor",
+      "motorändplatttor"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka strukturer finns i hjärt- men inte i glattmuskelvävnad? (1p)"
+  },
+  {
+    "id": 20,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "essay",
+    "question": "Skelettmuskelvävnad:\na) Beskriv en skelettmuskels histologiska uppbyggnad med tanke på de olika bindvävslagren.\nb) Vilken struktur förmedlar sensorisk information i skelettmuskelvävnad?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Skelettmuskelvävnad: a) Beskriv en skelettmuskels histologiska uppbyggnad med tanke på de olika bindvävslagren. (1,5 p) b) Vilken struktur förmedlar sensorisk information i skelettmuskelvävnad? (0,5p)"
+  },
+  {
+    "id": 21,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "essay",
+    "question": "Beskriv hur mekanismerna för hur neutrofilen tar sig från blodet till en vävnad där en infektion kan pågå (homing) och vad neutrofilen gör väl på plats vid infektionen.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv hur mekanismerna för hur neutrofilen tar sig från blodet till en vävnad där en infektion kan pågå (homing) och vad neutrofilen gör väl på plats vid infektionen. (Minst 8 fakta satta i sin rätta kontext krävs för full poäng = 2p)"
+  },
+  {
+    "id": 22,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad är funktionen av en fenestrerad kapillär och var kan man hitta denna typ av kapillär?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är funktionen av en fenestrerad kapillär och var kan man hitta denna typ av kapillär? (1p)"
+  },
+  {
+    "id": 23,
+    "category": "Lymfatiska systemet / Thymus",
+    "type": "short",
+    "question": "Varför hittar man inga lymffolliklar med germinalcentrum i Thymus?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Varför hittar man inga lymffolliklar med germinalcentrum i Thymus? 1p"
+  },
+  {
+    "id": 24,
+    "category": "Lymfatiska systemet / Lymfnod",
+    "type": "essay",
+    "question": "Vita blodkroppar kan nå lymfnoden på två olika sätt. Beskriv dessa och namnge de strukturer som cellerna passerar för att nå lymfnodens parenkym.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vita blodkroppar kan nå lymfnoden på två olika sätt. Beskriv dessa och namnge de strukturer som cellerna passerar för att nå lymfnodens parenkym. 2p"
+  },
+  {
+    "id": 25,
+    "category": "Respirationssystemet / Histologi",
+    "type": "hotspot",
+    "question": "Var finns det olfaktoriska epitelet?",
+    "reference": "Image on Page 22",
+    "image_filename": "VT23.pdf",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Var finns det olfaktoriska epitelet? (svara genom att göra en klick på bilden) (0,5 p)"
+  },
+  {
+    "id": 26,
+    "category": "Respirationssystemet / Histologi",
+    "type": "hotspot",
+    "question": "Markera, genom en klick på bilden, den del av pharynx som bekläds med ett flerskiktad oförhornad skivepitel.",
+    "reference": "Image on Page 23",
+    "image_filename": "VT23.pdf",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Markera, genom en klick på bilden, den del av pharynx som bekläds med ett flerskiktad oförhornad skivepitel. (0,5 p)"
+  },
+  {
+    "id": 27,
+    "category": "Respirationssystemet / Histologi",
+    "type": "essay",
+    "question": "Beskriv uppbygganden av alveolens blod-luft barriär där den är som tunnast.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv uppbygganden av alveolens blod-luft barriär där den är som tunnast. (2p)"
+  },
+  {
+    "id": 28,
+    "category": "Huden / Epidermis",
+    "type": "short",
+    "question": "Svara på följande frågor om epidermis.\na) Vilken typ av cellförbindelse håller ihop cellerna i stratum spinosum?\nb) Var finns epidermis stamceller?\nc) I vilket lager i epidermis frisätts \"lamellar bodies\" för vattebarriären?\nf) Vilken cell i epidermis kan \"lämna\" epitelet och ta sig till en närliggande lymfnod?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på följande frågor om epidermis. (0,5p per rätt svar, totalt 2 poäng)"
+  },
+  {
+    "id": 29,
+    "category": "Endokrina systemet / Hypofysen",
+    "type": "essay",
+    "question": "Bilden ovan visar en del av adenohypofysen:\na) vad kallas celltyperna som pilarna pekar på?\nb) Nämn ett hormon som produceras i adenohypofysen, mycket kort om hormonets funktion samt vilken celltyp som tillverkar hormonet.",
+    "reference": "Image on Page 26",
+    "image_filename": "VT23.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Bilden ovan visar en del av adenohypofysen: a) vad kallas celltyperna som pilarna pekar på? (0.75 p) b) Nämn ett hormon som produceras i adenohypofysen, mycket kort om hormonets funktion samt vilken celltyp som tillverkar hormonet. (1.25 p)"
+  },
+  {
+    "id": 30,
+    "category": "Endokrina systemet / Sköldkörteln",
+    "type": "multi",
+    "question": "Vilka två påståenden stämmer angående glandula thyroidea?",
+    "choice": [
+      "T3 och T4 är viktiga för att kroppsceller skall kunna ta upp jod ifrån födan vi äter",
+      "I varje hörn av de båda loberna sitter glandulae parathyroideae, där hormonet calcitonin produceras",
+      "Thyroidea är placerad ventralt om trachea, inferiort om cartilago thyroidea och består av två lober samt en isthmus",
+      "I follikelcellerna bildas thyroglobulin, som lagras i follikellumens kolloid och används för att bilda T3 och T4"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två påståenden stämmer angående glandula thyroidea? (1p)"
+  },
+  {
+    "id": 31,
+    "category": "Digestionssystemet / Anatomi",
+    "type": "multi",
+    "question": "Födan du äter skall först passera genom mun och munhåla, därefter matstrupen och vidare ner till magsäcken - vilka påståenden nedan stämmer?",
+    "choice": [
+      "Esophagus hålls öppen genom kontinuerlig kontraktion av sitt cirkulära muskellager.",
+      "För att smörja födan och inleda nedbrytning tillförs saliv från spottkörtlarna, där den största kallas glandula submandibularis.",
+      "Esophagus inträde i ventrikeln/gaster kallas cardia, då det är den delen som befinner sig närmast hjärtat.",
+      "När vi sväljer hindras föda från att fara upp i nasopharynx genom att palatum molle och uvula höjs upp."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Födan du äter skall först passera genom mun och munhåla, därefter matstrupen och vidare ner till magsäcken - vilka påståenden nedan stämmer? (1p)"
+  },
+  {
+    "id": 32,
+    "category": "Digestionssystemet / Tunntarm",
+    "type": "multi",
+    "question": "Det mesta av näringsupptaget sker i tunntarmen - vilka två av nedan påståenden stämmer best?",
+    "choice": [
+      "Födans passage genom tunntarmen sker långsamt, för att så mycket som möjligt av näringen skall hinna tas upp.",
+      "i tunntarmen förs födan framåt/distalt genom segmentella kontraktioner i glattmuskellager.",
+      "Blodförsörjningen sker via en oparig gren, som når tunntarmen via ett mesenterium, från aorta abdominalis.",
+      "tunntarmens sista del, ileum, övergår i colon via det s k ileocekal-valvet"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Det mesta av näringsupptaget sker i tunntarmen - vilka två av nedan påståenden stämmer best ? (1p)"
+  },
+  {
+    "id": 33,
+    "category": "Digestionssystemet / Tjocktarm",
+    "type": "short",
+    "question": "Vad heter den delen av tjocktarmen som ligger proximalt om (\"innan\") rectum? Svara på latin.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter den delen av tjocktarmen som ligger proximalt om (\"innan\") rectum? Svara på latin. (1p)"
+  },
+  {
+    "id": 34,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "short",
+    "question": "Vilken är den histologiska förklaringen till att läpparna är röda i den del av läppen som kalla det läppröda?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken är den histologiska förklaringen till att läpparna är röda i den del av läppen som kalla det läppröda? 1p"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / GI-kanalen",
+    "type": "essay",
+    "question": "Från esophagus till analkanalen är Gl-kanalen uppbyggd av 4 lager. Beskriv den generella histologiska uppbyggnaden från lumen och utåt. Ange namn och vilka vävnader som de lika lagren är uppbyggda av.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Från esophagus till analkanalen är Gl-kanalen uppbyggd av 4 lager. Beskriv den generella histologiska uppbyggnaden från lumen och utåt. Ange namn och vilka vävnader som de lika lagren är uppbyggda av. 3p"
+  },
+  {
+    "id": 36,
+    "category": "Digestionssystemet / Lever",
+    "type": "short",
+    "question": "Svara på följande korta frågor om Levern.\na. Vad kallas den minsta gallgången i en leverlobulus?\nb. I vilken riktning rinner blodet i sinusoiderna i en leverlobulus?\nc. Vad kallas den makrofag som finns i sinusoiderna?\nd. Vilken celltyp finner man i Disses spatium?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på följande korta frågor om Levern. (0.5p/rätt svar, totalt 2p)"
+  },
+  {
+    "id": 37,
+    "category": "Urinvägarna / Njure",
+    "type": "identification",
+    "question": "Namnge de numrerade delarna på latin.",
+    "reference": "Image on Page 32",
+    "image_filename": "VT23.pdf",
+    "answer": null,
+    "max_points": 1,
+    "numbered_targets": [
+      {"n": 1, "label": null},
+      {"n": 2, "label": null}
+    ],
+    "source_text": "Namnge de numrerade delarna på latin. (1p)"
+  },
+  {
+    "id": 38,
+    "category": "Urinvägarna / Njure",
+    "type": "essay",
+    "question": "Beskriv filtrationsbarriären i njurens glomeruli och namnge viktiga strukturella komponenter.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv filtrationsbarriären i njurens glomeruli och namnge viktiga strukturella komponenter. (2p)"
+  },
+  {
+    "id": 39,
+    "category": "Urinvägarna / Njure",
+    "type": "multi",
+    "question": "Vilka strukturer hittar man i njurbarken?",
+    "choice": [
+      "Macula densa",
+      "Övergångsepitel",
+      "Bowmans kapsel",
+      "Vasa recta"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka strukturer hittar man i njurbarken?"
+  },
+  {
+    "id": 40,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "short",
+    "question": "Vad kallas den struktur som för med sig kärl, nerver och sädesledare till och från testis? Svara på latin.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad kallas den struktur som för med sig kärl, nerver och sädesledare till och från testis? Svara på latin (1p)"
+  },
+  {
+    "id": 41,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "short",
+    "question": "Namnge de olika cellstadierna (3 stycken) från stamcellstadiet till färdig spermie.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Namnge de olika cellstadierna (3 stycken) från stamcellstadiet till färdig spermie (1 rätt=0p, 2 rätt=0.5p, 3 rätt=1p)"
+  },
+  {
+    "id": 42,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "short",
+    "question": "Nämn en funktion hos Sertolicellen och var man kan hitta denna cell i testis.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Nämn en funktion hos Sertolicellen och var man kan hitta denna cell i testis (1p)"
+  },
+  {
+    "id": 43,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "short",
+    "question": "Nämn en funktion hos Leydigcellen och var man kan hitta denna cell i testis.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Nämn en funktion hos Leydigcellen och var man kan hitta denna cell i testis (1 p)"
+  },
+  {
+    "id": 44,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer angående uterus?",
+    "choice": [
+      "Uterus är placerad ventralt om rectum, dorsalt om vesica urinaria",
+      "Glattmuskellagret i uterus ökar i tjocklek mellan ovulation (ägglossning) och menstruation",
+      "Den största delen av uterus kallas fundus",
+      "Uterusväggen har tre lager: endo-, myo- och perimetrium"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka påståenden stämmer angående uterus? (1p)"
+  },
+  {
+    "id": 45,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "short",
+    "question": "Vad har corpus luteum för funktion och vilka celler består den av (varifrån kommer dessa celler)?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vad har corpus luteum för funktion och vilka celler består den av (varifrån kommer dessa celler)?"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "multi",
+    "question": "Vad heter de lager som faller av från livmodern vid menstruation?",
+    "choice": [
+      "Stratum compactum",
+      "Stratum spongiosum",
+      "Stratum fasciculata",
+      "Stratum basalis"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter de lager som faller av från livmodern vid menstruation?"
+  },
+  {
+    "id": 47,
+    "category": "Reproduktionssystemet / Vagina",
+    "type": "multi",
+    "question": "Vad är sant om vagina?",
+    "choice": [
+      "i cervix möter vaginas epitel livmoderns flerskiktade kubiska epitel",
+      "in mot lumen finns ett förhornat flerskiktat skivepitel",
+      "in mot lumen finns ett oförhornat flerskiktat skivepitel",
+      "i cervix möter vaginas epitel livmoderns enskiktade cylinerepitel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är sant om vagina?"
+  },
+  {
+    "id": 48,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "multi",
+    "question": "Vilka celler samverkar för att tillverka östrogen?",
+    "choice": [
+      "Oocyter",
+      "Theca interna celler",
+      "Granulosaceller",
+      "Theca externa celler"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka celler samverkar för att tillverka östrogen?"
+  }
+]

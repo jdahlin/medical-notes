@@ -1,8 +1,24 @@
-Ben
-- [[Anatomi/Ben/Scapula|scapula]] (cavitas glenoidalis)
-- [[Anatomi/Ben/Humerus|humerus]] (caput humeri)
+## Ledkomponenter
+- Ledhuvud: [[Anatomi/Ben/Humerus|caput humeri]].
+- Ledpanna: [[Anatomi/Ben/Scapula|cavitas glenoidalis scapulae]].
 
-Relaterade muskler
+## Typ och rörelser
+- Typ: Kulled (art. humeri) med stor rörlighet.
+- Rörelseaxlar och rörelser:
+  - Flexio ↔ extensio (sagittalplan).
+  - Abductio ↔ adductio (frontalplan).
+  - Rotatio interna ↔ externa (vertikalaxel).
+  - Circumductio (kombination av ovanstående).
+  - Elevation av armen kräver scapulohumeral rytm (glidning i art. scapulothoracalis).
+
+## Utmärkande drag
+- Labrum glenoidale (fibrocartilago) fördjupar ledytan.
+- Tunn kapsel förstärkt av ligament: lig. coracohumerale, ligg. glenohumeralia.
+- Rotatorkuffens senor (supraspinatus, infraspinatus, teres minor, subscapularis) stabiliserar ledhuvudet.
+- Bursa subacromialis/subdeltoidea möjliggör glidning under akromion.
+- Instabilitet kompenseras av muskulär kontroll och ledläpp.
+
+## Relaterade muskler
 - [[Anatomi/Muskler/Deltoideus|deltoideus]]
 - [[Anatomi/Muskler/Latissimus Dorsi|latissimus dorsi]]
 - [[Anatomi/Muskler/Pectoralis Major|pectoralis major]]

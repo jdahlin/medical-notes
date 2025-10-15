@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "essay",
+    "question": "Ange synonymer (på latin) till termerna ventral och dorsal!",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Ange synonymer (på latin) till termerna ventral och dorsal! (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Leder",
+    "type": "essay",
+    "question": "Var i en led sitter ledbrosket och vilken funktion har det?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var i en led sitter ledbrosket och vilken funktion har det? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "identification",
+    "question": "Vilken bokstav markerar:\na) m. sternocleidomastoideus?\nb) m. trapezius\nc) m. deltoideus\nd) m. latissimus dorsi?",
+    "reference": "Image on Page 5",
+    "image_filename": "HT22 omtenta.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      { "n": "a", "label": "m. sternocleidomastoideus" },
+      { "n": "b", "label": "m. trapezius" },
+      { "n": "c", "label": "m. deltoideus" },
+      { "n": "d", "label": "m. latissimus dorsi" }
+    ],
+    "source_text": "Vilken bokstav markerar:\na) m. sternocleidomastoideus? \nb) m. trapezius \nc) m. deltoideus \nd) m. latissimus dorsi? (0,5p per rätt svar, inga avdrag för fel)",
+    "course": "anatomi"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "Förklara vad en trehövdad muskel (muskel med tre huvuden) är och ge exempel på en sådan muskel.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Förklara vad en trehövdad muskel (muskel med tre huvuden) är och ge exempel på en sådan muskel. (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "En tänkt muskel har förmågan att utåtrotera i axelleden och gör inga andra rörelser. På vilket ben och på vilken del av benet sitter ursprung respektive fäste? Hur förhåller sig muskelns förlopp i relation till rörelseaxeln för rotation?",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "En tänkt muskel har förmågan att utåtrotera i axelleden och gör inga andra rörelser. På vilket ben och på vilken del av benet sitter ursprung respektive fäste? Hur förhåller sig muskelns förlopp i relation till rörelseaxeln för rotation? (3p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 6,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer angående hjärtvägg och hjärtsäck?",
+    "choice": [
+      "I endokardiet finns särskilda hjärtceller som ingår i hjärtats signalsystem för elektriska impulser.",
+      "Det tjockaste lagret i hjärtväggen utgörs av myokardiet, som innehåller specialiserad kontraktila kardiomyocyter",
+      "Mellan perikardiets parietala och viscerala blad (=lamina) finns ett litet utrymme som potentiellt kan fyllas med blod eller vätska vid skada på hjärtat - tillståndet kallas hjärttamponad.",
+      "Hjärtvägg och hjärtsäck består tillsammans av åtta olika lager med olika celltyper"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka påståenden stämmer angående hjärtvägg och hjärtsäck? (1p)"
+  },
+  {
+    "id": 7,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "identification",
+    "question": "Namnge de olika delarna av aorta thoracica (A, B och C) i denna tecknade bild.",
+    "reference": "Image on Page 8",
+    "image_filename": "HT22 omtenta.pdf",
+    "answer": null,
+    "max_points": 3,
+    "numbered_targets": [
+        { "n": "A", "label": null },
+        { "n": "B", "label": null },
+        { "n": "C", "label": null }
+    ],
+    "source_text": "Namnge de olika delarna av aorta thoracica (A, B och C) i denna tecknade bild. (3p)"
+  },
+  {
+    "id": 8,
+    "category": "Vävnadslära / Epitel",
+    "type": "essay",
+    "question": "Nämn fyra generella egenskaper som är utmärkande för uppbygganden av epitel.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Nämn fyra generella egenskaper som är utmärkande för uppbygganden av epitel. (2)"
+  },
+  {
+    "id": 9,
+    "category": "Vävnadslära / Epitel",
+    "type": "multi",
+    "question": "Vilka två av följande är beklädda med ett flerskiktat epitel?",
+    "choice": [
+      "svettkörtlarnas utförsgångar",
+      "munnhålan",
+      "epididymis",
+      "Tunntarmen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två av följande är beklädda med ett flerskiktat epitel?"
+  },
+  {
+    "id": 10,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är korrekt om kollagen?",
+    "choice": [
+      "När den hållbara kollagenfibern väl har bildats kommer den förbli oförändrad under lång tid",
+      "Elastiska fibrer består av kollagen",
+      "Kollagenfibrer består av buntar av kollagenfibriller",
+      "Retikulära fibrer består av kollagen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är korrekt om kollagen?"
+  },
+  {
+    "id": 11,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är korrekt om grundsubstans?",
+    "choice": [
+      "Färgas distinkt rosa i traditionell HE-färgning",
+      "Utgör en beståndsdel i extracellulärmatrix",
+      "Består av fett och kollagen",
+      "Innehåller mycket vatten"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är korrekt om grundsubstans?"
+  },
+  {
+    "id": 12,
+    "category": "Vävnadslära / Brosk",
+    "type": "short",
+    "question": "Hur får kondrocyter näringsämnen i brosk?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Hur får kondrocyter näringsämnen i brosk? 1p"
+  },
+  {
+    "id": 13,
+    "category": "Lymfatiska systemet / MALT",
+    "type": "essay",
+    "question": "Ge tre exempel på ansamlingar av lymfoid vävnad längs kroppens slemhinnor.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Ge tre exempel på ansamlingar av lymfoid vävnad längs kroppens slemhinnor. (3p)"
+  },
+  {
+    "id": 14,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "short",
+    "question": "Svara på följande frågor om ben och benbildning:\na) Vilken cell är benets \"makrofag\"?\nb) I vilken zon i endokondral benbildning dör kondrocyterna?\nc) Vilka är de två huvudkomponenterna i hydroxyapatit (mineralet i ben)?\nd) Canaliculi är små kanaler i ben. Vilka celler har sina utskott i dessa?\ne) Vilka fibrer är viktiga för draghållfastheten i ben?\nf) Vilken typ av ben bildas genom direkt benbildning?",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Svara på följande frågor om ben och benbildning: (0,5p per rätt svar)",
+    "course": "anatomi"
+  },
+  {
+    "id": 15,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vilka strukturer finns i hjärt- men inte glattmuskelvävnad?",
+    "choice": [
+      "glansstrimmor",
+      "centrala kärnor",
+      "motorändplatttor",
+      "sarkomerer"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka strukturer finns i hjärt- men inte glattmuskelvävnad? (1p)"
+  },
+  {
+    "id": 16,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "essay",
+    "question": "Beskriv skelettmuskelns histologiska uppbyggnad med tanke på de olika bindvävslagren.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv skelettmuskelns histologiska uppbyggnad med tanke på de olika bindvävslagren. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 17,
+    "category": "Blod och blodbildning / Blod",
+    "type": "multi",
+    "question": "Vilka två påståenden är korrekta avseende friskt cirkulerande humant blod?",
+    "choice": [
+      "Fibrinogen är viktigt för koagulationskaskaden i blodet",
+      "Omogna celler av alla dess slag är mycket vanligt förekommande ute i blodet",
+      "Monocyterna är de storleksmässigt minsta cellerna i blodet",
+      "Man kan se vissa retikulocyter cirkulera i blodet (1-2% av erytrocyterna)"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två påståenden är korrekta avseende friskt cirkulerande humant blod? (1p)"
+  },
+  {
+    "id": 18,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "short",
+    "question": "Monocyter mognar ut till makrofager i sina målvävnader. Förutom alveolära makrofager i lungorna hittar man bland annat makrofager i ben, lever och hjärna. Nämn namnet på en av dessa makrofager från ovanstående organ.",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Monocyter mognar ut till makrofager i sina målvävnader. Förutom alveolära makrofager i lungorna hittar man bland annat makrofager i ben, lever och hjärna. Nämn namnet på en av dessa makrofager från ovanstående organ. (0.5p)"
+  },
+  {
+    "id": 19,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "essay",
+    "question": "Förutom kontinuerlig kapillär kan vi finna ytterligare två olika typer av kapillärer. Namnge dem samt nämn kort deras funktion och typisk lokalisation.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Förutom kontinuerlig kapillär kan vi finna ytterligare två olika typer av kapillärer. Namnge dem samt nämn kort deras funktion och typisk lokalisation. (2p)"
+  },
+  {
+    "id": 20,
+    "category": "Nervsystemet / PNS",
+    "type": "hotspot",
+    "question": "Var på denna bild återfinns de de primära sensoriska neuronens cellkroppar på höger, respektive vänster sida? (det spelar ingen roll vilken sida du klickar på först, men du behöver markera på bägge sidor, alltså två klick).",
+    "reference": "Image on Page 14",
+    "image_filename": "HT22 omtenta.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var på denna bild återfinns de de primära sensoriska neuronens cellkroppar på höger, respektive vänster sida? (1p)"
+  },
+  {
+    "id": 21,
+    "category": "Nervsystemet / ANS",
+    "type": "multi",
+    "question": "Vilka 2 av följande påståenden är korrekta avseende autonoma nervsystemet?",
+    "choice": [
+      "Neuronen i autonoma nervsystemet är mer myeliniserade än de somatiska neuronen",
+      "Parasympaticus dämpar hjärtfrekvens och andningsfrekvens",
+      "I Parasympaticus ingår 2 neuron, ett pre- och ett postganglionärt och det pregangliora är längst",
+      "Sympaticus dirigerar blod till mag-tarm-kanalen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka 2 av följande påståenden är korrekta avseende autonoma nervsystemet? (1p)"
+  },
+  {
+    "id": 22,
+    "category": "Nervsystemet / PNS / Kranialnerver",
+    "type": "short",
+    "question": "Vad heter den kranialnerv som tar emot merparten av ansiktets känsel?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter den kranialnerv som tar emot merparten av ansiktets känsel? (1p)"
+  },
+  {
+    "id": 23,
+    "category": "Nervsystemet / Celler",
+    "type": "essay",
+    "question": "Vilka stödjeceller återfinns i PNS och vad har respektive celltyp för funktion?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilka stödjeceller återfinns i PNS och vad har respektive celltyp för funktion? (2p)"
+  },
+  {
+    "id": 24,
+    "category": "Huden / Epidermis",
+    "type": "multi",
+    "question": "Vilka två påståeden stämmer på stratum granulosum i epidermis?",
+    "choice": [
+      "här bildas lipider för vattenbarriären",
+      "här finns melanocyternas cellkroppar",
+      "här sker keratinocyternas sista celldelning",
+      "här bildas proteiner som bidrar till förhorningen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två påståeden stämmer på stratum granulosum i epidermis?"
+  },
+  {
+    "id": 25,
+    "category": "Huden / Dermis",
+    "type": "multi",
+    "question": "Vilka två påståenden stämmer bäst på stratum papillare i dermis?",
+    "choice": [
+      "utgörs av stram bindväv",
+      "Separeras från epidermis med ett basalmembran",
+      "innehåller stamceller för epidermis",
+      "kan innehålla Meissners korpuskel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två påståenden stämmer bäst på stratum papillare i dermis?"
+  },
+  {
+    "id": 26,
+    "category": "Huden / Körtlar",
+    "type": "multi",
+    "question": "Vilka två påståeden stämmer bäst på talgkörtlar?",
+    "choice": [
+      "Producerar ett seröst sekret",
+      "Basalmembranet är kontinuerligt med det i epidermis",
+      "Har merokrin sekretion",
+      "Sekretet töms i hårfollikeln"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två påståeden stämmer bäst på talgkörtlar?"
+  },
+  {
+    "id": 27,
+    "category": "Respirationssystemet / Histologi",
+    "type": "essay",
+    "question": "Vilka är de tre mest förekommande celltyperna i respiratoriskt epitel? Ange namn och funktion.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Vilka är de tre mest förekommande celltyperna i respiratoriskt epitel? Ange namn och funktion (3p)",
+    "course": "histologi"
+  },
+  {
+    "id": 28,
+    "category": "Endokrina systemet / Hypofysen",
+    "type": "identification",
+    "question": "Histologisk bild från adenohypofysen - vad pekar pilarna på?",
+    "reference": "Image on Page 18",
+    "image_filename": "HT22 omtenta.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      { "n": 1, "label": null },
+      { "n": 2, "label": null },
+      { "n": 3, "label": null },
+      { "n": 4, "label": null }
+    ],
+    "source_text": "Histologisk bild från adenohypofysen - vad pekar pilarna på? (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 29,
+    "category": "Endokrina systemet / Binjuren",
+    "type": "short",
+    "question": "Binjuren består av två histologiskt och funktionella skilda delar - vad heter dessa?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Binjuren består av två histologiskt och funktionella skilda delar - vad heter dessa? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 30,
+    "category": "Endokrina systemet / Sköldkörteln",
+    "type": "short",
+    "question": "Vilka celler producerar hormonerna T3 och T4 och vad heter hormonet (förkortning räcker!) som stimulerar dessa celler?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka celler producerar hormonerna T3 och T4 och vad heter hormonet (förkortning räcker!) som stimulerar dessa celler? (1p)"
+  },
+  {
+    "id": 31,
+    "category": "Digestionssystemet / Esofagus och Magsäck",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer angående esophagus och ventrikel?",
+    "choice": [
+      "Området där esophagus träder in i ventrikeln kallas cardia",
+      "Den största delen av ventrikeln kallas antrum",
+      "Esophagus är placerad ventralt om columna vertebralis, medialt om trachea",
+      "Övergången till duodenum sker via m. sphincter pylori"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka påståenden stämmer angående esophagus och ventrikel? (1p)"
+  },
+  {
+    "id": 32,
+    "category": "Digestionssystemet / Tjocktarm",
+    "type": "identification",
+    "question": "Vilka delar av tjocktarmen pekar pilarna på?",
+    "reference": "Image on Page 20",
+    "image_filename": "HT22 omtenta.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      { "n": 1, "label": null },
+      { "n": 2, "label": null },
+      { "n": 3, "label": null },
+      { "n": 4, "label": null }
+    ],
+    "source_text": "Vilka delar av tjocktarmen pekar pilarna på? (2p)"
+  },
+  {
+    "id": 33,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med papilla fungiforme?",
+    "choice": [
+      "Har tydlig kärna av bindväv - bindvävspapiller - som sträcker sig mot epitelytan",
+      "Har talrika smaklökar som tvättas rena av sekret från von Ebners körtlar",
+      "Ligger på rad utmed tungans sidor",
+      "Innehåller enstaka smaklökar som ligger på papillens apikala yta"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två av följande påståenden stämmer bäst med papilla fungiforme? (1p)"
+  },
+  {
+    "id": 34,
+    "category": "Digestionssystemet / Lever",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med levern?",
+    "choice": [
+      "Producerar merparten av kroppens insulin",
+      "Sinusoiderna tömmer sig i centralartären",
+      "Interlobulära gallgångar löper i portalfälten",
+      "Innehåller disses spatium med itoceller"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två av följande påståenden stämmer bäst med levern? (1p)"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / Tunntarm",
+    "type": "essay",
+    "question": "Beskriv hur tunntarmens mukosa är uppbyggd. Det ska framgå hur mukosan är organiserad och vilka celltyper som återfinns där.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv hur tunntarmens mukosa är uppbyggd. Det ska framgå hur mukosan är organiserad och vilka celltyper som återfinns där. (2p)"
+  },
+  {
+    "id": 36,
+    "category": "Digestionssystemet / Pankreas",
+    "type": "essay",
+    "question": "Vad kallas pankreas endokrina delar och vilka celltyper återfinner man där. Notera också vilken respektive cells huvudsakliga funktion är.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vad kallas pankreas endokrina delar och vilka celltyper återfinner man där. Notera också vilken respektive cells huvudsakliga funktion är. (2p)"
+  },
+  {
+    "id": 37,
+    "category": "Urinvägarna / Njure",
+    "type": "drag-and-drop",
+    "question": "I denna bild skall du markera ut\na) pelvis renalis\nb) arteria renalis",
+    "reference": "Image on Page 23",
+    "image_filename": "HT22 omtenta.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "I denna bild skall du markera ut a) pelvis renalis b) arteria renalis (0,5p per rätt svar)"
+  },
+  {
+    "id": 38,
+    "category": "Urinvägarna / Njure",
+    "type": "essay",
+    "question": "Vilken funktion har den juxtaglomerulära apparaten, och vilka histologiska komponenter består den av?",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Vilken funktion har den juxtaglomerulära apparaten, och vilka histologiska komponenter består den av? (3p)",
+    "course": "histologi"
+  },
+  {
+    "id": 39,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "short",
+    "question": "Vad heter det nätverk av små vener som löper i funiculus spermaticus? Svara med latinska ord.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter det nätverk av små vener som löper i funiculus spermaticus? Svara med latinska ord (1p)"
+  },
+  {
+    "id": 40,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "short",
+    "question": "I ett histologiskt preparat från ett manligt organ kan man se konkrement - vilket organ?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "I ett histologiskt preparat från ett manligt organ kan man se konkrement - vilket organ? (0.5p)",
+    "course": "histologi"
+  },
+  {
+    "id": 41,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "short",
+    "question": "Var hittar ser man leydigceller i ett histologist preparat (rätt organ räcker inte för poäng)?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Var hittar ser man leydigceller i ett histologist preparat (rätt organ räcker inte för poäng)? (0.5p)",
+    "course": "histologi"
+  },
+  {
+    "id": 42,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "essay",
+    "question": "Beskriv spermatogenesen: Namnge cellerna från mest omogna till färdiga spermier, ange kromosomantal, celldelning och Sertolicellens funktion i processen.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv spermatogenesen: Namnge cellerna från mest omogna till färdiga spermier, ange kromosomantal, celldelning och Sertolicellens funktion i processen. (2p)"
+  },
+  {
+    "id": 43,
+    "category": "Reproduktionssystemet / Kvinnliga genitalia",
+    "type": "multi-select",
+    "question": "Vilka av följande hör INTE till kvinnliga yttre genitalia (vulva)?\n1) Portio\n2) Clitoris\n3) Labia majora\n4) Ampulla tubae uterinae\n5) Vestibulum",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka av följande hör INTE till kvinnliga yttre genitalia (vulva)? (1p)\n1) Portio\n2) Clitoris\n3) Labia majora\n4) Ampulla tubae uterinae\n5) Vestibulum"
+  },
+  {
+    "id": 44,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "short",
+    "question": "Vilka strukturer finner man i ovariets medulla/märg?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka strukturer finner man i ovariets medulla/märg? (1p)"
+  },
+  {
+    "id": 45,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "short",
+    "question": "Vilka strukturer omger oocyten då den lämnar ovariet vid ägglossningen?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka strukturer omger oocyten då den lämnar ovariet vid ägglossningen? 1p"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Uterus och Vagina",
+    "type": "short",
+    "question": "Vilket epitel finns det i\na) uterus\nb) vagina",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket epitel finns det i (1p)\na) uterus\nb) vagina"
+  },
+  {
+    "id": 47,
+    "category": "Reproduktionssystemet / Placenta",
+    "type": "essay",
+    "question": "Beskriv den histologiska uppbyggnaden av ett korionvillus/placentavillus i en mogen placenta.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv den histologiska uppbyggnaden av ett korionvillus/placentavillus i en mogen placenta. (2p)"
+  }
+]

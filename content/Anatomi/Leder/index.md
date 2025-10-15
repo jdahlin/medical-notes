@@ -12,3 +12,15 @@ Exempel (synovialleder m.fl.)
 - [[Anatomi/Leder/Interphalangealleder|interphalangealleder]]
 - [[Anatomi/Leder/Käkled|käkled (art. temporomandibularis)]]
 - [[Anatomi/Leder/Ryggrad Mellankotsleder|ryggradens mellankotsleder]]
+
+# Tabell
+
+| Ledtyp              | Ledhuvud            | Ledpanna            |
+|---------------------|---------------------|---------------------|
+| Axelled             | Humerus             | Scapula             |
+| Armbågsled          | Humerus             | Ulna och Radius     |
+| Handled             | Radius              | Karpalbenen         |
+| Höftled             | Femur               | Os coxae            |
+| Knäled              | Femur               | Tibia och patella   |
+| Fotled              | Talus               | Tibia och fibula    |
+|---------------------|---------------------|---------------------|

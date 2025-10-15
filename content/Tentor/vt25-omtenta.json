@@ -1,0 +1,631 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "multi",
+    "question": "Vilket av följande påståenden är mest korrekt?",
+    "choice": [
+      "Musculus quadriceps femoris är ett samlingsnamn för musculus biceps femoris, musculus semitendinosus och musculus semimembranosus",
+      "Om musculus quadriceps femoris distala sena går av förlorar man nästan helt förmåga att extendera aktivt i knäleden",
+      "Musculus Quadriceps femoris har fyra delar: M. vastus medialis, m. vastus lateralis, m vastus intermedius och m rectus femoris. Dessa urspringer alla på femur och fäster direkt på proximala tibia.",
+      "Om musculus quadriceps femoris distala sena går av förlorar man nästan helt förmågan att flektera aktivt i höftleden"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande påståenden är mest korrekt? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "Vilket påstående är falskt om den här bilden? Svara alltså på vad som INTE stämmer!",
+    "reference": "Image on Page 6",
+    "image_filename": "HT25 omtenta.pdf",
+    "choice": [
+      "Siffrorna 1, 2 och 4 är alla delar av neurokraniet",
+      "Siffrorna 1, 2, 3 och 6 representerar pariga ben",
+      "Os frontale representeras av siffran 4",
+      "Os occipitale representeras av siffran 1"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående är falskt om den här bilden? Svara alltså på vad som INTE stämmer! (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "Vilket påstående är sant om den här bilden?",
+    "reference": "Image on Page 7",
+    "image_filename": "HT25 omtenta.pdf",
+    "choice": [
+      "Bäckenets tre delar, markerade med siffrorna 1-3, sitter ihop med strama synovialleder som kallas art. puboiliaca, art. puboischiadica och art. ischioiliaca",
+      "Nummer 4 pekar på caput femoris",
+      "Bilden pekar på coxa dextra, det vill säga höger bäckenhalva",
+      "Nummer 2 ligger ventralt och nummer 3 ligger dorsalt i bäckenet"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående är sant om den här bilden? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "essay",
+    "question": "Begreppet rotation används på olika sätt när man pratar om bålens rörelser jämfört med när man pratar om extremiteternas rörelser. Det finns också en skillnad i hur man anger rörelseaxeln för rotation i bålen kontra extremiteterna. Redogör kortfattat för dessa två skillnader!",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Begreppet rotation används på olika sätt när man pratar om bålens rörelser jämfört med när man pratar om extremiteternas rörelser. Det finns också en skillnad i hur man anger rörelseaxeln för rotation i bålen kontra extremiteterna. Redogör kortfattat för dessa två skillnader! (2p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "Om en led befinner sig i ett flekterat läge, krävs det inte alltid en aktiv kontraktion i extensormuskulaturen för att utföra en extension i leden. Förklara varför det förhåller sig så, och ge exempel på en aktivitet där det krävs att man använder aktivt muskelarbete för att extendera en flekterad led.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Om en led befinner sig i ett flekterat läge, krävs det inte alltid en aktiv kontraktion i extensormuskulaturen för att utföra en extension i leden. Förklara varför det förhåller sig så, och ge exempel på en aktivitet där det krävs att man använder aktivt muskelarbete för att extendera en flekterad led. (3p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 6,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "essay",
+    "question": "Förklara begreppen systole och diastole.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Förklara begreppen systole och diastole. (2p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 7,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "drag-and-drop",
+    "question": "Vad pekar pilarna på?",
+    "reference": "Image on Page 11",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad pekar pilarna på? (drag och släpp, 0.25p per rätt svar, totalt 1p)"
+  },
+  {
+    "id": 8,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående hjärtvägg och hjärtsäck?",
+    "choice": [
+      "Pericardium serosums lamina viscerale är det innersta lagret i hjärtväggen",
+      "Cavum pericardii är en vätskespalt mellan pericardium fibrosum och pericardium serosum som underlättar hjärtats rörelse och minskar friktion",
+      "Myokardiet är som tjockast i ventriculus sinister för att kunna upprätthålla högt tryck- och volymsarbete",
+      "Endokardiet buktar in i ventriklarna och bildar papillar-muskler som ingår i AV-klaffarnas fästanordning"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående hjärtvägg och hjärtsäck? (1p)"
+  },
+  {
+    "id": 9,
+    "category": "Vävnadslära / Epitel",
+    "type": "multi-part",
+    "question": "Bilden visar fyra olika typer av epitel som är märkta A-D.\na) Vilka typer av epitel visas i figuren ovan? Svara genom att välja rätt epitel för varje bild.\nb) Över vilken av ovan epiteltyper sker diffusion av gaser mest effektivt? Ange rätt bokstav.\nc) Vilket av ovan epiteltyper skyddar bäst mot mekanisk nötning? Ange rätt bokstav.",
+    "reference": "Image on Page 13",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "a) Vilka typer av epitel visas i figuren ovan? Svara genom att välja rätt epitel för varje bild: (0,5p per rätt svar)\nb) Över vilken av ovan epiteltyper sker diffusion av gaser mest effektivt? Ange rätt bokstav. (0.5p)\nc) Vilket av ovan epiteltyper skyddar bäst mot mekanisk nötning? Ange rätt bokstav (0.5p).",
+    "course": "histologi"
+  },
+  {
+    "id": 10,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vilken typ av vävnad ses på bilden?",
+    "reference": "Image on Page 15",
+    "image_filename": "HT25 omtenta.pdf",
+    "choice": [
+      "Skelettmuskel",
+      "Sena",
+      "Stram oregelbunden bindväv",
+      "Trådbrosk"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken typ av vävnad ses på bilden? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 11,
+    "category": "Vävnadslära / Brosk",
+    "type": "essay",
+    "question": "Vad är perikondrium och vad har det för funktion?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vad är perikondrium och vad har det för funktion? (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 12,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "identification",
+    "question": "Bilden ovan visar benbildningszonen i indirekt (endokondral) benbildning. Ange den siffra som passar bäst för nedan påståenden:\n- Cell som omges av benmatrix:\n- Cell som producerar matrixnedbrytande enzymer:\n- Förkalkad brosk:\n- Omogna blodceller:",
+    "reference": "Image on Page 17",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Bilden ovan visar benbildningszonen i indirekt (endokondral) benbildning. Ange den siffra som passar bäst för nedan påståenden: (0.5p per rätt svar)",
+    "course": "histologi"
+  },
+  {
+    "id": 13,
+    "category": "Nervsystemet / ANS",
+    "type": "short",
+    "question": "Vad har sympaticus för huvudsakliga funktioner?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad har sympaticus för huvudsakliga funktioner? 1p"
+  },
+  {
+    "id": 14,
+    "category": "Nervsystemet / ANS",
+    "type": "hotspot",
+    "question": "Markera ett autonomt ganglion på bilden.",
+    "reference": "Image on Page 18",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Markera ett autonomt ganglion på bilden (1p). (Markera på strukturen, inte på linjerna som pekar på strukturen)"
+  },
+  {
+    "id": 15,
+    "category": "Nervsystemet / ANS",
+    "type": "multi",
+    "question": "Vilket av följande begrepp beskriver bäst information till våra inre organ från ryggmärgen?",
+    "choice": [
+      "Somatisk Efferens",
+      "Visceral Efferens",
+      "Somatisk Afferens",
+      "Visceral Afferens"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande begrepp beskriver bäst information till våra inre organ från ryggmärgen? (1p)"
+  },
+  {
+    "id": 16,
+    "category": "Nervsystemet / PNS",
+    "type": "multi",
+    "question": "Vilket av följande är det yttersta bindvävslagret i den perifera nerven?",
+    "choice": [
+      "Perineurium",
+      "Epineurium",
+      "Neurilemma",
+      "Mesoneurium",
+      "Endoneurium"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande är det yttersta bindvävslagret i den perifera nerven? (1p)"
+  },
+  {
+    "id": 17,
+    "category": "Nervsystemet / Celler",
+    "type": "short",
+    "question": "Vilken funktion har Schwanncellen?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken funktion har Schwanncellen? (1p)"
+  },
+  {
+    "id": 18,
+    "category": "Nervsystemet / CNS",
+    "type": "drag-and-drop",
+    "question": "Vilka cellers cellkroppar finns i området A och B?",
+    "reference": "Image on Page 20",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka cellers cellkroppar finns i området A och B? (Dra rätt cellkropp till rätt position. 1p för alla rätt, inga delpoäng)"
+  },
+  {
+    "id": 19,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "short",
+    "question": "a) Vilken form av cellförbindelser finns mellan hjärtmuskelceller?\nb) Beskriv deras (cellförbindelsens) huvudkomponenter.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "a) Vilken form av cellförbindelser finns mellan hjärtmuskelceller? (0.5p)\nb) Beskriv deras (cellförbindelsens) huvudkomponenter. (1.5p)"
+  },
+  {
+    "id": 20,
+    "category": "Vävnadslära / Celler",
+    "type": "multi",
+    "question": "Vilken av följande celltyper har INTE kontraktila egenskaper?",
+    "choice": [
+      "adiopocyter",
+      "pericyter",
+      "myoepiteliala celler",
+      "myofibroblaster"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken av följande celltyper har INTE kontraktila egenskaper? (1p)"
+  },
+  {
+    "id": 21,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "multi",
+    "question": "Var syns membrana elastica interna bäst?",
+    "choice": [
+      "Vena cava inferior",
+      "Medelstor ven",
+      "Aorta",
+      "Arteriol",
+      "Muskelartär"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var syns membrana elastica interna bäst? (1p)"
+  },
+  {
+    "id": 22,
+    "category": "Blod och blodbildning / Blod",
+    "type": "short",
+    "question": "Vad är skillnaden mellan plasma och serum?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är skillnaden mellan plasma och serum? (1p)"
+  },
+  {
+    "id": 23,
+    "category": "Blod och blodbildning / Blodbildning",
+    "type": "multi",
+    "question": "Den pluripotenta stamcellen i benmärgen kan differentiera till CMP och CLP. Vilket alternativ beskriver bäst vilka celler som stammar från CMP?",
+    "choice": [
+      "Monocyter, B-celler och T-celler",
+      "Neutrofiler, B-celler och monocyter",
+      "Megakaryocyter, neutrofiler och erytrocyter",
+      "B-celler, erytrocyter och megakaryocyter"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Den pluripotenta stamcellen i benmärgen kan differentiera till CMP och CLP. Vilket alternativ beskriver bäst vilka celler som stammar från CMP? (1p)"
+  },
+  {
+    "id": 24,
+    "category": "Huden / Epidermis",
+    "type": "essay",
+    "question": "Epidermis består till stor del av keratinocyter, men även andra celltyper ingår. Ange namnet på tre andra celltyper i epidermis (ej keratinocyten). Beskriv var i epidermis de finns och vilken funktion de har.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Epidermis består till stor del av keratinocyter, men även andra celltyper ingår. Ange namnet på tre andra celltyper i epidermis (ej keratinocyten). Beskriv var i epidermis de finns och vilken funktion de har. (3p)"
+  },
+  {
+    "id": 25,
+    "category": "Lymfatiska systemet",
+    "type": "multi",
+    "question": "Vad är sant om alla sekundära lymfoida organ?",
+    "choice": [
+      "De försätter autoreaktiva T-celler i apoptos",
+      "De filtrerar lymfa",
+      "De rensar ut gamla röda blodkroppar",
+      "De producerar lymfocyter"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är sant om alla sekundära lymfoida organ? (1p)"
+  },
+  {
+    "id": 26,
+    "category": "Lymfatiska systemet / Thymus",
+    "type": "multi",
+    "question": "Vilket organ/struktur tappar mest funktion med stigande ålder?",
+    "choice": [
+      "Tonsilla lingualis",
+      "Röd pulpa i mjälte",
+      "Vit pulpa i mjälte",
+      "Tymus",
+      "Lymfnod"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket organ/struktur tappar mest funktion med stigande ålder? (1p)"
+  },
+  {
+    "id": 27,
+    "category": "Lymfatiska systemet",
+    "type": "multi",
+    "question": "I vilken av följande strukturer återfinns det flest CD8+ celler?",
+    "choice": [
+      "Germinalcenter",
+      "Längs Billroths strukturer",
+      "Inre cortex i lymfnod",
+      "Mjältens röda pulpa"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "I vilken av följande strukturer återfinns det flest CD8+ celler? (1p)"
+  },
+  {
+    "id": 28,
+    "category": "Endokrina systemet / Hypofysen",
+    "type": "identification",
+    "question": "Ovan visas en histologisk bild av vävnad i adenohypofysen. Vad pekar de fyra olika pilarna på?",
+    "reference": "Image on Page 26",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Ovan visas en histologisk bild av vävnad i adenohypofysen. Vad pekar de fyra olika pilarna på? (2p)"
+  },
+  {
+    "id": 29,
+    "category": "Endokrina systemet / Binjuren",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående binjurarna?",
+    "choice": [
+      "Binjuremärgens hormonproducerande celler har direktkontakt med sympatiska nervsystemet och ingår i kroppens svar på akut stress",
+      "Binjurebarkens celler regleras av aktiverande hormon från neurohypofysen",
+      "Cellerna i binjuremärgen ligger i distinkta lager, utifrån vilket hormon som produceras i cellerna",
+      "Binjurarna är placerade dorsalt om renes och skyddas av gott om fettväv samt en bindvävskapsel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående binjurarna? (1p)"
+  },
+  {
+    "id": 30,
+    "category": "Respirationssystemet / Histologi",
+    "type": "essay",
+    "question": "Beskriv den histologiska uppbyggnaden av luktepitel (olfaktorisk epitel). Du ska beskriva de tre mest förekommande celltyperna, samt deras funktion.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Beskriv den histologiska uppbyggnaden av luktepitel (olfaktorisk epitel). Du ska beskriva de tre mest förekommande celltyperna, samt deras funktion. (3p)"
+  },
+  {
+    "id": 31,
+    "category": "Digestionssystemet / Spottkörtlar",
+    "type": "short",
+    "question": "Vad heter vår största spottkörtel på latin?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter vår största spottkörtel på latin? (1p)"
+  },
+  {
+    "id": 32,
+    "category": "Digestionssystemet / Esofagus",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående matstrupen?",
+    "choice": [
+      "Esophagus hålls öppen genom kontinuerlig kontraktion att sitt cirkulära muskellager",
+      "Esophagus inträde i gaster/ventrikel kallas cardia, då det är den delen som ligger närrst hjärtat",
+      "När vi sväljer åker föda ner i esophagus genom att epiglottis öppnas",
+      "Esophagus är placerad inferiort om pharynx, ventralt om trachea"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående matstrupen? (1p)"
+  },
+  {
+    "id": 33,
+    "category": "Digestionssystemet / Tunntarm",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående tunntarmen?",
+    "choice": [
+      "I tunntarmens andra del sker den största delen av H2O-absorptionen från födan.",
+      "Födans passage genom tunntarmen sker långsammare än i tjocktarmen för att möjliggöra optimalt näringsupptag.",
+      "För att uppnå största möjliga ytförstoring och därmed näringsupptag är tunntarmen starkt veckad, samt har villi och mikrovilli.",
+      "Från tunntarmen förs näringsrikt blod till levern via vena cava inferior"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående tunntarmen? (1p)"
+  },
+  {
+    "id": 34,
+    "category": "Digestionssystemet / Tjocktarm",
+    "type": "identification",
+    "question": "Vad kallas del A resp B av tjocktarmen? Svara på latin.",
+    "reference": "Image on Page 29",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad kallas del A resp B av tjocktarmen? Svara på latin. (1p)"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / GI-kanalen",
+    "type": "multi",
+    "question": "Vilken del av magtarmkanalen är detta (pilen)?",
+    "reference": "Image on Page 30",
+    "image_filename": "HT25 omtenta.pdf",
+    "choice": [
+      "Duodenum",
+      "Colon",
+      "Pylorus",
+      "Ileum",
+      "Rectum"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken del av magtarmkanalen är detta (pilen)? (1p)"
+  },
+  {
+    "id": 36,
+    "category": "Digestionssystemet",
+    "type": "essay",
+    "question": "Gällande matens väg från mun till anus: Ange lokalisation (0.5p) och funktion (0.5p) för varje celltyp nedan (3p totalt). För lokalisation ska du ange precis var i respektive organ man finner cellen, helt organ räcker inte:\na. Sinnesceller (sensory cells)\nb. Bägarceller (goblet cells)\nc. Huvudceller (chief cells)",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Gällande matens väg från mun till anus: Ange lokalisation (0.5p) och funktion (0.5p) för varje celltyp nedan (3p totalt). För lokalisation ska du ange precis var i respektive organ man finner cellen, helt organ räcker inte:\na. Sinnesceller (sensory cells)\nb. Bägarceller (goblet cells)\nc. Huvudceller (chief cells)"
+  },
+  {
+    "id": 37,
+    "category": "Digestionssystemet / Magsäck",
+    "type": "multi",
+    "question": "Vad är rätt om magsäcken?",
+    "choice": [
+      "Mukösa celler finns i alla delar av magsäcken",
+      "Paritealceller finns bara i cardia",
+      "Huvudceller finns vid basen av foveolae gastricae (gastric pits)",
+      "I submukosa finns Brunner's körtlar"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om magsäcken? (1p)"
+  },
+  {
+    "id": 38,
+    "category": "Digestionssystemet / Lever",
+    "type": "multi",
+    "question": "Vilken del av periportalfältet är detta (gul pil)?",
+    "reference": "Image on Page 32",
+    "image_filename": "HT25 omtenta.pdf",
+    "choice": [
+      "Gallgång",
+      "Vena porta",
+      "Sinusoider",
+      "Arteria hepatica"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken del av periportalfältet är detta (gul pil)? (1p)"
+  },
+  {
+    "id": 39,
+    "category": "Urinvägarna / Anatomi",
+    "type": "multi",
+    "question": "Vilket påståenden stämmer angående njurar och urinvägar?",
+    "choice": [
+      "Ureter har olika längd hos man och kvinna - kvinnans urinblåsa befinner sig därför närmare kroppens exteriör och drabbas lättare av bakteriell infektion.",
+      "Öppningen där njurens försörjande blodkärl samt urinledare går in/ut kallas hilum renale",
+      "Hela blodvolymen flödar in i njurarna via aa. renales och filtreras en gång per dygn i multipla nefron.",
+      "Njurcortex ligger i triangelformade områden som kallas pyramides renales"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påståenden stämmer angående njurar och urinvägar? (1p)"
+  },
+  {
+    "id": 40,
+    "category": "Urinvägarna / Njure",
+    "type": "essay",
+    "question": "Beskriv filtrationsbarriären i njurens glomeruli och namnge viktiga strukturella komponenter. Rita gärna.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv filtrationsbarriären i njurens glomeruli och namnge viktiga strukturella komponenter. Rita gärna. (2p)"
+  },
+  {
+    "id": 41,
+    "category": "Urinvägarna / Urinledare",
+    "type": "multi",
+    "question": "Vilket av följande stämmer INTE på urinledarens vägg?",
+    "choice": [
+      "mukosa",
+      "inre cirkulär glattmuskel",
+      "inre longitudinell glattmuskel",
+      "yttre longitudinell glattmuskel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande stämmer INTE på urinledarens vägg? (1p)"
+  },
+  {
+    "id": 42,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "hotspot",
+    "question": "Nedan ses en frontal vy över delar ingående i manliga inre genitalia, urethras läge är angivet. Klicka i bilden på prostata.",
+    "reference": "Image on Page 34",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Nedan ses en frontal vy över delar ingående i manliga inre genitalia, urethras läge är angivet. Klicka i bilden på prostata. (0.5 p)"
+  },
+  {
+    "id": 43,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "identification",
+    "question": "Frontal vy över delar ingående i manliga inre genitalia, urethras läge är angivet. Vad pekar den andra pilen på?",
+    "reference": "Image on Page 35",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Frontal vy över delar ingående i manliga inre genitalia, urethras läge är angivet. Vad pekar den andra pilen på? (0.5)"
+  },
+  {
+    "id": 44,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "short",
+    "question": "Svara kort på följande frågor om manliga genitalia.\na) Var i testis hittar man cellerna som producerar testosteron?\nb) Vilken celltyp utgör epitelet i tubuli recti (i testis)?\nc) Vilket gångsystem ligger mellan rete testis och epididymis?\nd) Vad kallas organellen som finns i den främre delen av spermiens huvud?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara kort på följande frågor om manliga genitalia. (0.5p per rätt svar, totalt 2p)"
+  },
+  {
+    "id": 45,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "multi",
+    "question": "Vad stämmer för prostata?",
+    "choice": [
+      "Har acinösa ändstycken",
+      "Körteldelen har en oregelbunden form",
+      "Stromat består av lucker bindväv",
+      "Producerar försats"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad stämmer för prostata? (1p)"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "short",
+    "question": "I Sverige finns ett screeningprogram och numera även vaccinationsmöjlighet för att tidigt upptäcka och förebygga cancerutveckling pga ett specifikt vårtvirus - vilken cancerform gäller detta hos kvinnor? Dvs vilken del av uterus drabbas?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "I Sverige finns ett screeningprogram och numera även vaccinationsmöjlighet för att tidigt upptäcka och förebygga cancerutveckling pga ett specifikt vårtvirus - vilken cancerform gäller detta hos kvinnor? Dvs vilken del av uterus drabbas? (1p)"
+  },
+  {
+    "id": 47,
+    "category": "Reproduktionssystemet / Vagina",
+    "type": "essay",
+    "question": "Vilken bild ovan visar vaginalt epitel? Motivera ditt svar.",
+    "reference": "Image on Page 38",
+    "image_filename": "HT25 omtenta.pdf",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Vilken bild ovan visar vaginalt epitel (1p)? Motivera ditt svar (2p). (totalt 3p)"
+  },
+  {
+    "id": 48,
+    "category": "Reproduktionssystemet / Kvinnliga genitalia",
+    "type": "multi",
+    "question": "Vilka körtlar utsöndrar slem för att smörja vaginalslemhinnan?",
+    "choice": [
+      "Körtlar i livmoderhalsen",
+      "Skene's körtlar",
+      "Bartholin's körtlar",
+      "Nabothiska körtlar"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka körtlar utsöndrar slem för att smörja vaginalslemhinnan? (1p)"
+  },
+  {
+    "id": 49,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "multi",
+    "question": "Gällande ovariet: i vilket stadium av follikelutvecklingen uppträder antrum-strukturen?",
+    "choice": [
+      "Sekundärfollikel",
+      "Graafs eller tertiärfollikel",
+      "Primordialfollikar",
+      "Primärfollikel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Gällande ovariet: i vilket stadium av follikelutvecklingen uppträder antrum-strukturen? (1p)"
+  }
+]

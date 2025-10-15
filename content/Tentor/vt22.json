@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "identification",
+    "question": "Namnge de ben/bengrupper som är märkta med siffrorna 1 - 8!",
+    "reference": "Image on Page 2",
+    "image_filename": "VT22.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      {"n": 1, "label": null},
+      {"n": 2, "label": null},
+      {"n": 3, "label": null},
+      {"n": 4, "label": null},
+      {"n": 5, "label": null},
+      {"n": 6, "label": null},
+      {"n": 7, "label": null},
+      {"n": 8, "label": null}
+    ],
+    "source_text": "Namnge de ben/bengrupper som är märkta med siffrorna 1 - 8! (2p)"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "short",
+    "question": "M. adductor magnus har ett namn som beskriver dess funktion. Ange vad vart och ett av de tre orden i denna anatomiska term betyder.",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "M. adductor magnus har ett namn som beskriver dess funktion. Ange vad vart och ett av de tre orden i denna anatomiska term betyder: (1,5p)\nm. =\nadductor =\nmagnus ="
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "short",
+    "question": "Namnge en antagonist och en agonist vid abduktion av axelleden.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Namnge en antagonist och en agonist vid abduktion av axelleden. (1p)"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Leder",
+    "type": "short",
+    "question": "Ge exempel på en led i kroppen för var och en av följande ledtyper:\nA: Gångjärnsled\nB: Tvåaxlad led\nC: Kulled",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Ge exempel på en led i kroppen för var och en av följande ledtyper (1,5p)\nA: Gångjärnsled\nB: Tvåaxlad led\nC: Kulled"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "En tänkt muskel har förmågan att flektera höftleden och extendera knäleden, men påverkar inga andra leder. På vilket ben och på vilken sida av benet (lateral/medial/ventral/dorsal) sitter ursprung respektive fäste för denna muskel?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "En tänkt muskel har förmågan att flektera höftleden och extendera knäleden, men påverkar inga andra leder. På vilket ben och på vilken sida av benet (lateral/medial/ventral/dorsal) sitter ursprung respektive fäste för denna muskel? (2p)"
+  },
+  {
+    "id": 6,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "identification",
+    "question": "Namnge de numrerade strukturerna med latinska ord.",
+    "reference": "Image on Page 6",
+    "image_filename": "VT22.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      {"n": 1, "label": null},
+      {"n": 2, "label": null},
+      {"n": 3, "label": null},
+      {"n": 4, "label": null}
+    ],
+    "source_text": "Namnge de numrerade strukturerna med latinska ord (2p)"
+  },
+  {
+    "id": 7,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad heter den översta/första kärlavgången från aorta abdominalis på latin?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter den översta/första kärlavgången från aorta abdominalis på latin? (1p)"
+  },
+  {
+    "id": 8,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "multi",
+    "question": "Vilka två påståenden stämmer angående begreppen systole/diastole?",
+    "choice": [
+      "Systoliskt blodtryck kan mätas både auskultatoriskt och palpatoriskt",
+      "Det s k systoliska trycket gör att segelklaffarna hålls stängda under kontraktionen och förhindrar backflöde",
+      "Systoliskt blodtryck avspeglar trycket i artärerna, medan diastoliskt blodtryck avspeglar trycket i venerna",
+      "Under systole sker kontraktion av ventriculus sinister resp dexter och valva aorta resp pulmonalis öppnas"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två påståenden stämmer angående begreppen systole/diastole? (1p)"
+  },
+  {
+    "id": 9,
+    "category": "Vävnadslära / Epitel",
+    "type": "drag-and-drop",
+    "question": "Bilden visar en epitelcell. Dra de tre angivna junctions till rätt position.",
+    "reference": "Image on Page 8",
+    "image_filename": "VT22.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Bilden visar en epitelcell. Dra de tre angivna junctions till rätt position (1p)"
+  },
+  {
+    "id": 10,
+    "category": "Vävnadslära / Epitel",
+    "type": "short",
+    "question": "Svara på följande fyra frågor gällande epitel:\na) Vilken epiteltyp är mest lämplig för effektivt gasutbyte över epitelet?\nb) Vad kallas intermediärfilamentet i epitelceller?\nc) Ge ett exempel på en holokrin körtel\nd) Vilken funktion har mikrovilli, t.ex. i tarmepitel?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på följande fyra frågor gällande epitel: a) Vilken epiteltyp är mest lämplig för effektivt gasutbyte över epitelet? b) Vad kallas intermediärfilamentet i epitelceller? c) Ge ett exempel på en holokrin körtel d) Vilken funktion har mikrovilli, t.ex. i tarmepitel?"
+  },
+  {
+    "id": 11,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är korrekt om retikulära fibrer?",
+    "choice": [
+      "Består av typ 3-kollagen",
+      "Finns i hög utsträckning i tymus",
+      "Kan särskiljas från kollagenfibrer i en H/E-färgning",
+      "Bildar ett fibernätverk i mjälten"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är korrekt om retikulära fibrer?"
+  },
+  {
+    "id": 12,
+    "category": "Vävnadslära / Bindväv",
+    "type": "short",
+    "question": "Nämn två anatomiska strukturer där vi hittar en hög andel av elastiska fibrer.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Nämn två anatomiska strukturer där vi hittar en hög andel av elastiska fibrer. (1p)"
+  },
+  {
+    "id": 13,
+    "category": "Vävnadslära / Bindväv",
+    "type": "short",
+    "question": "Ange två viktiga funktioner för makrofager i den luckra bindväven?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Ange två viktiga funktioner för makrofager i den luckra bindväven? (1p)"
+  },
+  {
+    "id": 14,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "essay",
+    "question": "Osteoklasten bryter ner ben. Beskriv osteoklastens utseende och förklara vad den producerar för att kunna bryta ned ben.",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Osteoklasten bryter ner ben. Beskriv osteoklastens utseende och förklara vad den producerar för att kunna bryta ned ben. (1.5 p)"
+  },
+  {
+    "id": 15,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "essay",
+    "question": "Bilden ovan visar en bit av ett tvärskuret rörben.\na) Vad kallas det runda utrymmet som pilen A pekar på?\nb) Vilka strukturer finns i dessa utrymmen (syns ej i det här snittet)?\nc) Pil B pekar på ett likande utrymme fast större. Kan du förklara varför det är större?",
+    "reference": "Image on Page 12",
+    "image_filename": "VT22.pdf",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Bilden ovan visar en bit av ett tvärskuret rörben. a) Vad kallas det runda utrymmet som pilen A pekar på? b) Vilka strukturer finns i dessa utrymmen (syns ej i det här snittet)? c) Pil B pekar på ett likande utrymme fast större. Kan du förklara varför det är större? (1,5 p)"
+  },
+  {
+    "id": 16,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vad är rätt om hjärtmuskelceller?",
+    "choice": [
+      "hjärtmuskelceller hålls ihop av fascia adherens",
+      "Aktiveras av motoriska neuron",
+      "hjärtmuskelceller hålls ihop av tight junctions",
+      "har central cellkärna"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om hjärtmuskelceller? 1 p"
+  },
+  {
+    "id": 17,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vad är rätt om skelettmuskelceller?",
+    "choice": [
+      "varje cell omsluts av endomysium",
+      "har satellitceller som ligger utanför basalmembranet",
+      "aktiveras av motorneuron",
+      "Har centrala kärnor"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om skelettmuskelceller?"
+  },
+  {
+    "id": 18,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vad är rätt om glattmuskelceller?",
+    "choice": [
+      "har gap-junctions mellan sig",
+      "Har central kärna",
+      "aktiveras av motorneuron",
+      "är tvärstrimmiga"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om glattmuskelceller? (1p)"
+  },
+  {
+    "id": 19,
+    "category": "Nervsystemet / Celler",
+    "type": "multi",
+    "question": "Vilka 2 av följande påståenden är korrekta avseende neuron?",
+    "choice": [
+      "De snabbast ledande nervcellerna har kraftigt myeliniserade dendriter",
+      "Multipolära neuron har ett axon och flera dendriter",
+      "Neuron har riklig proteinsyntes, i såväl soma som utskott (axon och dendriter)",
+      "Ranvierska noder är \"nakna partier\" på i övrigt myelinbeklädda axon, och kan ses i ljusmikroskopet med rätt infärgning"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka 2 av följande påståenden är korrekta avseende neuron? (1p)"
+  },
+  {
+    "id": 20,
+    "category": "Nervsystemet / CNS",
+    "type": "hotspot",
+    "question": "Var på denna bild återfinns de nedre motorneuronens cellkroppar på höger, respektive vänster sida? (det spelar ingen roll vilken sida du klickar på först, men du behöver markera på bägge sidor, alltså två klick).",
+    "reference": "Image on Page 15",
+    "image_filename": "VT22.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var på denna bild återfinns de nedre motorneuronens cellkroppar på höger, respektive vänster sida? (det spelar ingen roll vilken sida du klickar på först, men du behöver markera på bägge sidor, alltså två klick). (1p)"
+  },
+  {
+    "id": 21,
+    "category": "Nervsystemet / PNS / Kranialnerver",
+    "type": "short",
+    "question": "Vad heter den kranialnerv som styr ansiktets mimik?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter den kranialnerv som styr ansiktets mimik? 1p"
+  },
+  {
+    "id": 22,
+    "category": "Nervsystemet / PNS",
+    "type": "essay",
+    "question": "Redogör för skillnader respektive likheter mellan somatiska och autonoma ganglier i PNS.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Redogör för skillnader respektive likheter mellan somatiska och autonoma ganglier i PNS. (2p)"
+  },
+  {
+    "id": 23,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "short",
+    "question": "Vilken är den vanligaste, respektive ovanligaste, leukocyten i normalt cirkulerande blod hos människa?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken är den vanligaste, respektive ovanligaste, leukocyten i normalt cirkulerande blod hos människa? (1p)"
+  },
+  {
+    "id": 24,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "short",
+    "question": "Hur stor är en erytrocyt i diameter?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Hur stor är en erytrocyt i diameter? (0,5 p)"
+  },
+  {
+    "id": 25,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "multi",
+    "question": "Vilka två alternativ stämmer om en pericyt?",
+    "choice": [
+      "Har en viktig funktion under angiogenesen",
+      "Avgörande för initieringen av det första inflammatoriska svaret",
+      "Huvudsakliga producenten av cytokiner som attraherar leukocyter",
+      "Associerad med endotelcellen i kapillären"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två alternativ stämmer om en pericyt? (1p)"
+  },
+  {
+    "id": 26,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Uppge två utmärkande histologiska kännetecken på en stor ven (som skiljer den från en artär).",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Uppge två utmärkande histologiska kännetecken på en stor ven (som skiljer den från en artär). (1p)"
+  },
+  {
+    "id": 27,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad är en AV-anastomos?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Vad är en AV-anastomos? (0,5p)"
+  },
+  {
+    "id": 28,
+    "category": "Lymfatiska systemet / Lymfnod",
+    "type": "essay",
+    "question": "Beskriv lymfans flöde in och ut ur lymfnoden och namnge de strukturer och kärl som lymfan passerar.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Beskriv lymfans flöde in och ut ur lymfnoden och namnge de strukturer och kärl som lymfan passerar. (3p)"
+  },
+  {
+    "id": 29,
+    "category": "Respirationssystemet / Histologi",
+    "type": "essay",
+    "question": "Ange vilka typer av sekretoriska celler det finns mest av i följande delar av luftvägen? Ange även sekretets funktion:\na) trakea\nb) små bronkioler\nc) alveoler",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Ange vilka typer av sekretoriska celler det finns mest av i följande delar av luftvägen? Ange även sekretets funktion: (3p)"
+  },
+  {
+    "id": 30,
+    "category": "Huden / Epidermis",
+    "type": "multi",
+    "question": "Vad stämmer för melanocyter i epidermis (två rätta svar)?",
+    "choice": [
+      "De avger melanin till keratinocyter genom cytokrin sekretion",
+      "De breder ut sig över keratinocyterna för att skydda deras cellkärnor",
+      "De har sin cellkropp i stratum basale",
+      "De bidrar till känsel genom att bilda en korpuskel med fria nervänder"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad stämmer för melanocyter i epidermis (två rätta svar)? (1p)"
+  },
+  {
+    "id": 31,
+    "category": "Huden / Epidermis",
+    "type": "essay",
+    "question": "Nämn två viktiga komponenter som produceras av keratinocyterna som befinner sig i stratum granulosum och vilken funktion dessa har.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Nämn två viktiga komponenter som produceras av keratinocyterna som befinner sig i stratum granulosum och vilken funktion dessa har (2p)."
+  },
+  {
+    "id": 32,
+    "category": "Endokrina systemet / Sköldkörteln",
+    "type": "multi",
+    "question": "Vilka två påståenden stämmer angående glandula thyroidea?",
+    "choice": [
+      "Är placerad ventralt om trachea, under cartilago thyroidea",
+      "Här produceras tillväxthormon och ämnesomsättningshormon (T3/T4), alla viktiga för cellmetabolismen",
+      "Skickar signaler till de närliggande glandulae parathyroideae",
+      "Består histologiskt av multipla s k folliklar som innehåller kolloid"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två påståenden stämmer angående glandula thyroidea? (1p)"
+  },
+  {
+    "id": 33,
+    "category": "Endokrina systemet / Bisköldkörteln",
+    "type": "short",
+    "question": "I bisköldkörtlarna/parathyroidea finns celler som producerar hormonet PTH - vad kallas dessa celler?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "I bisköldkörtlarna/parathyroidea finns celler som producerar hormonet PTH - vad kallas dessa celler? (1p)"
+  },
+  {
+    "id": 34,
+    "category": "Endokrina systemet / Hypofysen",
+    "type": "identification",
+    "question": "Histologisk bild av vävnad i adenohypofysen - vad pekar pilarna på?",
+    "reference": "Image on Page 24",
+    "image_filename": "VT22.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      {"n": 1, "label": null},
+      {"n": 2, "label": null},
+      {"n": 3, "label": null},
+      {"n": 4, "label": null}
+    ],
+    "source_text": "Histologisk bild av vävnad i adenohypofysen - vad pekar pilarna på? (2p)"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / Spottkörtlar",
+    "type": "short",
+    "question": "Vilken av våra spottkörtlar är störst?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken av våra spottkörtlar är störst? (1p)"
+  },
+  {
+    "id": 36,
+    "category": "Digestionssystemet / Magsäck",
+    "type": "multi",
+    "question": "Vilka 2 påståenden stämmer angående ventrikeln/gaster?",
+    "choice": [
+      "Blodkärlen som försörjer ventrikeln avgår från aorta descendens, precis kranialt om diafragma",
+      "Fundus-regionen är den nedersta delen i ventrikeln, eftersom fundus betyder betyder \"grund\" eller \"bas\" på latin",
+      "Övergången mellan esophagus och ventrikel består av en sfinkter som benämns \"cardia\", då det är den del av ventrikeln som befinner sig närmast hjärtat",
+      "De yttre konturerna av ventrikeln benämns curvatura major resp minor"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka 2 påståenden stämmer angående ventrikeln/gaster? (1p)"
+  },
+  {
+    "id": 37,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad heter blodkärlet som försörjer tunntarmen med syrerikt blod?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter blodkärlet som försörjer tunntarmen med syrerikt blod? (1p)"
+  },
+  {
+    "id": 38,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med tungans histologi?",
+    "choice": [
+      "Papilla circumvallate omges av djupa klyftor och kantas av talrika smaklökar",
+      "Von Ebners körtlar tömmer sitt sekret i anslutning till papilla circumvallate och papilla foliate",
+      "Papilla fungiforme är täckt av förhornat skivepitel och saknar smaklökar",
+      "Tungans ovan- och undersida är täckt av papiller"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två av följande påståenden stämmer bäst med tungans histologi? (1p)"
+  },
+  {
+    "id": 39,
+    "category": "Digestionssystemet / Magsäck",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med ventrikelns histologi",
+    "choice": [
+      "Funduskörtlar tömmer sitt sekret i gastric pits (foveola)",
+      "Parietalceller producerar propepsinogen som är ett viktigt nedbrytningsenzym",
+      "Muskularis externa består av tre lager av glattmuskelceller",
+      "Ytan är täckt av ett flerradigt cylinderepitel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två av följande påståenden stämmer bäst med ventrikelns histologi (1p)"
+  },
+  {
+    "id": 40,
+    "category": "Digestionssystemet / Lever",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med leverns histologi?",
+    "choice": [
+      "Gallkanalikuli tömmer sig i Herings kanal",
+      "Innehåller merparten av kroppens insulinproducerande celler",
+      "Kuppferceller lagrar A-vitamin och aktiveras vid leverfibros",
+      "Sinusoiderna transporterar blod till centralvenen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två av följande påståenden stämmer bäst med leverns histologi? (1p)"
+  },
+  {
+    "id": 41,
+    "category": "Digestionssystemet / Tunntarm",
+    "type": "essay",
+    "question": "Beskriv hur mukosan i tunntarmen är uppbyggd. Det måste tydligt framgå hur mukosan är organiserad, hur mukosans olika delar ligger i förhållande till varandra, och vilka celltyper man återfinner i tunntarmens mukosa. Ditt svar ska vara detaljerat.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Beskriv hur mukosan i tunntarmen är uppbyggd. Det måste tydligt framgå hur mukosan är organiserad, hur mukosans olika delar ligger i förhållande till varandra, och vilka celltyper man återfinner i tunntarmens mukosa. Ditt svar ska vara detaljerat. (3p)"
+  },
+  {
+    "id": 42,
+    "category": "Urinvägarna / Anatomi",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer angående njurarna?",
+    "choice": [
+      "Njuren ligger ovanför binjuren",
+      "Hela blodvolymen flödar in i njurarna via aa. renales och filtreras flera gånger per dygn",
+      "Njurarna sitter dorsalt på kroppen, nedanför revbenen",
+      "Njurtubuli övergår i samlingsrör som för sekundärurin till pelvis renalis via calyces renales"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka påståenden stämmer angående njurarna?"
+  },
+  {
+    "id": 43,
+    "category": "Urinvägarna / Njure",
+    "type": "short",
+    "question": "Svara på följande frågor om njuren:\na) Hur skiljer du lättast proximala tubuli från distala tubuli i ett histologiskt preparat?\nb) Vilken del av nefronet bildar makula densa?\nc) Vilka två celltyper ingår i filtrationsbarriären?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på följande frågor om njuren (totalt 2p):\na) Hur skiljer du lättast proximala tubuli från distala tubuli i ett histologiskt preparat? (0,5)\nb) Vilken del av nefronet bildar makula densa? (0,5)\nc) Vilka två celltyper ingår i filtrationsbarriären? (1)"
+  },
+  {
+    "id": 44,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "short",
+    "question": "I vilken struktur färdas spermierna till penis efter att de passerat epididymis?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "I vilken struktur färdas spermierna till penis efter att de passerat epididymis? (1p)"
+  },
+  {
+    "id": 45,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "essay",
+    "question": "Beskriv spermatogenesen (händelser, celler och läge) utförligt.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv spermatogenesen (händelser, celler och läge) utförligt. (2p)"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "short",
+    "question": "Svara på nedan frågor om kvinnliga genitalia:\na) Vad kallas den mest omogna formen av follikel i ovariet?\nb) Vad är zona pellucida?\nc) Vad kallas de två lager celler som ligger utanför basalmembranet i en Graafs follikel?\nd) Vilka två celltyper omvandlas till corpus luteum efter ägglossningen?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på nedan frågor om kvinnliga genitalia (0,5 per fråga, totalt 2p)"
+  },
+  {
+    "id": 47,
+    "category": "Reproduktionssystemet / Tuba uterina",
+    "type": "essay",
+    "question": "Ange tre histologiska kännetecken som gör att du kan skilja mellan ampulla och isthmus i ett histologiskt preparat av tuba uterina.",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Ange tre histologiska kännetecken som gör att du kan skilja mellan ampulla och isthmus i ett histologiskt preparat av tuba uterina. (1.5 p)"
+  },
+  {
+    "id": 48,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "essay",
+    "question": "a) Hur kan du i ett histologiskt preparat avgöra om uterusslemhinnan befinner sig i proliferationsfas eller sekretionsfas?\nb) Vilka hormoner är det som framför allt påverkar slemhinnan i de två faserna?",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "a) Hur kan du i ett histologiskt preparat avgöra om uterusslemhinnan befinner sig i proliferationsfas eller sekretionsfas?\nb) Vilka hormoner är det som framför allt påverkar slemhinnan i de två faserna? 1,5p"
+  }
+]

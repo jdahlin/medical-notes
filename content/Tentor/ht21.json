@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Leder",
+    "type": "short",
+    "question": "Vilka funktioner har ledvätskan (synovia)?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q4. Vilka funktioner har ledvätskan (synovia)? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "short",
+    "question": "I vilken del av ett rörben finns enbart cortikalt ben?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q2. I vilken del av ett rörben finns enbart cortikalt ben? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "identification",
+    "question": "Namnge de ben / bengrupper som är märkta med siffrorna 3 - 7!",
+    "reference": "Image on Page 1",
+    "image_filename": "HT21.pdf",
+    "answer": null,
+    "max_points": 2.5,
+    "numbered_targets": [
+      { "n": 3, "label": null },
+      { "n": 4, "label": null },
+      { "n": 5, "label": null },
+      { "n": 6, "label": null },
+      { "n": 7, "label": null }
+    ],
+    "source_text": "Q3. Namnge de ben / bengrupper som är märkta med siffrorna 3 - 7! (2,5p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "Namnge en muskel med ett latinskt namn som består av minst tre ord och översätt vart och ett av de tre orden till svenska!",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Q4. Namnge en muskel med ett latinskt namn som består av minst tre ord och översätt vart och ett av de tre orden till svenska! (1,5p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "En tänkt muskel har förmågan att adducera axelleden och extendera armbågens gångjärnsled men påverkar inga andra leder.\nA: Var finns denna muskels ursprung respektive fäste (ange vilket ben och vilken del av benet)?\nB: Motivera valet av ursprung och fäste med utgångspunkt från sambandet mellan en muskels förlopp och dess effekter på olika rörelser i en led.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q5. (2p)\nEn tänkt muskel har förmågan att adducera axelleden och extendera armbågens gångjärnsled men påverkar inga andra leder.\nA: Var finns denna muskels ursprung respektive fäste (ange vilket ben och vilken del av benet)?\nB: Motivera valet av ursprung och fäste med utgångspunkt från sambandet mellan en muskels förlopp och dess effekter på olika rörelser i en led.",
+    "course": "anatomi"
+  },
+  {
+    "id": 6,
+    "category": "Nervsystemet / Celler",
+    "type": "multi",
+    "question": "Vilka två påståenden är korrekta avseende neuronet?",
+    "choice": [
+      "a) Ett neuron har alltid från sitt soma ett axon, men olika typer av neuron kan ha olika många dendriter.",
+      "b) Axonet är myeliniserat (undantaget vissa neuron i ANS) och det är schwannceller som myeliniserar axon i PNS och Oligodendrocyter som myeliniserar axon i CNS.",
+      "c) Flertalet av de neuron som återfinns i PNS och CNS är unipolära, medan både pseudounipolära och multipolära är mycket få.",
+      "d) Neuronets cellkropp (soma) är lätt att känna igen med sin Niesslubstans samt sin tämligen dåligt framträdande cellkärna utan tydlig nucleol."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q6. Vilka två påståenden är korrekta avseende neuronet? (1p)\na) Ett neuron har alltid från sitt soma ett axon, men olika typer av neuron kan ha olika många dendriter.\nb) Axonet är myeliniserat (undantaget vissa neuron i ANS) och det är schwannceller som myeliniserar axon i PNS och Oligodendrocyter som myeliniserar axon i CNS.\nc) Flertalet av de neuron som återfinns i PNS och CNS är unipolära, medan både pseudounipolära och multipolära är mycket få.\nd) Neuronets cellkropp (soma) är lätt att känna igen med sin Niesslubstans samt sin tämligen dåligt framträdande cellkärna utan tydlig nucleol.",
+    "course": "anatomi"
+  },
+  {
+    "id": 7,
+    "category": "Nervsystemet / PNS / Kranialnerver",
+    "type": "multi",
+    "question": "Vilka två av nedanstående fyra kranialnerver har syn respektive hörsel som funktion?",
+    "choice": [
+      "a) N Opticus",
+      "b) N Vestibulocochelaris",
+      "c) N Oculomotorius",
+      "d) N Auditorius"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q7. Vilka två av nedanstående fyra kranialnerver har syn respektive hörsel som funktion? (1p)\na) N Opticus\nb) N Vestibulocochelaris\nc) N Oculomotorius\nd) N Auditorius",
+    "course": "anatomi"
+  },
+  {
+    "id": 8,
+    "category": "Nervsystemet / ANS",
+    "type": "multi",
+    "question": "Vilka två påståenden är korrekta avseende autonoma nervssystemet (ANS)?",
+    "choice": [
+      "a) Parasympaticus har ett kranio-sacralt ursprung och sympaticus har ett i första hand thorakalt ursprung.",
+      "b) De preganglionära parasympatiska neuronen kopplar om till postganglionära parasympatiska neuron i intramurala ganglier.",
+      "c) Sympatiska preganglionära neuron har sin cellkropp i ryggmärgens framhorn och löper sedan ut i den sympatiska gränssträngen.",
+      "d) Parasympaticus funktion beskrivs bra med fight- fright and flight."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q8. Vilka två påståenden är korrekta avseende autonoma nervssystemet (ANS)? (1p)\na) Parasympaticus har ett kranio-sacralt ursprung och sympaticus har ett i första hand thorakalt ursprung.\nb) De preganglionära parasympatiska neuronen kopplar om till postganglionära parasympatiska neuron i intramurala ganglier.\nc) Sympatiska preganglionära neuron har sin cellkropp i ryggmärgens framhorn och löper sedan ut i den sympatiska gränssträngen.\nd) Parasympaticus funktion beskrivs bra med fight- fright and flight.",
+    "course": "anatomi"
+  },
+  {
+    "id": 9,
+    "category": "Nervsystemet / PNS",
+    "type": "short",
+    "question": "Vad menas med myotom respektive dermatom?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q9. Vad menas med myotom respektive dermatom (2p)?"
+  },
+  {
+    "id": 10,
+    "category": "Cirkulationssystemet / Kretsloppen",
+    "type": "essay",
+    "question": "Förklara uppdelningen i stora och lilla kretsloppet samt hur dessa hänger samman med arteriellt och venöst blod.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q10: Förklara uppdelningen i stora och lilla kretsloppet samt hur dessa hänger samman med arteriellt och venöst blod (2p)"
+  },
+  {
+    "id": 11,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "short",
+    "question": "Hur är segelklaffarna förankrade? Svara med latinska ord.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q11: Hur är segelklaffarna förankrade? Svara med latinska ord. (1p)"
+  },
+  {
+    "id": 12,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad heter (på latin) den nedåtstigande delen av stora kroppspulsådern i thorax?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Q12: Vad heter (på latin) den nedåtstigande delen av stora kroppspulsådern i thorax (0,5p)?"
+  },
+  {
+    "id": 13,
+    "category": "Vävnadslära / Epitel",
+    "type": "essay",
+    "question": "För varje epiteltyp nedan: Ge ett exempel på var i kroppen man hittar just den epiteltypen och varför den är lämpligt just där.\na) flerskiktad skivepitel\nb) övergångsepitel\nc) enkelt skivepitel",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Q13. För varje epiteltyp nedan: Ge ett exempel på var i kroppen man hittar just den epiteltypen och varför den är lämpligt just där. (3p)\na) flerskiktad skivepitel\nb) övergångsepitel\nc) enkelt skivepitel",
+    "course": "histologi"
+  },
+  {
+    "id": 14,
+    "category": "Vävnadslära / Bindväv",
+    "type": "fill-in-the-blank",
+    "question": "Allt bindväv består av celler och extracellulär matrix (ECM). Fyll i det som saknas nedan:\na) Det finns stationära och ______ celler.\nb) ECM består av är proteinfibrer och ______.\nc) Det finns tre typer av proteinfiber: kollagena fibrer, ______ fibrer och elastiska fibrer.",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Q14: Allt bindväv består av celler och extracellulär matrix (ECM).\nFyll i det som saknas nedan (1,5p):\na) Det finns stationära och ______ celler.\nb) ECM består av är proteinfibrer och ______.\nc) Det finns tre typer av proteinfiber: kollagena fibrer, ______ fibrer och elastiska fibrer.",
+    "course": "histologi"
+  },
+  {
+    "id": 15,
+    "category": "Vävnadslära / Brosk",
+    "type": "short",
+    "question": "Ange tre histologiska kännetecken för fibrillärt brosk som särskiljer det från hyalint brosk.",
+    "answer": null,
+    "max_points": null,
+    "source_text": "Q15: Ange tre histologiska kännetecken för fibrillärt brosk som särskiljer det från hyalint brosk.",
+    "course": "histologi"
+  },
+  {
+    "id": 16,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "essay",
+    "question": "Vilka två zoner i endokondral benbildning innehåller förkalkad brosk? Förklara kort vad som sker (på cellulär nivå) i respektive zon.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q16. Vilka två zoner i endokondral benbildning innehåller förkalkad brosk?\nFörklara kort vad som sker (på cellulär nivå) i respektive zon. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 17,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "essay",
+    "question": "Muskelvävnad: Ange en likhet och tre skillnader mellan skelett- och hjärtmuskelceller.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q17. Muskelvävnad: Ange en likhet och tre skillnader mellan skelett- och hjärtmuskelceller. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 18,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer gällande motorisk/sensorisk informationsflöde i muskelvävnad?",
+    "choice": [
+      "muskelspole skickar signaler från muskelvävnad till nervsystemet",
+      "diad skickar signaler från muskelvävnad till nervsystemet",
+      "muskelspole skickar signaler från nervsystemet till muskelvävnad",
+      "motorändplattor skickar signaler från nervsystemet till muskelvävnad"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q18. Vilka påståenden stämmer gällande motorisk/sensorisk informationsflöde i muskelvävnad? (1p)\nmuskelspole skickar signaler från muskelvävnad till nervsystemet\ndiad skickar signaler från muskelvävnad till nervsystemet\nmuskelspole skickar signaler från nervsystemet till muskelvävnad\nmotorändplattor skickar signaler från nervsystemet till muskelvävnad",
+    "course": "histologi"
+  },
+  {
+    "id": 19,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "short",
+    "question": "Makrofager återfinns i olika vävnader. Nämn två sorters makrofager och ange i vilka organ de återfinns.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q19: Makrofager återfinns i olika vävnader. Nämn två sorters makrofager och ange i vilka organ de återfinns. (2p)"
+  },
+  {
+    "id": 20,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad heter den struktur som tydligt utgör gränsen mellan intima och media i en muskelartär?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Q20: Vad heter den struktur som tydligt utgör gränsen mellan intima och media i en muskelartär? (0,5p)"
+  },
+  {
+    "id": 21,
+    "category": "Lymfatiska systemet / Lymfnod",
+    "type": "essay",
+    "question": "Beskriv lymfans flöde in i och ut ur lymfnoden där du namnger de strukturer och kärl som lymfan passerar.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Q21. Beskriv lymfans flöde in i och ut ur lymfnoden där du namnger de strukturer och kärl som lymfan passerar. (3p)"
+  },
+  {
+    "id": 22,
+    "category": "Respirationssystemet / Anatomi",
+    "type": "short",
+    "question": "Lungornas övre och nedre lober avskiljs genom bindvävssepta - vad heter dessa på latin?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q22: Lungornas övre och nedre lober avskiljs genom bindvävssepta - vad heter dessa på latin? (1p)"
+  },
+  {
+    "id": 23,
+    "category": "Respirationssystemet / Histologi",
+    "type": "essay",
+    "question": "Vilka celltyper bygger upp epitelet i lungans alveoler? Ange namn och funktion.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q23. Vilka celltyper bygger upp epitelet i lungans alveoler? Ange namn och funktion. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 24,
+    "category": "Huden / Epidermis",
+    "type": "multi",
+    "question": "Vad stämmer för epidermis (två rätta svar)?",
+    "choice": [
+      "a) Vattenbarriären är belägen mellan stratum spinosum och stratum granulosum",
+      "b) Celldelning sker främst i stratum basale",
+      "c) Består till största del av keratinocyter",
+      "d) Innehåller melanocyter och fibroblaster"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q24. Vad stämmer för epidermis (två rätta svar)? (1p)\na) Vattenbarriären är belägen mellan stratum spinosum och stratum granulosum\nb) Celldelning sker främst i stratum basale\nc) Består till största del av keratinocyter\nd) Innehåller melanocyter och fibroblaster"
+  },
+  {
+    "id": 25,
+    "category": "Huden / Hår",
+    "type": "multi",
+    "question": "Vilka två påståenden stämmer bäst för hårmatrixceller (två rätta svar)?",
+    "choice": [
+      "a) Ger upphov till hår och inre epiteliala skidan",
+      "b) Ger upphov till hår samt inre och yttre epiteliala skidan",
+      "c) Ger upphov även till talgkörteln",
+      "d) Är beläga längst ned i hårfollikeln"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q25. Vilka två påståenden stämmer bäst för hårmatrixceller (två rätta svar)? (1p)\na) Ger upphov till hår och inre epiteliala skidan\nb) Ger upphov till hår samt inre och yttre epiteliala skidan\nc) Ger upphov även till talgkörteln\nd) Är belägna längst ned i hårfollikeln"
+  },
+  {
+    "id": 26,
+    "category": "Digestionssystemet / Anatomi",
+    "type": "essay",
+    "question": "I duodenum mynnar två utförsgångar - vad heter denna mynning (på latin), vilka är utförsgångarna (på latin) och vilka substanser frisätts?",
+    "answer": null,
+    "max_points": 2.5,
+    "source_text": "Q26: I duodenum mynnar två utförsgångar - vad heter denna mynning (på latin), vilka är utförsgångarna (på latin) och vilka substanser frisätts? (2,5p)"
+  },
+  {
+    "id": 27,
+    "category": "Digestionssystemet / Lever",
+    "type": "short",
+    "question": "Vad heter kärlet som för blod från tarmarna och vart tar det vägen?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q27: Vad heter kärlet som för blod från tarmarna och vart tar det vägen (1p)?"
+  },
+  {
+    "id": 28,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med papilla fungiforme?",
+    "choice": [
+      "a. Ligger på rad utmed tungans kant",
+      "b. Har talrika smaklökar som tvättas rena av sekret från von Ebners körtlar",
+      "c. Har tydlig kärna av bindväv - bindvävspapiller - som sträcker sig mot epitelytan",
+      "d. Innehåller enstaka smaklökar som ligger i papillens ytepitel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q28. Vilka två av följande påståenden stämmer bäst med papilla fungiforme? (1p)\na. Ligger på rad utmed tungans kant\nb. Har talrika smaklökar som tvättas rena av sekret från von Ebners körtlar\nc. Har tydlig kärna av bindväv - bindvävspapiller - som sträcker sig mot epitelytan\nd. Innehåller enstaka smaklökar som ligger i papillens ytepitel"
+  },
+  {
+    "id": 29,
+    "category": "Digestionssystemet / Spottkörtlar",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med glandula parotis?",
+    "choice": [
+      "a. Innehåller endast serösa ändstycken",
+      "b. Rutinfärgade preparat innehåller många ändstycken med Gianuzzis halvmånar",
+      "C. Innehåller skarvstycken (intercalated ducts) med centroacinära celler i körteländstycket",
+      "d. Saliven kommer passera ett sekretrör (striated duct) på vägen mot munhålan"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q29. Vilka två av följande påståenden stämmer bäst med glandula parotis? (1p)\na. Innehåller endast serösa ändstycken\nb. Rutinfärgade preparat innehåller många ändstycken med Gianuzzis halvmånar\nC. Innehåller skarvstycken (intercalated ducts) med centroacinära celler i körteländstycket\nd. Saliven kommer passera ett sekretrör (striated duct) på vägen mot munhålan"
+  },
+  {
+    "id": 30,
+    "category": "Digestionssystemet / Magsäck",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med ventrikelns histologi?",
+    "choice": [
+      "a. Har tvärstrimmig muskulatur i muskularis externa",
+      "b. Parietalceller producerar HCl och intrinsic factor",
+      "C. Mukösa halsceller återfinns i den djupare (mesta basala) delen av funduskörteln",
+      "d. Funduskörtlarna tömmer sig i gastric pits"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q30. Vilka två av följande påståenden stämmer bäst med ventrikelns histologi? (1p)\na. Har tvärstrimmig muskulatur i muskularis externa\nb. Parietalceller producerar HCl och intrinsic factor\nC. Mukösa halsceller återfinns i den djupare (mesta basala) delen av funduskörteln\nd. Funduskörtlarna tömmer sig i gastric pits"
+  },
+  {
+    "id": 31,
+    "category": "Digestionssystemet / Tunntarm",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med duodenum?",
+    "choice": [
+      "e. Innehåller brunners körtlar",
+      "f. Saknar panethceller i de lieberkühnska kryptorna",
+      "g. Submukosan bildar stora veck (plicae circularis)",
+      "h. Innehåller kupfferceller som fagocyterar bakterier"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q31. Vilka två av följande påståenden stämmer bäst med duodenum? (1p)\ne. Innehåller brunners körtlar\nf. Saknar panethceller i de lieberkühnska kryptorna\ng. Submukosan bildar stora veck (plicae circularis)\nh. Innehåller kupfferceller som fagocyterar bakterier"
+  },
+  {
+    "id": 32,
+    "category": "Digestionssystemet / Lever",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med levern?",
+    "choice": [
+      "i. Interlobulära gallgångar löper i portalfälten",
+      "j. Sinusoiderna tömmer sig i centralartären",
+      "k. Innehåller disses spatium med itoceller",
+      "l. Producerar merparten av kroppens insulin"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q32. Vilka två av följande påståenden stämmer bäst med levern? (1p)\ni. Interlobulära gallgångar löper i portalfälten\nj. Sinusoiderna tömmer sig i centralartären\nk. Innehåller disses spatium med itoceller\nl. Producerar merparten av kroppens insulin"
+  },
+  {
+    "id": 33,
+    "category": "Digestionssystemet / Pankreas",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden stämmer bäst med pankreas?",
+    "choice": [
+      "m. Innehåller både exokrina och endokrina körtlar",
+      "n. Langerhanska cellöar producerar glukagon",
+      "o. Består huvudsakligen av mukösa körteländstycken",
+      "p. Producerar ett surt sekret som aktiverar proteaset pepsin"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q33. Vilka två av följande påståenden stämmer bäst med pankreas? (1p)\nm. Innehåller både exokrina och endokrina körtlar\nn. Langerhanska cellöar producerar glukagon\no. Består huvudsakligen av mukösa körteländstycken\np. Producerar ett surt sekret som aktiverar proteaset pepsin"
+  },
+  {
+    "id": 34,
+    "category": "Digestionssystemet / Tänder",
+    "type": "essay",
+    "question": "Beskriv hur en tand i den vuxna individen är uppbyggd med fokus på tandens histologiska organisation.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q34. Beskriv hur en tand i den vuxna individen är uppbyggd med fokus på tandens histologiska organisation. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 35,
+    "category": "Endokrina systemet / Binjuren",
+    "type": "essay",
+    "question": "Binjurebarken har tre \"lager\" - ange namnen på de olika lagren på latin, beskriv den cellulära arkitekturen i respektive lager samt ange vilka huvudsakliga substanser som bildas.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Q35: Binjurebarken har tre \"lager\" - ange namnen på de olika lagren på latin, beskriv den cellulära arkitekturen i respektive lager samt ange vilka huvudsakliga substanser som bildas. (3p)"
+  },
+  {
+    "id": 36,
+    "category": "Reproduktionssystemet / Kvinnliga genitalia",
+    "type": "identification",
+    "question": "Ange de latinska namnen på de numrerade strukturerna/delarna.",
+    "reference": "Image on Page 5",
+    "image_filename": "HT21.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      { "n": 1, "label": null },
+      { "n": 2, "label": null },
+      { "n": 3, "label": null },
+      { "n": 4, "label": null }
+    ],
+    "source_text": "Q36: Ange de latinska namnen på de numrerade strukturerna/delarna (2p).\n4\n1\n3\n2"
+  },
+  {
+    "id": 37,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "multi",
+    "question": "Vad av följande stämmer in på funiculus spermaticus?",
+    "choice": [
+      "a) Funiculus spermaticus innehåller kärl och nerver som försörjer testis",
+      "b) I funiculus spermaticus tillförs spermierna sädesvätska",
+      "c) Ductus deferens löper parallellt med funiculus spermaticus fram till urinblåsan",
+      "d) Funiculus spermaticus går igenom bålväggen via canalis inguinalis"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q37: Vad av följande stämmer in på funiculus spermaticus (1p)?\na) Funiculus spermaticus innehåller kärl och nerver som försörjer testis\nb) I funiculus spermaticus tillförs spermierna sädesvätska\nc) Ductus deferens löper parallellt med funiculus spermaticus fram till urinblåsan\nd) Funiculus spermaticus går igenom bålväggen via canalis inguinalis"
+  },
+  {
+    "id": 38,
+    "category": "Urinvägarna / Njure",
+    "type": "short",
+    "question": "Hur är njurarna placerade i förhållande till a) peritoneum? b) columna vertebralis?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q38: Hur är njurarna placerade i förhållande till\na) peritoneum (0,5p)?\nb) columna vertebralis (0,5p)?"
+  },
+  {
+    "id": 39,
+    "category": "Urinvägarna / Njure",
+    "type": "multi",
+    "question": "Vilka strukturer hittar man i njurbarken?",
+    "choice": [
+      "1. Bowmans kapsel",
+      "2. Vasa recta",
+      "3. Macula densa",
+      "4. Övergångsepitel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q39. Vilka strukturer hittar man i njurbarken? (1p)\n1. Bowmans kapsel\n2. Vasa recta\n3. Macula densa\n4. Övergångsepitel"
+  },
+  {
+    "id": 40,
+    "category": "Urinvägarna / Urinledare",
+    "type": "essay",
+    "question": "Beskriv den histologiska uppbyggnaden av urinledarens vägg från lumen och utåt.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q40. Beskriv den histologiska uppbyggnaden av urinledarens vägg från lumen och utåt. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 41,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "short",
+    "question": "Ange två histologiska skillnader mellan tubuli seminiferi och epididymis.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q41. Ange två histologiska skillnader mellan tubuli seminiferi och epididymis. (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 42,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "multi",
+    "question": "Följande uppgifter utförs av Sertoliceller:",
+    "choice": [
+      "a) differentierar till spermatogena celler",
+      "b) bildar blod-testisbarriär",
+      "c) Fagocytrerar residualkroppar",
+      "d) Producerar testosteron"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q42. Följande uppgifter utförs av Sertoliceller: (1p)\na) differentierar till spermatogena celler\nb) bildar blod-testisbarriär\nc) Fagocytrerar residualkroppar\nd) Producerar testosteron"
+  },
+  {
+    "id": 43,
+    "category": "Reproduktionssystemet / Penis",
+    "type": "short",
+    "question": "Vilken struktur finns i mitten av corpus spongiosum i penis?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Q43. Vilken struktur finns i mitten av corpus spongiosum i penis? (0,5p)"
+  },
+  {
+    "id": 44,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "essay",
+    "question": "Beskriv den histologiska uppbyggnaden av uterus slemhinna/endometriet.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q44. Beskriv den histologiska uppbyggnaden av uterus slemhinna/endometriet. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 45,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "short",
+    "question": "a) Vad kallas den mest omogna formen av follikel i ovariet?\nb) Vad är zona pellucida?\nc) Vilka två celltyper kommer att bilda corpus luteum efter ägglossningen?\nd) Vilka strukturer finner du i ovariets medulla?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Q45. 0,5p/fråga (2p)\na) Vad kallas den mest omogna formen av follikel i ovariet?\nb) Vad är zona pellucida?\nc) Vilka två celltyper kommer att bilda corpus luteum efter ägglossningen?\nd) Vilka strukturer finner du i ovariets medulla?"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Placenta",
+    "type": "multi",
+    "question": "Vad är rätt om placenta?",
+    "choice": [
+      "a. deciduaceller ingår i moderns del av placenta",
+      "b. chorionvilli är fostervävnad",
+      "c. moderns och fostrets blod blandas i placentan",
+      "d. syncytiotrofoblasterna har tydliga cellgränser"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Q46. Vad är rätt om placenta? (1p)\na. deciduaceller ingår i moderns del av placenta\nb. chorionvilli är fostervävnad\nc. moderns och fostrets blod blandas i placentan\nd. syncytiotrofoblasterna har tydliga cellgränser"
+  }
+]

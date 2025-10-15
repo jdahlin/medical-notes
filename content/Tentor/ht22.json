@@ -1,0 +1,483 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "short",
+    "question": "Runt vilken rörelseaxel och i vilket plan sker abduktion - adduktion?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Runt vilken rörelseaxel och i vilket plan sker abduktion - adduktion? 1p",
+    "course": "anatomi"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "essay",
+    "question": "Beskriv den anatomiska grundställningen och förklara dess betydelse för den anatomiska terminologin!",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Beskriv den anatomiska grundställningen och förklara dess betydelse för den anatomiska terminologin! 1.5 p",
+    "course": "anatomi"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "essay",
+    "question": "Ett exempel på en anatomisk term är n. cutaneus femoris lateralis.\na. Vilken typ av struktur är detta?\nb. I vilken del av kroppen återfinns den?\nc. Vilken position har den i förhållande till n. cutaneus femoris posterior?",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Ett exempel på en anatomisk term är n. cutaneus femoris lateralis. (1.5p)\na. Vilken typ av struktur är detta?\nb. I vilken del av kroppen återfinns den?\nc. Vilken position har den i förhållande till n. cutaneus femoris posterior?",
+    "course": "anatomi"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "En tänkt muskel har ursprung på framsidan av os coxae, passerar ner till femurs framsida men rundar sedan femur medialt, fortsätter till dorsalsidan och fäster dorsalt på tibia. Vilka leder påverkar muskeln? Vilka rörelser gör den i respektive led?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "En tänkt muskel har ursprung på framsidan av os coxae, passerar ner till femurs framsida men rundar sedan femur medialt, fortsätter till dorsalsidan och fäster dorsalt på tibia. Vilka leder påverkar muskeln? Vilka rörelser gör den i respektive led? 2p",
+    "course": "anatomi"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "identification",
+    "question": "Namnge musklerna med siffrorna 1 - 6. Bilden visar dorsalvy höger höft och lår.",
+    "reference": "Image on Page 6",
+    "image_filename": "HT22.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      { "n": 1, "label": null },
+      { "n": 2, "label": null },
+      { "n": 3, "label": null },
+      { "n": 4, "label": null },
+      { "n": 5, "label": null },
+      { "n": 6, "label": null }
+    ],
+    "source_text": "Namnge musklerna med siffrorna 1 - 6. Bilden visar dorsalvy höger höft och lår. 2p",
+    "course": "anatomi"
+  },
+  {
+    "id": 6,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "match",
+    "question": "Ange hjärtats placering i förhållande till nedanstående strukturer genom att para ihop rätt lägesord med rätt struktur.",
+    "prompts": ["Gaster/Ventriculus", "Pulmo dexter", "Sternum", "Columna vertebralis"],
+    "options": ["Ventralt", "Kranialt", "Medialt", "Dorsalt"],
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Ange hjärtats placering i förhållande till nedanstående strukturer genom att para ihop rätt lägesord med rätt struktur (0,5 p per rätt svar, inga avdrag för fel $=2p$ totalt)",
+    "course": "anatomi"
+  },
+  {
+    "id": 7,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "identification",
+    "question": "I hjärtat sprids den elektriska signalen från förmak till kammare med hjälp av retledningssystemet. Namnge de numrerade strukturerna (i de fall där förkortningar finns räcker det med förkortningen) som ingår.",
+    "reference": "Image on Page 8",
+    "image_filename": "HT22.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      { "n": 1, "label": null },
+      { "n": 2, "label": null },
+      { "n": 3, "label": null },
+      { "n": 4, "label": null }
+    ],
+    "source_text": "I hjärtat sprids den elektriska signalen från förmak till kammare med hjälp av retledningssystemet. Namnge de numrerade strukturerna (i de fall där förkortningar finns räcker det med förkortningen) som ingår (2p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 8,
+    "category": "Vävnadslära / Epitel",
+    "type": "essay",
+    "question": "Det finns olika typer av epitel i kroppen. Beskriv kort uppbyggnaden av nedan epitel. Ge ett exempel på var varje epiteltyp finns i kroppen samt varför den är lämpligt just där (med hänsyn på funktion).\na) Enkelt skivepitel\nb) övergångsepitel\nc) flerskiktat oförhornat skivepitel",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Det finns olika typer av epitel i kroppen. Beskriv kort uppbyggnaden av nedan epitel. Ge ett exempel på var varje epiteltyp finns i kroppen samt varför den är lämpligt just där (med hänsyn på funktion). (3 p)\na) Enkelt skivepitel\nb) övergångsepitel\nc) flerskiktat oförhornat skivepitel",
+    "course": "histologi"
+  },
+  {
+    "id": 9,
+    "category": "Vävnadslära / Bindväv",
+    "type": "short",
+    "question": "Vad är den principiella skillnaden mellan stram regelbunden bindväv och stram oregelbunden bindväv?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är den principiella skillnaden mellan stram regelbunden bindväv och stram oregelbunden bindväv? 1p",
+    "course": "histologi"
+  },
+  {
+    "id": 10,
+    "category": "Vävnadslära / Bindväv",
+    "type": "short",
+    "question": "Vit fettväv har många funktioner utöver att den utgör en energireserv. Nämn två andra viktiga funktioner för vit fettväv.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vit fettväv har många funktioner utöver att den utgör en energireserv. Nämn två andra viktiga funktioner för vit fettväv. (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 11,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är korrekt om retikulära fibrer?",
+    "choice": [
+      "Bildar ett fibernätverk i mjälten",
+      "Finns i hög utsträckning i tymus",
+      "Kan särskiljas från kollagenfibrer i en färgning med hematoxylin/eosin",
+      "Består av typ 3-kollagen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är korrekt om retikulära fibrer? 1p",
+    "course": "histologi"
+  },
+  {
+    "id": 12,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "short",
+    "question": "Svara kort på följande frågor om ben och benbildning:\na) Ge ett exempel på ben som bildas genom direkt benbildning:\nb) Vad kallas cellen som bygger ben?\nc) Vilken cell är flerkärnig och producerar saltsyra?\nd) Vad sker med kondrocyterna i forkalkningszonen (i endokondral benbildning)\ne) Vilka kanaler förbinder olika Haverska kanaler\nf) Vad händer med bentillväxt när reservbrosket tar slut?",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Svara kort på följande frågor om ben och benbildning (0,5 p per fråga, totalt 3p).",
+    "course": "histologi"
+  },
+  {
+    "id": 13,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "short",
+    "question": "Eosinofilen är en leukocyt som man i ljusmikroskop efter färgning kan se innehålla starkt färgande och ljusbrytande granula. Dessa sekundära granula innehåller flera olika enzymer som är viktiga för eosinfilens mest klassiska funktion. Vilken är denna funktion?",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Eosinofilen är en leukocyt som man i ljusmikroskop efter färgning kan se innehålla starkt färgande och ljusbrytande granula. Dessa sekundära granula innehåller flera olika enzymer som är viktiga för eosinfilens mest klassiska funktion. Vilken är denna funktion? (0.5p)"
+  },
+  {
+    "id": 14,
+    "category": "Blod och blodbildning / Blodbildning",
+    "type": "essay",
+    "question": "Beskriv de olika stegen i mognaden av en erytrocyt (erytropoesen). Fokusera på vad som händer under mognaden och hur det avspeglas i vad vi kan se i ljusmikroskop.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv de olika stegen i mognaden av en erytrocyt (erytropoesen). Fokusera på vad som händer under mognaden och hur det avspeglas i vad vi kan se i ljusmikroskop. 2p"
+  },
+  {
+    "id": 15,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vilka tre lager ser man i större kärl både hos vener och artärer? För varje lager: ange en histologisk struktur som alltid finns där.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka tre lager ser man i större kärl både hos vener och artärer? För varje lager: ange en histologisk struktur som alltid finns där (1rätt=0.25p. 2rätt=0.5p, 3rätt=1p).",
+    "course": "histologi"
+  },
+  {
+    "id": 16,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "essay",
+    "question": "Vilken typ av cellförbindelser finns mellan hjärtmuskelceller? Beskriv deras huvudkomponenter.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilken typ av cellförbindelser finns mellan hjärtmuskelceller? Beskriv deras huvudkomponenter. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 17,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "short",
+    "question": "Vilka strukturer förmedlar a) motorisk och b) sensorisk information i skelettmuskelvävnad?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka strukturer förmedlar a) motorisk och b) sensorisk information i skelettmuskelvävnad? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 18,
+    "category": "Nervsystemet / PNS",
+    "type": "identification",
+    "question": "a) Vilken bokstav pekar på spinalnerven?\nb) Vilken bokstav pekar på ett pseudounipolärt neurons cellkropp?",
+    "reference": "Image on Page 19",
+    "image_filename": "HT22.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) Vilken bokstav pekar på spinalnerven (0,5p)\nb) Vilken bokstav pekar på ett pseudounipolärt neurons cellkropp (0,5p)"
+  },
+  {
+    "id": 19,
+    "category": "Nervsystemet / ANS",
+    "type": "multi",
+    "question": "Vilka två av följande påståenden är korrekta avseende ANS?",
+    "choice": [
+      "N Vagus utgör en mycket viktig del av parasympatiska nervsystemet.",
+      "Parasympatikus utgår från hjärnstam och nedre delen av ryggmärgen (S2-S4).",
+      "Sympatikusaktivering leder till ökad puls, snabbare andning och ökad matsmältning",
+      "Parasympatiska ganglier ligger dels paravertebralt dels prevertebralt"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka två av följande påståenden är korrekta avseende ANS? 1p"
+  },
+  {
+    "id": 20,
+    "category": "Nervsystemet / PNS / Kranialnerver",
+    "type": "multi-select",
+    "question": "a) Vad heter den kranialnerv som för med sig visuell information från ögat?\nb) Vad heter den nerv som försörjer ansiktets mimiska muskulatur?\nKryssa i de två nerver som a och b syftar på.",
+    "choice": [
+      "N Oculomotorius",
+      "N Muscularis",
+      "N Facialis",
+      "N Opticus"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) Vad heter den kranialnerv som för med sig visuell information från ögat?\nb) Vad heter den nerv som försörjer ansiktets mimiska muskulatur?\nBåda frågor ska vara rätt ifyllda för att få poäng (1p)\nkryssa i de två nerver som a och b syftar på"
+  },
+  {
+    "id": 21,
+    "category": "Nervsystemet / PNS",
+    "type": "essay",
+    "question": "Redogör för den perfiera nervens uppbyggnad utifrån axonen samt de tre bindvävslager som bygger upp nerven (enbart namn och lokalisation).",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Redogör för den perfiera nervens uppbyggnad utifrån axonen samt de tre bindvävslager som bygger upp nerven (enbart namn och lokalisation) 2p"
+  },
+  {
+    "id": 22,
+    "category": "Lymfatiska systemet / MALT",
+    "type": "essay",
+    "question": "Lymfoid vävnad kan återfinnas i ansamlingar längs slemhinnorna. Ge två exempel på sådana ansamlingar och nämn var de återfinns.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Lymfoid vävnad kan återfinnas i ansamlingar längs slemhinnorna. Ge två exempel på sådana ansamlingar och nämn var de återfinns. (2p)"
+  },
+  {
+    "id": 23,
+    "category": "Lymfatiska systemet",
+    "type": "match",
+    "question": "Para ihop lymfatiskt organ med korrekt histologiskt kännetecken.",
+    "prompts": ["mjälte", "Peyers plack", "tonsilla palatina", "thymus"],
+    "options": ["skivepitel i närheten", "avsaknad av lymffolliklar", "cylinderepitel i närheten", "centralartär"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Para ihop lymfatiskt organ med korrekt histologiskt kännetecken. Alla ska vara rätt ifyllda för att få poäng (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 24,
+    "category": "Respirationssystemet / Histologi",
+    "type": "essay",
+    "question": "Beskriv blod/luft-barriären där den är som tunnast.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv blod/luft-barriären där den är som tunnast (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 25,
+    "category": "Respirationssystemet / Histologi",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer för luktepitelet (olfaktoriskt epitel)?",
+    "choice": [
+      "innehåller bipolära neuron vars axon går går till hjärnan",
+      "Innehåller bägarceller",
+      "innehåller celler med cilier",
+      "innehåller smakceller som aktiverar sensoriskt neuron"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka påståenden stämmer för luktepitelet (olfaktoriskt epitel)? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 26,
+    "category": "Endokrina systemet",
+    "type": "essay",
+    "question": "Beskriv två gemensamma egenskaper som endokrina organ har/kan ha - förutom produktion och frisättning av hormon.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv två gemensamma egenskaper som endokrina organ har/kan ha - förutom produktion och frisättning av hormon (2p)"
+  },
+  {
+    "id": 27,
+    "category": "Endokrina systemet / Binjuren",
+    "type": "identification",
+    "question": "I bilden ser ni ett Hematoxylin/Eosin-färgat histologiskt snitt från ett endokrint organ:\na) vilket är organet?\nb) vad heter det cell-lager som pilen pekar på?\nc) vilken typ av hormon produceras där?",
+    "reference": "Image on Page 27",
+    "image_filename": "HT22.pdf",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "I bilden ser ni ett Hematoxylin/Eosin-färgat histologiskt snitt från ett endokrint organ:\na) vilket är organet?\nb) vad heter det cell-lager som pilen pekar på?\nc) vilken typ av hormon produceras där? (1,5p)",
+    "course": "histologi"
+  },
+  {
+    "id": 28,
+    "category": "Huden / Körtlar",
+    "type": "match",
+    "question": "Para ihop rätt körtel med rätt typ av sekretion.",
+    "prompts": ["Talgkörtel", "Eccrin svättkörtel", "Bröstkörtel", "Apokrina svettkörtlar"],
+    "options": ["Enbart merokrin sekretion", "Holokrin sekretion", "Merokrin och apokrin sekretion"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Para ihop rätt körtel med rätt typ av sekretion. (Varje rätt svar ger 0,25p, inga avdrag för fel svar, totalt 1p)"
+  },
+  {
+    "id": 29,
+    "category": "Huden",
+    "type": "short",
+    "question": "Svara kort på följande frågor om hud:\na) Vad kallas intermediärfilamentet i keratinocyterna?\nb) Vilka körtlar tömmer sig i hårsäcken?\nc) Vilka strukturer ger hårmatrixcellerna upphov till?\nd) Vad kallas hudens makrofag?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara kort på följande frågor om hud: (0,5p per fråga, totalt 2p)"
+  },
+  {
+    "id": 30,
+    "category": "Digestionssystemet / Svalg",
+    "type": "short",
+    "question": "a) Vad heter den struktur som utgör fysisk barriär mot luftstrupen när vi sväljer föda? (så att inte maten hamnar i fel rör!) Ange det latinska namnet.\nb) Vilken typ av brosk finns i denna struktur?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) Vad heter den struktur som utgör fysisk barriär mot luftstrupen när vi sväljer föda? (så att inte maten hamnar i fel rör!) Ange det latinska namnet. b) Vilken typ av brosk finns i denna struktur? (1p)"
+  },
+  {
+    "id": 31,
+    "category": "Digestionssystemet / Magsäck och Tunntarm",
+    "type": "identification",
+    "question": "Namnge de numrerade strukturerna på latin.",
+    "reference": "Image on Page 31",
+    "image_filename": "HT22.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      { "n": 1, "label": null },
+      { "n": 2, "label": null },
+      { "n": 3, "label": null },
+      { "n": 4, "label": null }
+    ],
+    "source_text": "Namnge de numrerade strukturerna på latin (2p)"
+  },
+  {
+    "id": 32,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "essay",
+    "question": "På tungans ovansida finns fyra typer av papiller. Namnge de olika papillerna och beskriv kort hur de är uppbyggda. Tydliggör på vilket sätt de olika papillerna skiljer sig från varandra.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "På tungans ovansida finns fyra typer av papiller. Namnge de olika papillerna och beskriv kort hur de är uppbyggda. Tydliggör på vilket sätt de olika papillerna skiljer sig från varandra. (2p)"
+  },
+  {
+    "id": 33,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "multi",
+    "question": "Markera de två av följande påståenden som stämmer bäst med smaklökar:",
+    "choice": [
+      "Innehåller ganglier med nervceller som skickar smakintryck till hjärnan",
+      "Våra smaklökar kan känna av fyra smaker: surt, salt, beskt, och umami",
+      "Består av sinnesceller, stödjeceller och basala celler",
+      "En smakcell uttrycker endast en sorts smakreceptorer"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Markera de två av följande påståenden som stämmer bäst med smaklökar:"
+  },
+  {
+    "id": 34,
+    "category": "Digestionssystemet / Magsäck och Tunntarm",
+    "type": "short",
+    "question": "a. Vad heter den saltsyreproducerande cellen i magsäcken?\nb. I vilken del av tarmen återfinner man Brunners körtlar?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Svara med ett ord på följande frågor: (0,5p per korrekt svar)\na. Vad heter den saltsyreproducerande cellen i magsäcken?\nb. I vilken del av tarmen återfinner man Brunners körtlar?"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / GI-kanalen",
+    "type": "essay",
+    "question": "Magtarmkanalens vägg består av fyra lager: mukosa, submukosa, muskularis externa, samt serosa/adventitia. Beskriv kortfattat hur mukosan är uppbyggd i magtarmkanalens olika segment; esofagus, ventrikeln, tunntarm, grovtarm. Det är viktigt att ditt svar tydliggör de skillnader som finns mellan segmenten: epiteltyp? finns körtlar i mukosan? Hur är slemhinnan veckad? Du behöver inte nämna vad de olika celltyperna i segmenten heter eller har för funktion.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Magtarmkanalens vägg består av fyra lager: mukosa, submukosa, muskularis externa, samt serosa/adventitia. Beskriv kortfattat hur mukosan är uppbyggd i magtarmkanalens olika segment; esofagus, ventrikeln, tunntarm, grovtarm. Det är viktigt att ditt svar tydliggör de skillnader som finns mellan segmenten: epiteltyp? finns körtlar i mukosan? Hur är slemhinnan veckad? Du behöver inte nämna vad de olika celltyperna i segmenten heter eller har för funktion. (2p)"
+  },
+  {
+    "id": 36,
+    "category": "Urinvägarna",
+    "type": "short",
+    "question": "Kvinnor drabbas oftare av infektioner i urinblåsan än män - vilken är den anatomiska förklaringen till detta?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Kvinnor drabbas oftare av infektioner i urinblåsan än män - vilken är den anatomiska förklaringen till detta? (1p)"
+  },
+  {
+    "id": 37,
+    "category": "Urinvägarna / Njure",
+    "type": "essay",
+    "question": "Vilken funktion har den juxtaglomerulära apparaten, och vilka histologiska komponenter består den av?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilken funktion har den juxtaglomerulära apparaten, och vilka histologiska komponenter består den av? (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 38,
+    "category": "Urinvägarna / Njure och Urinledare",
+    "type": "short",
+    "question": "Vilka typer av epitel bekläder\na) Bowmans kapsels parietala blad\nb) Bowmans kapsels viscerala blad\nc) ureter?",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Vilka typer av epitel bekläder\na) Bowmans kapsels parietala blad\nb) Bowmans kapsels viscerala blad\nc) ureter? (1,5 p)",
+    "course": "histologi"
+  },
+  {
+    "id": 39,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "essay",
+    "question": "a) beskriv uppbyggnaden av en sekundärfollikel i ovariet. Namnge de olika lagren, från oocyten och utåt.\nb) hur skiljer du säkrast en sekundärfollikel från en sen primärfollikel?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "a) beskriv uppbyggnaden av en sekundärfollikel i ovariet. Namnge de olika lagren, från oocyten och utåt. 1.5p\nb) hur skiljer du säkrast en sekundärfollikel från en sen primärfollikel? 0.5p",
+    "course": "histologi"
+  },
+  {
+    "id": 40,
+    "category": "Reproduktionssystemet / Vagina",
+    "type": "multi",
+    "question": "Vad är rätt om vagina?",
+    "choice": [
+      "Har ett flerskiktat oförhornat skivepitel",
+      "Har rikligt med elastiska fibrer i lamina propria",
+      "Har ett cylinderepitel",
+      "Har många körtlar i submukosan"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om vagina 1p"
+  },
+  {
+    "id": 41,
+    "category": "Reproduktionssystemet / Placenta",
+    "type": "short",
+    "question": "a) Deciduaceller bildar moderns del av placentan. Från vilken celltyp utvecklas deciduaceller?\nb) Vilken celltyp bildar det yttersta lagret i ett placentavillus/chorionvillus i en mogen placenta?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) Deciduaceller bildar moderns del av placentan. Från vilken celltyp utvecklas deciduaceller? (0.5p)\nb) Vilken celltyp bildar det yttersta lagret i ett placentavillus/chorionvillus i en mogen placenta? (0.5p)"
+  },
+  {
+    "id": 42,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "essay",
+    "question": "Beskriv utförligt en Sertolicell. (Lokalisation, funktion, utseende).",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Beskriv utförligt en Sertolicell. (Lokalisation, funktion, utseende) (1.5p)."
+  },
+  {
+    "id": 43,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "short",
+    "question": "a) I vilket manligt organ kan man se konkrement?\nb) Var hittar man leydigceller (rätt organ räcker inte för poäng)?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) I vilket manligt organ kan man se konkrement? (0.5p)\nb) Var hittar man leydigceller (rätt organ räcker inte för poäng)? (0.5p)"
+  }
+]

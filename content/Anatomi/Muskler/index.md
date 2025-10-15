@@ -23,7 +23,6 @@ Exempel
 | [[Anatomi/Muskler/Latissimus Dorsi]]               | Axel: ext/add/inåtrot        | [[Anatomi/Nerver/N Thoracodorsalis]]               |                              |
 | [[Anatomi/Muskler/Pectoralis Major]]               | Axel: add/inåtrot            | [[Anatomi/Nerver/Nn Pectorales]]                   | Bröstmuskel                  |
 | [[Anatomi/Muskler/Biceps Brachii]]                 | Armbåge: flex/supination     | [[Anatomi/Nerver/N Musculocutaneus]]               | Ventralt om humerus          |
-| [[Anatomi/Muskler/Brachialis]]                     | Armbåge: flexion             | [[Anatomi/Nerver/N Musculocutaneus]]               |                              |
 | [[Anatomi/Muskler/Brachioradialis]]                | Armbåge: flexion             | [[Anatomi/Nerver/N Radialis]]                      |                              |
 | [[Anatomi/Muskler/Triceps Brachii]]                | Armbåge: extension           | [[Anatomi/Nerver/N Radialis]]                      | Dorsalt om humerus           |
 | [[Anatomi/Muskler/Flexor Digitorum Superficialis]] | PIP-flexion                  | [[Anatomi/Nerver/N Medianus]]                      |                              |

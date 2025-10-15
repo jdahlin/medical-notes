@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "Vilket av följande påståenden beskriver bäst femurs anatomi?",
+    "choice": [
+      "Proximalt karakteriseras femur av collum femoris, trochanter major et minor. Distalt har femur två condyler som utgör ledhuvud i knäleden.",
+      "Proximalt karakteriseras femur av collum chirurgicum, tuberculum majus et minus. Distalt har femur två epicondyler som utgör ledhuvud i knäleden.",
+      "Femurcondylen ledar mot acetabulum och caput femoris mot tibia. Trochanter major utgör ett viktigt landmärke vid palpation av höftregionen.",
+      "Caput femoris ledar mot cavum glenoidale. Distalt ledar femurcondylerna mot radius och ulna."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande påståenden beskriver bäst femurs anatomi? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Leder",
+    "type": "multi",
+    "question": "Då handen proneras och supineras sker den största rörelsen i följande led:",
+    "choice": [
+      "Art. glenohumerale",
+      "Art. humeroulnaris",
+      "Art. radiocarpea",
+      "Art. radioulnaris proximalis"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Då handen proneras och supineras sker den största rörelsen i följande led: (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "multi",
+    "question": "Vilket av följande påståenden beskriver bäst de rörelser som vid en inandning normalt sett sker i bröstkorgen?",
+    "choice": [
+      "De kraniella revbenen eleveras ventralt varvid bröstkorgens anteroposteriora diameter ökar. De kaudala revbenen eleveras lateralt varvid bröstkorgens laterala diameter ökar.",
+      "De kraniella revbenen eleveras lateralt varvid bröstkorgens laterala diameter ökar. De kaudala revbenen eleveras ventralt varvid bröstkorgens anteroposteriora diameter ökar.",
+      "De kraniella revbenen eleveras lateralt varvid bröstkorgens anteroposteriora diameter ökar. De kaudala revbenen eleveras ventralt varvid bröstkorgens laterala diameter ökar.",
+      "De kraniella revbenen eleveras ventralt varvid bröstkorgens laterala diameter ökar. De kaudala revbenen eleveras lateralt varvid bröstkorgens anteroposteriora diameter ökar."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande påståenden beskriver bäst de rörelser som vid en inandning normalt sett sker i bröstkorgen? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "En patient har fallit och slagit i ansiktet. Du noterar vid undersökningen att ett par av tänderna i överkäken sitter löst. Vilket ben bör du baserat på detta fynd misstänka kan ha blivit skadat?",
+    "choice": [
+      "Os maxilla",
+      "Os mandibula",
+      "Os temporale",
+      "Os palatinum",
+      "Os frontale"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "En patient har fallit och slagit i ansiktet. Du noterar vid undersökningen att ett par av tänderna i överkäken sitter löst. Vilket ben bör du baserat på detta fynd misstänka kan ha blivit skadat? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "essay",
+    "question": "Utifrån rörelseriktning och rörelseaxel, definiera termerna flexion, extension, abduktion, adduktion samt rotation.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Utifrån rörelseriktning och rörelseaxel, definiera termerna flexion, extension, abduktion, adduktion samt rotation. (3p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 6,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "short",
+    "question": "Vad menas med begreppen lordos och kyfos? Var kan man hitta exempel på dessa begrepp?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad menas med begreppen lordos och kyfos? Var kan man hitta exempel på dessa begrepp? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 7,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "match",
+    "question": "Ange hjärtats placering i förhållande till respektive struktur/område genom att ange rätt bokstav (A-D) i rutan vid respektive struktur.",
+    "prompts": ["i förhållande till Sternum (bröstbenet)", "i förhållande till Diafragma", "i förhållande till Columna vertebralis (kotpelaren)", "i förhållande till Lungor"],
+    "options": ["A - Ventralt", "B - Medialt", "C - Superiort", "D - Dorsalt"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Ange hjärtats placering i förhållande till respektive struktur/område genom att ange rätt bokstav (A-D) i rutan vid respektive struktur. (1p. 0.25 p per rätt svar, inga avdrag för fel):",
+    "course": "anatomi"
+  },
+  {
+    "id": 8,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "identification",
+    "question": "Vad pekar pilarna A-D på? Svara på latin.",
+    "reference": "Image on Page 6",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      {"n": "A", "label": null},
+      {"n": "B", "label": null},
+      {"n": "C", "label": null},
+      {"n": "D", "label": null}
+    ],
+    "source_text": "Vad pekar pilarna A-D på? Svara på latin. (2 poäng 0.5 p per rätt svar, inga avdrag för fel)",
+    "course": "anatomi"
+  },
+  {
+    "id": 9,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "multi-part",
+    "question": "a) Från arcus aortae avgår 3 stora artärer som tillsammans försörjer båda övre extremiteter, hals, huvud och hjärna. Den första avgången har en gemensam huvudstam för höger sidas artärer till arm samt hals/huvud/hjärna - vad kallas denna avgång?\nb) Vilket/vilka lager i kärlväggen skiljer sig mest mellan artärer och vener?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) Från arcus aortae avgår 3 stora artärer som tillsammans försörjer båda övre extremiteter, hals, huvud och hjärna. Den första avgången har en gemensam huvudstam för höger sidas artärer till arm samt hals/huvud/hjärna - vad kallas denna avgång? (0.5p)\nb) Vilket/vilka lager i kärlväggen skiljer sig mest mellan artärer och vener? ((0.5p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 10,
+    "category": "Vävnadslära / Epitel",
+    "type": "multi-part",
+    "question": "Bilden visar fyra olika typer av epitel som är märkta A-D.\na) Vilka typer av epitel visas i figuren ovan? Svara genom att välja rätt epitel för varje bild.\nb) Vilket av ovan epitel hittas i svettkörtlars utförsgångar? Ange rätt bokstav.\nc) Vilket av ovan epiteltyper lämpar sig bäst för sekretion och absorption? Ange rätt bokstav.",
+    "reference": "Image on Page 8",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Bilden visar fyra olika typer av epitel som är märkta A-D. a) Vilka typer av epitel visas i figuren ovan? Svara genom att välja rätt epitel för varje bild: (0,5p per rätt svar) b) Vilket av ovan epitel hittas i svettkörtlars utförsgångar? Ange rätt bokstav. (0.5p) c) Vilket av ovan epiteltyper lämpar sig bäst för sekretion och absorption? Ange rätt bokstav (0.5p).",
+    "course": "histologi"
+  },
+  {
+    "id": 11,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "multi-part",
+    "question": "Bilden ovan visar direkt benbildning.\na) Ange den siffra som passar bäst för nedan beskrivningar: Cell som aktivt producerar benmatrix och mineraliserar matrixen; Cell som producerar HCI; Mesenkymal bindväv.\nb) Vilken typ av ben är det som mest sannolikt håller på att bildas i figuren?",
+    "reference": "Image on Page 9",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Bilden ovan visar direkt benbildning. a) Ange den siffra som passar bäst för nedan beskrivningar. (0.5 p per rätt svar) Cell som aktivt producerar benmatrix och mineraliserar matrixen; Cell som producerar HCI; Mesenkymal bindväv; b) Vilken typ av ben är det som mest sannolikt håller på att bildas i figuren? (0.5p)",
+    "course": "histologi"
+  },
+  {
+    "id": 12,
+    "category": "Nervsystemet / CNS",
+    "type": "short",
+    "question": "Vad har lillhjärnan för huvudsakliga funktioner?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad har lillhjärnan för huvudsakliga funktioner? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 13,
+    "category": "Nervsystemet / PNS",
+    "type": "hotspot",
+    "question": "Markera radix dorsalis på bilden.",
+    "reference": "Image on Page 10",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Markera radix dorsalis på bilden (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 14,
+    "category": "Nervsystemet / ANS",
+    "type": "multi",
+    "question": "Vilket av följande begrepp beskriver bäst information från våra inre organ till ryggmärgen?",
+    "choice": [
+      "Visceral Afferens",
+      "Somatisk Efferens",
+      "Somatisk Afferens",
+      "Visceral Efferens"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande begrepp beskriver bäst information från våra inre organ till ryggmärgen? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 15,
+    "category": "Nervsystemet / Celler",
+    "type": "multi",
+    "question": "Vilken av följande funktioner är primärt associerad med dendriter i en nervcell?",
+    "choice": [
+      "Att generera aktionspotentialer",
+      "Att bilda myelinskikt",
+      "Att leda impulser från cellkroppen",
+      "Att syntetisera proteiner",
+      "Att ta emot stimuli från andra celler"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken av följande funktioner är primärt associerad med dendriter i en nervcell? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 16,
+    "category": "Nervsystemet / Celler",
+    "type": "multi",
+    "question": "Vilket påstående beskriver bäst funktionen hos satellitceller i PNS?",
+    "choice": [
+      "De deltar i synaptisk signalöverföring",
+      "De fungerar som stamceller",
+      "De transporterar axonala makromolekyler",
+      "De omger och skyddar nervcellskroppar i ganglier",
+      "De bildar myelinskikt runt axon"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående beskriver bäst funktionen hos satellitceller i PNS? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 17,
+    "category": "Nervsystemet / PNS",
+    "type": "short",
+    "question": "Vilka bindvävslager finns i den perifiera nerven och i vilken ordning ligger de (från axonet och ut)?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka bindvävslager finns i den perifiera nerven och i vilken ordning ligger de (från axonet och ut)? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 18,
+    "category": "Blod och blodbildning / Blodbildning",
+    "type": "essay",
+    "question": "Under erytropoesen skiftar cytoplasman färg från lila till rosa. Ange två cellbiologiska orsaker till detta färgskifte.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Under erytropoesen skiftar cytoplasman färg från lila till rosa. Ange två cellbiologiska orsaker till detta färgskifte (2p).",
+    "course": "anatomi"
+  },
+  {
+    "id": 19,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "multi",
+    "question": "Vilken blodcell har receptorer för IgE på sin yta?",
+    "choice": ["Neutrofil", "B-cell", "Monocyt", "Basofil"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken blodcell har receptorer för IgE på sin yta? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 20,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är det här för typ av vävnad?",
+    "reference": "Image on Page 14",
+    "image_filename": "VT25.pdf",
+    "choice": ["Trådbrosk", "Hyalint brosk", "Lamina propria", "Sena"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är det här för typ av vävnad?",
+    "course": "histologi"
+  },
+  {
+    "id": 21,
+    "category": "Vävnadslära / Bindväv",
+    "type": "short",
+    "question": "Vad är en proteoglykan och vilken roll spelar den i bindväven?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är en proteoglykan och vilken roll spelar den i bindväven? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 22,
+    "category": "Vävnadslära / Brosk",
+    "type": "multi",
+    "question": "På vilket sätt skiljer sig ledbrosk från annat hyalint brosk?",
+    "choice": [
+      "Innehåller isogena grupper av kondrocyter",
+      "Mesenkymalt ursprung",
+      "Avsaknad av kollagen i matrix",
+      "Saknar blodkärl",
+      "Saknar perikondrium"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "På vilket sätt skiljer sig ledbrosk från annat hyalint brosk? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 23,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vilket påstående stämmer gällande motorisk/sensorisk informationsflöde i muskelvävnad?",
+    "choice": [
+      "muskelspole skickar signaler från nervsystemet till muskelvävnad",
+      "muskelspole skickar signaler från muskelvävnad till nervsystemet",
+      "diad skickar signaler från muskelvävnad till nervsystemet",
+      "motorändplattor skickar signaler från muskelvävnad till nervsystemet"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer gällande motorisk/sensorisk informationsflöde i muskelvävnad? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 24,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "short",
+    "question": "a) Vilka histologiska egenskaper gör att man kan identifiera skelettmuskelvävnad?\nb) Vilka histologiska egenskaper gör att man kan skilja den från hjärtmuskelvävnad?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) Vilka histologiska egenskaper gör att man kan identifiera skelettmuskelvävnad? (0.5p)\nb) Vilka histologiska egenskaper gör att man kan skilja den från hjärtmuskelvävnad (0.5p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 25,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "short",
+    "question": "Beskriv histologiskt hur satellitcellerna är lokaliserade i förhållande till skelettmuskelceller.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Beskriv histologiskt hur satellitcellerna är lokaliserade i förhållande till skelettmuskelceller (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 26,
+    "category": "Respirationssystemet / Histologi",
+    "type": "essay",
+    "question": "Beskriv den histologiska uppbyggnaden av respiratoriskt epitel. Du ska beskriva de tre mest förekommande celltyperna, samt deras funktion.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Beskriv den histologiska uppbyggnaden av respiratoriskt epitel. Du ska beskriva de tre mest förekommande celltyperna, samt deras funktion. (3p)",
+    "course": "histologi"
+  },
+  {
+    "id": 27,
+    "category": "Huden / Epidermis",
+    "type": "match",
+    "question": "Matcha varje struktur/funktion med rätt lager i epidermis.",
+    "prompts": ["celldelning", "celler utan cellkärnor", "lamellar bodies", "hemidesmosomer", "ligger precis utanför stratum basale"],
+    "options": ["stratum granulosum", "stratum spinosum", "stratum basale", "stratum corneum"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Matcha varje struktur/funktion med rätt lager i epidermis: (1p för alla rätt, inga delpoäng)",
+    "course": "anatomi"
+  },
+  {
+    "id": 28,
+    "category": "Huden / Hår",
+    "type": "short",
+    "question": "Nederst i hårfollikeln finns hårmatrixcellerna. Vilka strukturer ger de upphov till?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Nederst i hårfollikeln finns hårmatrixcellerna. Vilka strukturer ger de upphov till? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 29,
+    "category": "Huden / Körtlar",
+    "type": "multi",
+    "question": "Vad stämmer för den sekretoriska delen av apokrina svettkörtlar?",
+    "choice": [
+      "använder sig av holokrin sekretion",
+      "har \"clear cells\" och \"dark cells\"",
+      "sekretet består av vatten och salter",
+      "har myoepiteliala celler"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad stämmer för den sekretoriska delen av apokrina svettkörtlar? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 30,
+    "category": "Lymfatiska systemet / MALT",
+    "type": "multi",
+    "question": "Vilken lymfoid struktur ligger i anslutning till ett flerskiktat skivepitel?",
+    "choice": [
+      "Anulus lymphoideus pharyngis",
+      "Peyerskt plack",
+      "Hassalsk kropp",
+      "Appendix"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken lymfoid struktur ligger i anslutning till ett flerskiktat skivepitel? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 31,
+    "category": "Lymfatiska systemet / Thymus",
+    "type": "essay",
+    "question": "I tymus kontrolleras T-celler i två steg? Vad kallas dessa och ange kortfattat vad som kontrolleras i respektive steg?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "I tymus kontrolleras T-celler i två steg? Vad kallas dessa och ange kortfattat vad som kontrolleras i respektive steg? (2p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 32,
+    "category": "Endokrina systemet / Sköldkörteln",
+    "type": "identification",
+    "question": "a) Vilket endokrint organ visar bilden?\nb) Vad pekar pilarna på?",
+    "reference": "Image on Page 21",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "a) Vilket endokrint organ visar bilden? (1p)\nb) Vad pekar pilarna på? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 33,
+    "category": "Endokrina systemet / Sköldkörteln",
+    "type": "multi",
+    "question": "Vilket påstående är korrekt angående glandula thyroideas uppbyggnad?",
+    "choice": [
+      "Thyroideas folliklar är uppbyggda av ett flerradigt kubiskt epitel runt ett lumen som innehåller kolloid",
+      "På follikelcellernas basala sida finns receptorer för thyroglobulin och jod",
+      "Follikelcellerna är polariserade med den apikala delen mot follikellumen och den basala vilande på ett basalmembran",
+      "Insprängt mellan follikelcellerna finns parafollikulära celler som producerar calcitonin"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående är korrekt angående glandula thyroideas uppbyggnad? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 34,
+    "category": "Digestionssystemet / Svalg",
+    "type": "short",
+    "question": "Trachea och esofagus ligger väldigt nära varandra, ändå är det sällan som vi sväljer maten fel - vilken är den anatomiska förklaringen till detta?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Trachea och esofagus ligger väldigt nära varandra, ändå är det sällan som vi sväljer maten fel - vilken är den anatomiska förklaringen till detta? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / Anatomi",
+    "type": "drag-and-drop",
+    "question": "Dra rätt benämning till rätt struktur.",
+    "reference": "Image on Page 23",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Dra rätt benämning till rätt struktur (1p, 0.25 p per rätt svar)",
+    "course": "anatomi"
+  },
+  {
+    "id": 36,
+    "category": "Digestionssystemet / Tjocktarm",
+    "type": "short",
+    "question": "Vad kallas de längsgående muskelband som löper längs med tjocktarmen? Svara på latin.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad kallas de längsgående muskelband som löper längs med tjocktarmen? Svara på latin. (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 37,
+    "category": "Digestionssystemet",
+    "type": "essay",
+    "question": "Ange lokalisation och funktion för följande celltyper. För lokalisation ska du ange precis var i respektive organ man finner cellen, helt organ räcker inte.\na. Parietalceller\nb. Ameloblaster\nc. Kupfferceller",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Ange lokalisation och funktion för följande celltyper. För lokalisation ska du ange precis var i respektive organ man finner cellen, helt organ räcker inte. (3p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 38,
+    "category": "Digestionssystemet / Magsäck",
+    "type": "multi",
+    "question": "Vilken del av ventrikeln är detta?",
+    "reference": "Image on Page 25",
+    "image_filename": "VT25.pdf",
+    "choice": ["Cardia", "Fundus", "Corpus", "Pylorus"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken del av ventrikeln är detta? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 39,
+    "category": "Digestionssystemet / Pankreas",
+    "type": "multi",
+    "question": "Vad är rätt om Pankreas?",
+    "choice": [
+      "Endokrina delen kallas Langerhans cellöar",
+      "Acini med båda serösceller och mukösceller",
+      "Betaceller producerar glukagon",
+      "Utsöndrar slem och bikarbonat"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om Pankreas? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 40,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "multi",
+    "question": "Var övergår epitelet från förhornat till oförhornat flerskiktat skivepitel?",
+    "choice": [
+      "Esophagus > magsäck",
+      "Gallblåsa > tunntarm",
+      "Läppröda > munslemhinna",
+      "Rektum > analkanalen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var övergår epitelet från förhornat till oförhornat flerskiktat skivepitel? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 41,
+    "category": "Digestionssystemet / Pankreas",
+    "type": "identification",
+    "question": "Vilken del av Pankreas är endokrin? Svara genom att ange rätt bokstav (A-D) för de gula pilarna enligt bilden.",
+    "reference": "Image on Page 27",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken del av Pankreas är endokrin? (1p) Svara genom att ange rätt bokstav (A-D) för de gula pilarna enligt bilden.",
+    "course": "anatomi"
+  },
+  {
+    "id": 42,
+    "category": "Urinvägarna / Anatomi",
+    "type": "short",
+    "question": "Vad är Trigonum?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är Trigonum? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 43,
+    "category": "Urinvägarna / Urinledare",
+    "type": "essay",
+    "question": "Urinledarens vägg består av följande lager, i alfabetisk ordning: adventitia, mukosa och muskularis.\na) I vilken ordning ligger de från urinledarens lumen och utåt?\nb) Redovisa de histologiska kännetecknen för urinledarens adventitia\nc) Redovisa de histologiska kännetecknen för urinledarens mukosa\nd) Redovisa de histologiska kännetecknen för urinledarens muskularis",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Urinledarens vägg består av följande lager, i alfabetisk ordning: adventitia, mukosa och muskularis. a) I vilken ordning ligger de från urinledarens lumen och utåt (0,5p): b) Redovisa de histologiska kännetecknen för urinledarens adventitia (0,5p) c) Redovisa de histologiska kännetecknen för urinledarens mukosa (1,0p) d) Redovisa de histologiska kännetecknen för urinledarens muskularis (1,0p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 44,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "multi-select",
+    "question": "Vad av följande ingår i funiculus spermaticus?",
+    "choice": [
+      "ductus deferens",
+      "arteria testicularis",
+      "plexus pampiniformis",
+      "tunica dartos",
+      "musculus cremaster",
+      "tubuli seminiferi",
+      "ductus ejaculatorius"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad av följande ingår i funiculus spermaticus? Obs! Ett eller flera svar är rätt! (1p för alla rätt, inga delpoäng)",
+    "course": "anatomi"
+  },
+  {
+    "id": 45,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "short",
+    "question": "Svara kort på följande sex frågor om manliga genitalia:\na) Vilken cell i testis producerar testosteron?\nb) Vad kallas fasen där manliga könsceller genomgår meios?\nc) Vilken cell utgör blod/testisbarriären i tubuli seminiferi?\nd) Vilket gångsystem för passage av spermier löper mellan rete testis och epididymis?\ne) Vilken apikal ytspecialisering finns i epitelet som bekläder epididymis?\nf) Vilken/vilka svällkropp(ar) finns i glans penis?",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Svara kort på följande sex frågor om manliga genitalia (0,5p per rätt svar, totalt 3p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Kvinnliga genitalia",
+    "type": "drag-and-drop",
+    "question": "Benämn de numrerade strukturerna på latin.",
+    "reference": "Image on Page 31",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Benämn de numrerade strukturerna på latin (1p, 0.25 p per rätt svar, inga avdrag för fel)",
+    "course": "anatomi"
+  },
+  {
+    "id": 47,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "essay",
+    "question": "Centralt i bilden ser du en follikel.\na) Vilket stadium av follikulär utveckling är detta?\nb) Identifiera två utmärkande egenskaper som kännetecknar detta stadium.",
+    "reference": "Image on Page 32",
+    "image_filename": "VT25.pdf",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Centralt i bilden ser du en follikel. a) Vilket stadium av follikulär utveckling är detta? (1p) b) Identifiera två utmärkande egenskaper som kännetecknar detta stadium (2p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 48,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "multi",
+    "question": "Vilka vaskulära strukturer förser stratum functionale med blod och är involverade i regleringen av menstruationsavstötning?",
+    "choice": ["Spiralartär", "Lacunae", "Rak artär", "Djup artär"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka vaskulära strukturer förser stratum functionale med blod och är involverade i regleringen av menstruationsavstötning? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 49,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "multi",
+    "question": "Var i det kvinnliga reproduktionssystemet finns körtlar med mukusceller?",
+    "choice": ["Äggledare", "Livmoder", "Cervix", "Vagina"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var i det kvinnliga reproduktionssystemet finns körtlar med mukusceller? (1p)",
+    "course": "anatomi"
+  }
+]

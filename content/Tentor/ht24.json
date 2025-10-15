@@ -1,0 +1,691 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "multi",
+    "question": "En rörelse där Axelleden vrider sig runt en horisontell / transversell axel kallas...",
+    "choice": [
+      "Abduktion / Adduktion",
+      "Flexion / Extension",
+      "Lateralflexion",
+      "Pronation / Supination",
+      "Inåt- / Utatrotation"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "En rörelse där Axelleden vrider sig runt en horisontell / transversell axel kallas... (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "Vilket av följande kranialben ingår inte i ögonhålan (orbita)?",
+    "choice": [
+      "Os ethmoidale",
+      "Os temporale",
+      "Os maxilla",
+      "Os frontale"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande kranialben ingår inte i ögonhålan (orbita)? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "Vad är sant om övre extremitets anatomi?",
+    "choice": [
+      "De flesta av fingrarnas flexorer och extensorer urspringer på överarmsbenet (humerus)",
+      "Tummen har tre falanger precis som övriga fingrar",
+      "Handens skelett består av tarsus, ossa metatarsale samt proximala, intermediära och distala falanger",
+      "Rörelserna supination och pronation sker främst i handleden (art radiocarpea)"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är sant om övre extremitets anatomi? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "multi",
+    "question": "Vilket av följande påståenden är falskt?",
+    "choice": [
+      "För att en muskel skall kunna verka över en led krävs att den har sitt ursprung och fäste på olika sidor om leden.",
+      "För att en aktiv rörelse skall kunna ske över en led krävs att agonisten kontraherar och antagonisten relaxerar.",
+      "Ryggradens anteroposteriora kurvaturer kallas lordos i hals- och ländrygg och kyfos i bröstrygg och bäcken",
+      "När du lyfter benet för att sätta foten på nästa trappsteg i en trappa sker normalt sett en flexion i höftleden och en extension i knäleden"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande påståenden är falskt? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "short",
+    "question": "Hur många ryggkotor finns det normalt sett sammanlagt i ländryggen, bröstryggen och halsryggen?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Hur många ryggkotor finns det normalt sett sammanlagt i ländryggen, bröstryggen och halsryggen? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 6,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "short",
+    "question": "Ange ursprung, fäste och funktion för musculus iliopsoas",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Ange ursprung, fäste och funktion för musculus iliopsoas (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 7,
+    "category": "Rörelseapparatens anatomi / Leder",
+    "type": "short",
+    "question": "Denne så kallade vitruvianske man, tecknad av Leonardo Da Vinci (1452-1519) står med sin vänstra fot utåtroterad så att tårna pekar åt sidan (lateralt). I vilken led sker den utåtrotation som leder till att foten hamnar i detta läge, utgående från den anatomiska grundställningen?",
+    "reference": "Image on Page 6",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Denne så kallade vitruvianske man, tecknad av Leonardo Da Vinci (1452-1519) står med sin vänstra fot utåtroterad så att tårna pekar åt sidan (lateralt). I vilken led sker den utåtrotation som leder till att foten hamnar i detta läge, utgående från den anatomiska grundställningen? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 8,
+    "category": "Rörelseapparatens anatomi / Terminologi",
+    "type": "short",
+    "question": "Beskriv den högra bröstvårtans läge i förhållande till naveln. Använd korrekt anatomisk lägesterminologi.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Beskriv den högra bröstvårtans läge i förhållande till naveln. Använd korrekt anatomisk lägesterminologi. (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 9,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående hjärtat?",
+    "choice": [
+      "I atrium sinistrum töms allt blod från systemcirkulationen, via vena cava superior och inferior.",
+      "För att undvika blandning av syrerikt och syrefattigt blod är blodflödet alltid enkelriktat och septum interatriale+interventriculare åtskiljer hjärthalvorna.",
+      "På väg till lungorna från ventriculus dexter passerar blodet en fickklaff som kallas valva bicuspidalis.",
+      "Det syrefattiga blodet förs till lungorna via två stora kärl som kallas venae pulmonales dexter och sinister"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående hjärtat? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 10,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "essay",
+    "question": "Du är en röd blodkropp som från hjärtats atrium sinister skall ta dig till ett glomerulus i en njure. Beskriv hur du tar dig dit genom att namnge de olika strukturer och kärl (med egennamn eller kärltyp) du passerar igenom på vägen. Använd latinska benämningar.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Du är en röd blodkropp som från hjärtats atrium sinister skall ta dig till ett glomerulus i en njure. Beskriv hur du tar dig dit genom att namnge de olika strukturer och kärl (med egennamn eller kärltyp) du passerar igenom på vägen. Använd latinska benämningar. (2 p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 11,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "identification",
+    "question": "Para ihop rätt siffra med rätt hjärtklaff, genom att ange rätt siffra nedan.",
+    "reference": "Image on Page 10",
+    "image_filename": "HT24.pdf",
+    "prompts": ["valva tricuspidalis", "valva mitralis", "valva pulmonalis", "valva aortae"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Para ihop rätt siffra med rätt hjärtklaff, genom att ange rätt siffra nedan. (1p, 0.25 p per rätt svar)"
+  },
+  {
+    "id": 12,
+    "category": "Vävnadslära / Epitel",
+    "type": "short",
+    "question": "Svara på följande frågor om epitel:\na) Nämn två funktioner för epitelens basalmembran:\nb) Vilka två huvudfunktioner har \"tight junctions\" (täta fogar)?\nc) Vilken typ av epitel lämpar sig bäst för mekanisk nötning och var finns detta (ge ett exempel)?",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Svara på följande frågor om epitel: (1p per fråga, totalt 3p)",
+    "course": "histologi"
+  },
+  {
+    "id": 13,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "identification",
+    "question": "Vilken siffra markerar det område:\na) som ligger närmast (eller i) epifysen?\nb) där du mest sannolikt hittar osteoklaster?\nc) där kondrocyterna dör?\nd) där man finner ben och förkalkad broskmatrix?",
+    "reference": "Image on Page 12",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilken siffra markerar det område: a) som ligger närmast (eller i) epifysen? b) där du mest sannolikt hittar osteoklaster? c) där kondrocyterna dör? d) där man finner ben och förkalkad broskmatrix? (0,5p per fråga, totalt 2 p)",
+    "course": "histologi"
+  },
+  {
+    "id": 14,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "match",
+    "question": "Para ihop rätt kriterium för moget respektive omoget ben.",
+    "prompts": ["är mera mineraliserad", "har lameller", "har flera osteocyter per volym"],
+    "options": ["moget ben", "omoget ben (filtben)"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Para ihop rätt kriterium för moget respektive omoget ben: (1p för alla rätt, inga delpoäng)",
+    "course": "histologi"
+  },
+  {
+    "id": 15,
+    "category": "Nervsystemet / PNS",
+    "type": "multi",
+    "question": "Vilket av följande påståenden är mest korrekt?",
+    "choice": [
+      "Spinalnerver övergår direkt i perifera nerver",
+      "Ett plexa (ex plexus brachialis) bildas av multipla spinalnerver",
+      "Kranialnerver får sitt namn av att de endast återfinns Kraniellt",
+      "Motoriska (somatiska), sensoriska och autonoma axon löper i olika nerver"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande påståenden är mest korrekt? 1p"
+  },
+  {
+    "id": 16,
+    "category": "Nervsystemet / CNS",
+    "type": "short",
+    "question": "Vi har gått igenom indelning av CNS. Vilka två av dess delar omges av bark (cortex)?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vi har gått igenom indelning av CNS. Vilka två av dess delar omges av bark (cortex)? (2p)"
+  },
+  {
+    "id": 17,
+    "category": "Nervsystemet / Celler",
+    "type": "short",
+    "question": "Svara kort på förjande frågor om nervvävnad:\na) Vilken cell omsluter axonen i perifera nervsystemet?\nb) Vilken struktur utgör blod/nerv-barriären i en perifer nerv?\nc) Hur kan du skilja ett autonomt ganglion från ett dorsalrotsganglion i ett ljusmikroskop? (ange ett kännetecken)\nd) Hur ser ett multipolärt neuron ut?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara kort på förjande frågor om nervvävnad: (0,5p per rätt svar, totalt 2p)"
+  },
+  {
+    "id": 18,
+    "category": "Nervsystemet / Celler",
+    "type": "multi",
+    "question": "Vilket stämmer för ett neuron vars cellkropp (soma) ligger i dorsalrotsgangliet?",
+    "choice": [
+      "är afferent och förmedlar sensorik",
+      "är efferent och multipolär",
+      "är efferent och förmedlar motorik",
+      "är afferent och mulripolär"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket stämmer för ett neuron vars cellkropp (soma) ligger i dorsalrotsgangliet? (1p)"
+  },
+  {
+    "id": 19,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "identification",
+    "question": "a) Vilken muskeltyp visas i bilden ovan?\nb) Ange 3 histologiska kriterier som gör att man kan avgöra vilken typ av muskelvävnad detta är. Förklara hur dessa kriterier skiljer sig från andra muskeltyper.",
+    "reference": "Image on Page 17",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "a) Vilken muskeltyp visas i bilden ovan (0.5 p):\nb) Ange 3 histologiska kriterier som gör att man kan avgöra vilken typ av muskelvävnad detta är. Förklara hur dessa kriterier skiljer sig från andra muskeltyper (1.5 p):",
+    "course": "histologi"
+  },
+  {
+    "id": 20,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vilket påstående stämmer gällande motorisk/sensorisk informationsflöde i muskelvävnad?",
+    "choice": [
+      "diad skickar signaler från muskelvävnad till nervsystemet",
+      "muskelspole skickar signaler från nervsystemet till muskelvävnad",
+      "motorändplattor skickar signaler från muskelvävnad till nervsystemet",
+      "muskelspole skickar signaler från muskelvävnad till nervsystemet"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer gällande motorisk/sensorisk informationsflöde i muskelvävnad? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 21,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "short",
+    "question": "Vad är den bakomliggande orsaken till att man ser fler sekundära än primära granula hos en mogen eosinfil?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är den bakomliggande orsaken till att man ser fler sekundära än primära granula hos en mogen eosinfil? (1p)"
+  },
+  {
+    "id": 22,
+    "category": "Blod och blodbildning / Blod",
+    "type": "multi",
+    "question": "Vilket påstående om serum är falskt?",
+    "choice": [
+      "Innehåller hormoner",
+      "Innehåller albumin",
+      "Innehåller salter",
+      "Innehåller koagulationsfaktorer",
+      "Innehåller sockerarter"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående om serum är falskt? (1p)"
+  },
+  {
+    "id": 23,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "short",
+    "question": "Vad heter de blodkärl som löper i tunica adventitia och förser det större blodkärlet?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter de blodkärl som löper i tunica adventitia och förser det större blodkärlet? (1p)"
+  },
+  {
+    "id": 24,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är mest korrekt om bindväv?",
+    "choice": [
+      "Fettväv är en stram regelbunden bindvävstyp",
+      "I senor återfinns till stor del lucker bindväv",
+      "Benvävnad och broskvävnad är exempel på specialiserade bindvävstyper",
+      "Mesenkymal bindväv finns på flera olika ställen i kroppen hos en vuxen individ"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är mest korrekt om bindväv? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 25,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Var hittar du framförallt lucker bindväv?",
+    "choice": [
+      "I lamina propria",
+      "I tunica media",
+      "På den apikala sidan av ett epitel",
+      "I senor"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var hittar du framförallt lucker bindväv? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 26,
+    "category": "Vävnadslära / Brosk",
+    "type": "multi",
+    "question": "Trådbrosk finns på olika platser i kroppen. Vilket alternativ nedan anger en del av kroppen där trådbrosk återfinns?",
+    "choice": [
+      "Ligament mellan ryggkotor",
+      "Ytterörat",
+      "Menisk",
+      "Näsan"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Trådbrosk finns på olika platser i kroppen. Vilket alternativ nedan anger en del av kroppen där trådbrosk återfinns? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 27,
+    "category": "Huden / Hår",
+    "type": "identification",
+    "question": "Bilden ovan (till vänster) visar ett tvärsnitt av en hårfollikel.\na) Vilken bokstav markerar den struktur som är kontinuerlig med epidermis?\nb) På vilken nivå är snittet? Ange rätt siffra enligt figur till höger.",
+    "reference": "Image on Page 22",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Bilden ovan (till vänster) visar ett tvärsnitt av en hårfollikel. a) Vilken bokstav markerar den struktur som är kontinuerlig med epidermis? b) På vilken nivå är snittet? Ange rätt siffra enligt figur till höger. (0,5p per rätt svar, totalt 1p)"
+  },
+  {
+    "id": 28,
+    "category": "Huden / Epidermis",
+    "type": "short",
+    "question": "a) Keratinocyterna utgör merparten av cellerna i epidermis. Vilka andra tre celltyper finns i epidermis? Ange namn och huvudfunktion.\nb) I vilket lager i epidermis sker merparten av celldelningar?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "a) Keratinocyterna utgör merparten av cellerna i epidermis. Vilka andra tre celltyper finns i epidermis? Ange namn och huvudfunktion. (1.5p)\nb) I vilket lager i epidermis sker merparten av celldelningar? (0.5p)"
+  },
+  {
+    "id": 29,
+    "category": "Respirationssystemet / Histologi",
+    "type": "multi",
+    "question": "Vilket alternativ stämmer bäst på näsans luktepitel? Epitelet består dels av..",
+    "choice": [
+      "sensoriska celler som registrerar doftmolekyler och aktiverar neuron vars axon går till CNS",
+      "neuron med cilia som registrerar doftmolekyler och vars axon går till CNS",
+      "utskott från pseudounipolära celler som registrerar doftmolekyler och vars axon går till CNS",
+      "bipolära neuron som registrerar doftmolekyler och som aktiverar sekundära neuron vars axon går till CNS"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket alternativ stämmer bäst på näsans luktepitel? (1p) Epitelet består dels av.."
+  },
+  {
+    "id": 30,
+    "category": "Respirationssystemet / Histologi",
+    "type": "match",
+    "question": "Vilken typ av epitel dominerar i de olika delarna av luftvägen? Markera rätt typ av epitel för de olika delarna.",
+    "prompts": ["trakea", "epiglottis ovansida", "Cavum nasum (näshålan)", "Orofarynx"],
+    "options": ["Oförhornat flerskiktat skiveptel", "Cilierad flerradigt cylinderepitel"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken typ av epitel dominerar i de olika delarna av luftvägen? Markera rätt typ av epitel för de olika delarna. (1p för alla rätt, inga delpoäng)"
+  },
+  {
+    "id": 31,
+    "category": "Respirationssystemet / Histologi",
+    "type": "short",
+    "question": "a) Hur skiljer du bäst mellan en bronk och en bronkiol i ljusmikroskop? (ett kriterium räcker)\nb) Vilka två celltyper ingår i alveolens blod/luft-barriär där den är som tunnast?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Svara kort på följande frågor (0.5 p per fråga, totalt 1p)\na) Hur skiljer du bäst mellan en bronk och en bronkiol i ljusmikroskop? (ett kriterium räcker)\nb) Vilka två celltyper ingår i alveolens blod/luft-barriär där den är som tunnast?"
+  },
+  {
+    "id": 32,
+    "category": "Endokrina systemet / Hypofysen",
+    "type": "identification",
+    "question": "Vilken siffra anger hypofysens läge?",
+    "reference": "Image on Page 25",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Vilken siffra anger hypofysens läge? (0.5 p)"
+  },
+  {
+    "id": 33,
+    "category": "Endokrina systemet / Sköldkörteln",
+    "type": "identification",
+    "question": "Vad pekar pilarna på?",
+    "reference": "Image on Page 26",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 1.5,
+    "numbered_targets": [
+      { "n": 1, "label": null },
+      { "n": 2, "label": null },
+      { "n": 3, "label": null }
+    ],
+    "source_text": "Vad pekar pilarna på? (1.5 p)\n1:\n2:\n3:"
+  },
+  {
+    "id": 34,
+    "category": "Endokrina systemet / Binjuren",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående glandulae ad(supra-)renales?",
+    "choice": [
+      "I cortex finns distinkta lager namngivna utifrån vilket typhormon som bildas av cellerna där",
+      "ACTH från adenohypofysen reglerar hormonproduktion och -frisättning från dessa organ",
+      "De är placerade kranialt om renes, lateralt om columna vertebralis, medialt om splen/hepar",
+      "I medulla bildas framför allt stresshormonet kortisol"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående glandulae ad(supra-)renales? (1p)"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / Svalg och Esofagus",
+    "type": "multi",
+    "question": "Födan du äter skall först passera genom mun och munhåla, därefter vidare ner genom matstrupen - vilket påstående nedan stämmer?",
+    "choice": [
+      "När vi sväljer hindras föda från att fara upp i nasopharynx genom att palatum molle och uvula höjs upp.",
+      "För att smörja födan och inleda nedbrytning tillförs saliv från spottkörtlarna, där den största kallas glandula submandibularis.",
+      "Esophagus är placerad ventralt om trachea.",
+      "Esophagus hålls öppen genom kontinuerlig kontraktion av sitt cirkulära muskellager"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Medan du sitter och skriver den här tentan, kanske du äter något för att bibehålla din energinivå. Det du äter skall passera igenom det långa rörsystem som kallas gastrointestinalkanalen och bearbetas på olika sätt innan resterna kommer ut i toaletten. Födan du äter skall först passera genom mun och munhåla, därefter vidare ner genom matstrupen - vilket påstående nedan stämmer? (1p)"
+  },
+  {
+    "id": 36,
+    "category": "Digestionssystemet / Anatomi",
+    "type": "short",
+    "question": "Vilka organ nedom esophagus räknas till de gastrointestinala? Svara på latin.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilka organ nedom esophagus räknas till de gastrointestinala? Svara på latin. (2p, 0.25p per rätt svar.)"
+  },
+  {
+    "id": 37,
+    "category": "Digestionssystemet / Magsäck",
+    "type": "essay",
+    "question": "Vilken del av magsäck är detta? Motivera ditt svar.",
+    "reference": "Image on Page 29",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilken del av magsäck är detta? Motivera ditt svar. (2p)"
+  },
+  {
+    "id": 38,
+    "category": "Digestionssystemet / Lever",
+    "type": "short",
+    "question": "Ange lokalisation och funktion för Kuppferceller. För lokalisation ska du ange precis var i respektive organ man finner cellen, helt organ räcker inte.",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Ange lokalisation (0.5p) och funktion (0.5p) för Kuppferceller. För lokalisation ska du ange precis var i respektive organ man finner cellen, helt organ räcker inte."
+  },
+  {
+    "id": 39,
+    "category": "Digestionssystemet / GI-kanalen",
+    "type": "multi",
+    "question": "Var övergår epitelet från att vara enskiktat till flerskiktat?",
+    "choice": [
+      "Esophagus > magsäck",
+      "Gallblåsa > tunntarm",
+      "Läppröda > munslemhinna",
+      "Rektum > analkanalen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Var övergår epitelet från att vara enskiktat till flerskiktat? (1p)"
+  },
+  {
+    "id": 40,
+    "category": "Digestionssystemet / Pankreas",
+    "type": "identification",
+    "question": "Vilken del av Pankreas är exokrin?",
+    "reference": "Image on Page 31",
+    "image_filename": "HT24.pdf",
+    "choice": ["A", "B", "C", "D"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken del av Pankreas är exokrin? (1p)"
+  },
+  {
+    "id": 41,
+    "category": "Digestionssystemet / Tänder",
+    "type": "multi",
+    "question": "Vad är rätt om tandutveckling?",
+    "choice": [
+      "Tandutvecklingen fortsätter genom hela livet",
+      "Pulpahalan är fylld med stellate reticulum",
+      "Ameloblaster utvecklas från det inre emaljepitelet",
+      "Ameloblaster utsöndrar dentin"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om tandutveckling? (1p)"
+  },
+  {
+    "id": 42,
+    "category": "Lymfatiska systemet / Lymfnod",
+    "type": "multi",
+    "question": "Vad är mest korrekt om germinalcenter (GC)?",
+    "choice": [
+      "GC domineras av prolifererande B-celler",
+      "I GC identifieras autoreaktiva T-celler och försätts i apoptos",
+      "GC är platsen där dendritceller presenterar antigen för T-celler",
+      "GC återfinns framför allt i primära lymfoida organ"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är mest korrekt om germinalcenter (GC)? (1p)"
+  },
+  {
+    "id": 43,
+    "category": "Lymfatiska systemet / Mjälte",
+    "type": "multi",
+    "question": "Vilket av nedanstående alternativ är mest korrekt om mjälten?",
+    "choice": [
+      "En huvuduppgift för den röda pulpan är att avlägsna gamla uttjänta röda blodkroppar",
+      "Inkommande lymfa hanteras av lymfocyter i periarteriella lymfskidor",
+      "Mjältens höga endoteliala venoler har en nyckelroll i försvaret mot patogener i blodet",
+      "Mjälten saknar i princip bindvävskapsel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av nedanstående alternativ är mest korrekt om mjälten? (1p)"
+  },
+  {
+    "id": 44,
+    "category": "Lymfatiska systemet / MALT",
+    "type": "multi",
+    "question": "Vilket alternativ stämmer bäst för lymfoid vävnad i Anulus lymphoideus pharyngis?",
+    "choice": [
+      "Är omsluten av en bindvävskapsel",
+      "Har alltid ett efferent lymfkärl",
+      "Ligger i anslutning till ett skivepitel",
+      "Omges av stort antal slemproducerande bägarceller"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket alternativ stämmer bäst för lymfoid vävnad i Anulus lymphoideus pharyngis? (1p)"
+  },
+  {
+    "id": 45,
+    "category": "Urinvägarna / Njure",
+    "type": "drag-and-drop",
+    "question": "Dra rätt benämning till rätt position.",
+    "reference": "Image on Page 34",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Dra rätt benämning till rätt position. (1p, 0.25p per rätt svar)"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Kvinnliga genitalia",
+    "type": "short",
+    "question": "Vad kallas på latin de anatomiska strukturer som hjälper till att fånga in äggcellen i samband med ägglossning, och vad heter på latin den rörformade passage som äggcellen färdas igenom på väg till uterus?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad kallas på latin de anatomiska strukturer som hjälper till att fånga in äggcellen i samband med ägglossning, och vad heter på latin den rörformade passage som äggcellen färdas igenom på väg till uterus? (1p)"
+  },
+  {
+    "id": 47,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "drag-and-drop",
+    "question": "Dra rätt benämning till rätt plats",
+    "reference": "Image on Page 36",
+    "image_filename": "HT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Dra rätt benämning till rätt plats (1p, 0.25 p per rätt svar)"
+  },
+  {
+    "id": 48,
+    "category": "Urinvägarna / Njure",
+    "type": "essay",
+    "question": "Beskriv filtrationsbarriären i njurens glomeruli och namnge viktiga strukturella komponenter. Rita gärna.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv filtrationsbarriären i njurens glomeruli och namnge viktiga strukturella komponenter. Rita gärna. (2p)"
+  },
+  {
+    "id": 49,
+    "category": "Urinvägarna / Njure och Urinblåsa",
+    "type": "short",
+    "question": "Ange vilken typ av epitel som bekläder: A. urinblåsan B. proximala tubuli",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Ange vilken typ av epitel som bekläder: A. urinblåsan B. proximala tubuli (0,5p per rätt svar, totalt 1p)"
+  },
+  {
+    "id": 50,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "multi",
+    "question": "Vad heter ändarna av tubuli seminferi som tömmer sig i mediastinum av testis och vars epitel endast består av sertoliceller?",
+    "choice": [
+      "Tubuli recti",
+      "Vas deferens",
+      "Epididymis",
+      "Rete testis",
+      "Ductuli efferentes"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad heter ändarna av tubuli seminferi som tömmer sig i mediastinum av testis och vars epitel endast består av sertoliceller? (1p)"
+  },
+  {
+    "id": 51,
+    "category": "Reproduktionssystemet / Penis",
+    "type": "essay",
+    "question": "Beskriv utförligt vilka utmärkande celler och strukturer som kan ses i ett tvärsnitt av penis.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv utförligt vilka utmärkande celler och strukturer som kan ses i ett tvärsnitt av penis. (2p)"
+  },
+  {
+    "id": 52,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "short",
+    "question": "Ovariet.\na) I vilket stadium av follikelutvecklingen bildas ett antrum?\nb) Vilka strukturer finns i ovariets märg/medulla?\nc) Var finns zona pellucida?\nd) Vilka celltyper bildar corpus luteum efter ägglossningen?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Ovariet. 0.5p/rätt svar totalt 2p\na) I vilket stadium av follikelutvecklingen bildas ett antrum?\nb) Vilka strukturer finns i ovariets märg/medulla?\nc) Var finns zona pellucida?\nd) Vilka celltyper bildar corpus luteum efter ägglossningen?"
+  },
+  {
+    "id": 53,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "short",
+    "question": "Vilken förändring sker i epitelet I transformationszonen i cervix?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken förändring sker i epitelet I transformationszonen i cervix? (1p)"
+  },
+  {
+    "id": 54,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "multi",
+    "question": "Vad är rätt om uterus?",
+    "choice": [
+      "Uteruskörtlarna är raka under proliferationsfas",
+      "Perimetriet är uppbyggt av glattmuskelceller",
+      "Uteruskörtlarna är alltid grenade",
+      "Uterus har en tjock submukosa",
+      "Hela endometriet stöts av vid menstrutionen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om uterus? (1p)"
+  },
+  {
+    "id": 55,
+    "category": "Reproduktionssystemet / Placenta",
+    "type": "multi",
+    "question": "Vad är rätt om placenta?",
+    "choice": [
+      "I placentan blandas moderns och fostrets blod.",
+      "Syncytiotrofoblasterna har tydliga cellgränser",
+      "Deciduaceller bildas från celler i uterusslemhinnan",
+      "Hela placentan är uppbyggd av fostervävnad",
+      "Placentavilli i en fullmogen placenta omges av ett lager syncytiotrofoblaster och ett lager cytotrofoblaster"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om placenta? (1p)"
+  }
+]

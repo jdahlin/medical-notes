@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "Vilket av följande påståenden stämmer bäst?",
+    "choice": [
+      "Det axiala skelettet utgörs av cranium, thorax och columna vertebralis, inklusive sacrum.",
+      "Ansiktsskelettet består av följande pariga ben (dvs ett på varje sida): os maxilla, os mandibula, os frontale, os ethmoidale, os nasale, vomer, os palatinum, os zygomaticum och os lacrimale.",
+      "Axelledens ledhuvud utgörs av caput humeri (humerus) och ledpannan av caput laterale på clavicula",
+      "Armbågsleden är uppbyggd av humerus och ulna. Den är en ren gångjärnsled där endast flexion och extension utförs."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande påståenden stämmer bäst? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 2,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "multi",
+    "question": "Vilken av följande lägestermer beskriver bäst hur musculus rectus abdominis ligger i förhållande till musculus transversus abdominis?",
+    "choice": [
+      "Lateralt",
+      "Superficiellt",
+      "Dorsalt",
+      "Superiort"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken av följande lägestermer beskriver bäst hur musculus rectus abdominis ligger i förhållande till musculus transversus abdominis? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 3,
+    "category": "Rörelseapparatens anatomi / Leder",
+    "type": "multi",
+    "question": "Kring vilken typ av rörelseaxel sker rörelserna abduktion och adduktion i höftleden?",
+    "choice": [
+      "Horisontell axel",
+      "Sagittal axel",
+      "Vertikal axel",
+      "Diagonal axel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Kring vilken typ av rörelseaxel sker rörelserna abduktion och adduktion i höftleden? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 4,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "multi",
+    "question": "Vilket av följande ben utgör INTE en del av begränsningen av orbita (ögonhålan)?",
+    "choice": [
+      "Os maxilla",
+      "Os frontale",
+      "Os lacriamale",
+      "Os nasale"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket av följande ben utgör INTE en del av begränsningen av orbita (ögonhålan)? (1p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 5,
+    "category": "Rörelseapparatens anatomi / Muskler",
+    "type": "essay",
+    "question": "Beskriv kortfattat vad som menas med begreppen agonist och antagonist i muskelanatomi. Ge ett exempel som illustrerar förhållandet mellan dessa begrepp.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv kortfattat vad som menas med begreppen agonist och antagonist i muskelanatomi. Ge ett exempel som illustrerar förhållandet mellan dessa begrepp. (2)",
+    "course": "anatomi"
+  },
+  {
+    "id": 6,
+    "category": "Rörelseapparatens anatomi / Ben",
+    "type": "identification",
+    "question": "Ange namn för delarna av os coxa som är markerade 1, 2, 3 och 4 i bilden.",
+    "reference": "Image on Page 4",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      {"n": 1, "label": null},
+      {"n": 2, "label": null},
+      {"n": 3, "label": null},
+      {"n": 4, "label": null}
+    ],
+    "source_text": "Ange namn för delarna av os coxa som är markerade 1, 2, 3 och 4 i bilden. (2p)",
+    "course": "anatomi"
+  },
+  {
+    "id": 7,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "match",
+    "question": "Ange hjärtats placering i förhållande till nedanstående strukturer genom att para ihop rätt lägesord med rätt struktur.",
+    "prompts": ["Sternum", "Pulmo dexter", "Columna vertebralis", "Gaster/Ventriculus"],
+    "options": ["Medialt", "Dorsalt", "Kranialt", "Ventralt"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Ange hjärtats placering i förhållande till nedanstående strukturer genom att para ihop rätt lägesord med rätt struktur (1p, 0.25p per rätt par, inga avdrag för fel)"
+  },
+  {
+    "id": 8,
+    "category": "Cirkulationssystemet / Hjärtat",
+    "type": "essay",
+    "question": "Beskriv och namnge på latin de makro-anatomiska konstruktioner (dvs inte beskrivning av histologin) som säkerställer enkelriktat blodflöde i hjärtat.",
+    "answer": null,
+    "max_points": 3,
+    "source_text": "Beskriv och namnge på latin de makro-anatomiska konstruktioner (dvs inte beskrivning av histologin) som säkerställer enkelriktat blodflöde i hjärtat. (3p)"
+  },
+  {
+    "id": 9,
+    "category": "Vävnadslära / Epitel",
+    "type": "drag-and-drop",
+    "question": "Vilka epitel syns i respektive bild nedan? Dra rätt epitel till rätt bild.",
+    "reference": "Image on Page 7",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka epitel syns i respektive bild nedan? Dra rätt epitel till rätt bild (1p för alla rätt).",
+    "course": "histologi"
+  },
+  {
+    "id": 10,
+    "category": "Vävnadslära / Epitel",
+    "type": "short",
+    "question": "Svara på följande frågor om epitel:\na) Vilken cellförbindelse (junktion) står för barriärfunktionen i ett enkelt epitel?\nb) Vad kallas den struktur som åstadkommer apikal ytförstorning i epitelceller?\nc) Vilken vävnadstyp finns oftast direkt under ett ytepitel?\nd) Vilka två junctions förankras intracellulärt till intermediärfilament?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på följande frågor om epitel (0,5p per rätt svar)",
+    "course": "histologi"
+  },
+  {
+    "id": 11,
+    "category": "Vävnadslära / Bindväv",
+    "type": "multi",
+    "question": "Vad är mest korrekt om kollagen?",
+    "choice": [
+      "Kollagen färgas rosa av eosin, men i övrigt finns det inga specialfärger för kollagen.",
+      "Kollagenmolekyler utgörs av en heterotrimer av alfakedjor och betakedjor.",
+      "Syntesen av kollagen sker i sin helhet intracellulärt",
+      "Hydroxylerade varianter av vissa aminosyror krävs för stabilt kollagen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är mest korrekt om kollagen? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 12,
+    "category": "Lymfatiska systemet",
+    "type": "essay",
+    "question": "Varför svullnar underbenen under en transatlantflygning, och varför är underbenen inte alltid svullna? Förklara utifrån dina kunskaper om lymfkärlens histologi.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Varför svullnar underbenen under en transatlantflygning, och varför är underbenen inte alltid svullna? Förklara utifrån dina kunskaper om lymfkärlens histologi. (2p)",
+    "course": "histologi"
+  },
+  {
+    "id": 13,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "identification",
+    "question": "Vad heter de olika strukturerna (1-4) som är markerade i bilden ovan?",
+    "reference": "Image on Page 10",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 2,
+    "numbered_targets": [
+      {"n": 1, "label": null},
+      {"n": 2, "label": null},
+      {"n": 3, "label": null},
+      {"n": 4, "label": null}
+    ],
+    "source_text": "Vad heter de olika strukturerna (1-4) som är markerade i bilden ovan? (0,5p per rätt svar)",
+    "course": "histologi"
+  },
+  {
+    "id": 14,
+    "category": "Vävnadslära / Ben och Benbildning",
+    "type": "multi",
+    "question": "Vad stämmer bäst för endokondral (indirekt) benbildning?",
+    "choice": [
+      "I proliferationszonen delar osteocyterna sig",
+      "I hypertrofizonen bryter osteoklaster ned ben",
+      "I förkalkningszonen dör kondrocyterna",
+      "I benbildningszonen förkalkas brosket"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad stämmer bäst för endokondral (indirekt) benbildning? (1p)",
+    "course": "histologi"
+  },
+  {
+    "id": 15,
+    "category": "Nervsystemet / CNS",
+    "type": "short",
+    "question": "Ge exempel på en struktur av grå substans i:\na) Telencephalon\nb) Cerebellum\nc) Medulla spinalis",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Ge exempel på en struktur av grå substans i: (0.5p per rätt svar, totalt 1,5p)"
+  },
+  {
+    "id": 16,
+    "category": "Nervsystemet / ANS",
+    "type": "match",
+    "question": "Dra följande strukturer/begrepp till rätt nod (hälften av begreppen skall till sympaticus resp parasympaticus).",
+    "prompts": ["Kraniosakralt ursprung", "Preganglionära neuron i cornu lateralis", "Fight, fright and flight", "Prevertebrala ganglier", "Intramurala ganglier", "sänker hjärtfrekvensen"],
+    "options": ["Parasympaticus", "Sympaticus"],
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Dra följande strukturer/begrepp till rätt nod (eller vad som är lättast att göra i datorn, häften av begreppen skall till sympaticus resp parasympaticus) (0,25 p per rätt svar, minus 0,25p för fel svar. Max poäng: 1,5p, min poäng = 0p)"
+  },
+  {
+    "id": 17,
+    "category": "Nervsystemet / CNS",
+    "type": "drag-and-drop",
+    "question": "Vilka cellers cellkroppar finns i området A, B och C?",
+    "reference": "Image on Page 13",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka cellers cellkroppar finns i området A, B och C? (1p)"
+  },
+  {
+    "id": 18,
+    "category": "Nervsystemet / Celler",
+    "type": "essay",
+    "question": "Beskriv en multipolär nervcell och en pseudounipolär nervcell. Ge ett exempel på varje typ.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv en multipolär nervcell och en pseudounipolär nervcell. Ge ett exempel på varje typ. (2p)"
+  },
+  {
+    "id": 19,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "essay",
+    "question": "Beskriv den histologiska uppbyggnaden av en skelettmuskel med tanken på de olika bindvävslagren.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv den histologiska uppbyggnaden av en skelettmuskel med tanken på de olika bindvävslagren. (2p)"
+  },
+  {
+    "id": 20,
+    "category": "Vävnadslära / Muskelvävnad",
+    "type": "multi",
+    "question": "Vilket påstående stämmer på motorisk/sensorisk informationsflöde i muskelvävnad?",
+    "choice": [
+      "muskelspole skickar signaler från muskelvävnad till nervsystemet",
+      "muskelspole skickar signaler från nervsystemet till muskelvävnad",
+      "motorändplattor skickar signaler från muskelvävnad till nervsystemet",
+      "diad skickar signaler från muskelvävnad till nervsystemet"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer på motorisk/sensorisk informationsflöde i muskelvävnad?"
+  },
+  {
+    "id": 21,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "multi",
+    "question": "Vad gäller för en elastisk artär?",
+    "choice": [
+      "har en tydlig lamina elastica interna",
+      "tunica media innehåller glattmuskelceller",
+      "har alltid klaffar",
+      "har vasa vasorum i tunica media",
+      "de elastiska lamellerna syntetiseras av fibroblaster"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad gäller för en elastisk artär? (1p)"
+  },
+  {
+    "id": 22,
+    "category": "Blod och blodbildning / Blodceller",
+    "type": "multi",
+    "question": "Vad gäller för det perifera blodet?",
+    "choice": [
+      "basofil granulocyt är den ovanligaste celltypen",
+      "innehåller plasmaceller",
+      "trombocyter har en tydlig cellkärna",
+      "den neutrofila granulocyten är den vanligaste celltypen",
+      "lymfocyter har tydliga granula"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad gäller för det perifera blodet? (1p)"
+  },
+  {
+    "id": 23,
+    "category": "Cirkulationssystemet / Blodkärl",
+    "type": "multi",
+    "question": "Vad gäller för kapillärer?",
+    "choice": [
+      "har en tunn tunica media",
+      "kan vara omgivna av pericyter",
+      "finns som fenestrerade kapillärer i lungan",
+      "har alltid ett kontinuerligt basalmembran"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad gäller för kapillärer? (1p)"
+  },
+  {
+    "id": 24,
+    "category": "Huden / Epidermis",
+    "type": "identification",
+    "question": "Svara på följande frågor genom att ange siffran för det lager som stämmer bäst:\n- I vilket lager har desmosomerna brutis ned?\n- I vilket lager är det störst sannolikhet att hitta proliferenade celler?\n- I vilket lager innehåller cellerna lamellar bodies?\n- I vilket lager finns hemidesmosomer?\n- I vilket lager finns tight junctions?\n- I vilket lager finns mogna keratinocyter?",
+    "reference": "Image on Page 18",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Svara på följande frågor genom att ange siffran för det lager som stämmer bäst (samma lager kan vara svar på flera frågor, 0,25 p per rätt svar, totalt 1,5 p):"
+  },
+  {
+    "id": 25,
+    "category": "Huden / Hår",
+    "type": "short",
+    "question": "Svara kort på följande frågor om hårsäckar:\na) Vilka strukturer ger hårmatrixceller upphov till?\nb) Vilken struktur i hårsäcken är kontinuerlig med epidermis?\nc) Vilka två körtlar tömmer sig i hårsäckar?",
+    "answer": null,
+    "max_points": 1.5,
+    "source_text": "Svara kort på följande frågor om hårsäckar: (0,5p per rätt svar)"
+  },
+  {
+    "id": 26,
+    "category": "Lymfatiska systemet / MALT",
+    "type": "multi",
+    "question": "Vilken typ av epitel återfinns i Tonsilla Palatinas kryptor?",
+    "choice": [
+      "Flerskiktat oförhornat skivepitel",
+      "Enskiktat kubiskt epitel",
+      "Övergångsepitel",
+      "Enskiktat cylinderepitel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken typ av epitel återfinns i Tonsilla Palatinas kryptor? (1p)"
+  },
+  {
+    "id": 27,
+    "category": "Lymfatiska systemet / Mjälte",
+    "type": "essay",
+    "question": "Mjälten är ett lymfatiskt organ men saknar afferenta lymfkärl. Förklara varför och beskriv kort mjältens roll i immunförsvaret.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Mjälten är ett lymfatiskt organ men saknar afferenta lymfkärl. Förklara varför och beskriv kort mjältens roll i immunförsvaret. (2p)"
+  },
+  {
+    "id": 28,
+    "category": "Endokrina systemet / Hypofysen",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående hormonell signalering i/från hypofysen?",
+    "choice": [
+      "Neurohypofysens hormonfrisättning sker via nervsignaler från parasympatiska nervsystemet.",
+      "Den dominerande celltypen i neurohypofysen är pituicyter, som bildar oxytocin.",
+      "Varje cell i adenohypofysen kan producera flera olika sorters hormon, beroende på vilken signal som skickas från hypothalamus.",
+      "I adenohypofysen finns hormonproducerande celler, som får signaler från hypothalamus via ett venöst portasystem."
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående hormonell signalering i/från hypofysen? (1p)"
+  },
+  {
+    "id": 29,
+    "category": "Endokrina systemet / Sköldkörteln",
+    "type": "identification",
+    "question": "a) Vilket endokrint organ kännetecknas av detta histologiska utseende?\nb) Organet har två hormonproducerande celltyper - vad heter den celltyp som pilarna pekar på?",
+    "reference": "Image on Page 22",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "a) Vilket endokrint organ kännetecknas av detta histologiska utseende? (0.5p)\nb) Organet har två hormonproducerande celltyper - vad heter den celltyp som pilarna pekar på? (0.5p)"
+  },
+  {
+    "id": 30,
+    "category": "Endokrina systemet",
+    "type": "short",
+    "question": "Endokrina organ är särskilt rika på en viss typ av blodkärl - vilken?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Endokrina organ är särskilt rika på en viss typ av blodkärl - vilken? (1p)"
+  },
+  {
+    "id": 31,
+    "category": "Endokrina systemet / Binjuren",
+    "type": "match",
+    "question": "Para ihop det hormon som huvudsakligen bildas i respektive cellager i binjurens bark och märg.",
+    "prompts": ["Zona reticularis", "Zona glomerulosa", "Zona fasciculata", "Medulla adrenalis"],
+    "options": ["adrenalin", "androgener", "aldosteron", "kortisol"],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Para ihop det hormon som huvudsakligen bildas i respektive cellager i binjurens bark och märg (1p, 0.25p per rätt svar, inga avdrag för fel)"
+  },
+  {
+    "id": 32,
+    "category": "Respirationssystemet / Anatomi",
+    "type": "hotspot",
+    "question": "Visa med ett klick i bilden var Larynx ligger.",
+    "reference": "Image on Page 23",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Visa med ett klick i bilden var Larynx ligger (0.5p)"
+  },
+  {
+    "id": 33,
+    "category": "Respirationssystemet / Histologi",
+    "type": "hotspot",
+    "question": "Visa med ett klick i bilden var olfaktoriskt epitel ligger.",
+    "reference": "Image on Page 24",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 0.5,
+    "source_text": "Visa med ett klick i bilden var olfaktoriskt epitel ligger (0,5 p)"
+  },
+  {
+    "id": 34,
+    "category": "Respirationssystemet / Histologi",
+    "type": "multi-part",
+    "question": "a) Vad stämmer bäst på trakeans uppbyggnad?\nb) Vad stämmer bäst på alveolens uppbyggnad?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "a) Vad stämmer bäst på trakeans uppbyggnad? (1p)\nb) Vad stämmer bäst på alveolens uppbyggnad? (1p)"
+  },
+  {
+    "id": 35,
+    "category": "Digestionssystemet / Anatomi",
+    "type": "drag-and-drop",
+    "question": "Namnge de numrerade anatomiska strukturerna genom att dra benämningarna till respektive siffra.",
+    "reference": "Image on Page 26",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Namnge de numrerade anatomiska strukturerna genom att dra benämningarna till respektive siffra (1p, 0.25p per rätt svar, inga avdrag för fel)"
+  },
+  {
+    "id": 36,
+    "category": "Digestionssystemet / GI-kanalen",
+    "type": "short",
+    "question": "Gastrointestinal-kanalens rörformiga strukturer har alltid ett cirkulärt och ett longitudinellt muskellager i muscularis propria. Dessa finns för att möjliggöra de koordinerade muskelkontraktioner som syftar till att föra födan framåt (distalt) i GI-kanalen. Vad kallas dessa koordinerade rörelser med ett ord?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Gastrointestinal-kanalens rörformiga strukturer har alltid ett cirkulärt och ett longitudinellt muskellager i muscularis propria. Dessa finns för att möjliggöra de koordinerade muskelkontraktioner som syftar till att föra födan framåt (distalt) i GI-kanalen. Vad kallas dessa koordinerade rörelser med ett ord? (1p)"
+  },
+  {
+    "id": 37,
+    "category": "Digestionssystemet / Lever",
+    "type": "multi",
+    "question": "Vilket påstående stämmer angående lever och gallvägar?",
+    "choice": [
+      "Området där galla förs ut i duodenum kallas papilla Biliaris",
+      "Den gemensamma gallgången som mynnar i duodenum heter ductus choledochus",
+      "Levern, hepar, är kroppens största organ och består av 4 olika lober",
+      "I levern bildas galla, som kontinuerligt transporteras till tarmen"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilket påstående stämmer angående lever och gallvägar? (1p)"
+  },
+  {
+    "id": 38,
+    "category": "Digestionssystemet / Tunntarm",
+    "type": "multi",
+    "question": "Vad är rätt om tunntarm?",
+    "choice": [
+      "Alla delar av tunntarmen har Lieberkühns kryptor",
+      "Brunners körtlar utsöndrar matspjälkningsenzymer",
+      "Peyer's plack finns bara i jejunum",
+      "Muscularis externa är inre longitudinellt och yttre cirkulärt glattmuskel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om tunntarm?"
+  },
+  {
+    "id": 39,
+    "category": "Digestionssystemet",
+    "type": "short",
+    "question": "Ange lokalisation och funktion för följande celltyper. För lokalisation ska du ange var i respektive organ man finner cellen, helt organ räcker inte.\na) Huvudcell (i GI-kanalen)\nb) Betacell\nc) Odontoblaster\nd) Panethcell",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Ange lokalisation och funktion för följande celltyper. För lokalisation ska du ange var i respektive organ man finner cellen, helt organ räcker inte. 0.5p/rätt svar:"
+  },
+  {
+    "id": 40,
+    "category": "Digestionssystemet / Lever",
+    "type": "essay",
+    "question": "Svara på följande om periportalt fält:\na) Beskriv den histologiska uppbyggnaden av Periportalt fält (eng. portal triad)\nb) Beskriv de tre stora delarnas individuella funktion",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på följande om periportalt fält (1p/rätt svar, 2p totalt)"
+  },
+  {
+    "id": 41,
+    "category": "Digestionssystemet / Munhåla",
+    "type": "multi",
+    "question": "Vad är rätt om tungan?",
+    "choice": [
+      "Smaklökar finns på papillae filiforme",
+      "Tungan är i huvudsak uppbyggd av glattmuskulatur",
+      "Basala celler är smaklökens stamceller",
+      "Tungan har flerradigt epitel"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad är rätt om tungan?"
+  },
+  {
+    "id": 42,
+    "category": "Urinvägarna / Anatomi",
+    "type": "short",
+    "question": "Vilka strukturer ligger placerade direkt\na) ventralt om urinblåsan hos en man?\nb) dorsalt om urinblåsan hos en man?\nc) ventralt om urinblåsan hos en kvinna?\nd) dorsalt om urinblåsan hos en kvinna?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka strukturer ligger placerade direkt a) ventralt om urinblåsan hos en man? b) dorsalt om urinblåsan hos en man? c) ventralt om urinblåsan hos en kvinna? d) dorsalt om urinblåsan hos en kvinna? (1p, 0.25p per delfråga, inga avdrag för fel.)"
+  },
+  {
+    "id": 43,
+    "category": "Urinvägarna / Njure",
+    "type": "short",
+    "question": "Vilken typ av epitel finns i följande delar av urinvägssystemet:\na) Bowmans kapsel\nb) Proximala tubuli",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilken typ av epitel finns i följande delar av urinvägssystemet: a) Bowmans kapsel b) Proximala tubuli (1 p)"
+  },
+  {
+    "id": 44,
+    "category": "Urinvägarna / Njure",
+    "type": "essay",
+    "question": "Vilken funktion har den juxtaglomerulära apparaten? Vilka histologiska komponenter består den av?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Vilken funktion har den juxtaglomerulära apparaten? Vilka histologiska komponenter består den av? (2p)"
+  },
+  {
+    "id": 45,
+    "category": "Reproduktionssystemet / Manliga genitalia",
+    "type": "drag-and-drop",
+    "question": "Nedan ser ni ingående strukturer i scrotum och funiculus spermaticus. Dra rätt namn på struktur till rätt ruta.",
+    "reference": "Image on Page 33",
+    "image_filename": "VT24.pdf",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Nedan ser ni ingående strukturer i scrotum och funiculus spermaticus. Dra rätt namn på struktur till rätt ruta. (1p, 0.25p per rätt svar. Inga avdrag för fel)"
+  },
+  {
+    "id": 46,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "multi",
+    "question": "Vad gäller om sertolicellen?",
+    "choice": [
+      "bildar blod-testisbarriären",
+      "återfinns i bindväven mellan tubuli seminiferi",
+      "är en bindvävscell",
+      "har östrogenreceptorer",
+      "bildar testosteron"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vad gäller om sertolicellen? (1p)"
+  },
+  {
+    "id": 47,
+    "category": "Reproduktionssystemet / Testikeln",
+    "type": "short",
+    "question": "Spermatogenesen: Namnge mognadstadierna från spermatogonium till färdig spermie. Ange mellan vilka steg meios 1 och meios 2 sker.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Spermatogenesen: Namnge mognadstadierna från spermatogonium till färdig spermie. Ange mellan vilka steg meios 1 och meios 2 sker. (2p)"
+  },
+  {
+    "id": 48,
+    "category": "Reproduktionssystemet / Kvinnliga genitalia",
+    "type": "multi",
+    "question": "Vilka påståenden stämmer angående kvinnliga genitalia?",
+    "choice": [
+      "Myometriet i uterus växer till från menstruation till nästa ägglossning, och avstöts om inte ägget befruktas.",
+      "Uterus delas in i fyra delar: fundus, corpus, isthmus och cervix",
+      "Äggcellen färdas genom äggledaren och befruktas sedan i uterus",
+      "Ovariet sitter fast mot äggledaren med ett ligament, för att inte äggcellen vid ägglossning skall \"trilla ut\" i fri bukhåla"
+    ],
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Vilka påståenden stämmer angående kvinnliga genitalia? (1p)"
+  },
+  {
+    "id": 49,
+    "category": "Reproduktionssystemet / Ovariet",
+    "type": "short",
+    "question": "Svara på foljande frågor om kvinnliga UG:\na. Vad kalla den mest omogna follikeltypen i ovariet?\nb. Vilka två celltyper samverkar för att bilda östrogen i en växande follikel?\nc. Vad är zona pellucida?\nd. När bildas ett corpus albicans?",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Svara på foljande frågor om kvinnliga UG: (0.5p per rätt svar, max 2p)"
+  },
+  {
+    "id": 50,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "essay",
+    "question": "Beskriv den histologiska uppbyggnaden av endometriet/uterusslemhinnan.",
+    "answer": null,
+    "max_points": 2,
+    "source_text": "Beskriv den histologiska uppbyggnaden av endometriet/uterusslemhinnan. (2p)"
+  },
+  {
+    "id": 51,
+    "category": "Reproduktionssystemet / Uterus",
+    "type": "short",
+    "question": "Från vilken celltyp bildas deciduaceller? När sker detta?",
+    "answer": null,
+    "max_points": 1,
+    "source_text": "Från vilken celltyp bildas deciduaceller? När sker detta? (1p)"
+  }
+]
