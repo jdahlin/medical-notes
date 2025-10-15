@@ -8,3 +8,4 @@ title: Anteckningar - Översikt
 - [[Histologi/|Histologi]]
 - [[Histologi/Demokompendium/|Demokompendium]]
 - [[Målbeskrivning/|Målbeskrivningar]]
+- [[Tentamen/|Tentamen]]
