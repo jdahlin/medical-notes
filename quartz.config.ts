@@ -12,9 +12,6 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
     locale: "en-US",
     baseUrl: "jdahlin.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "node_modules"],
