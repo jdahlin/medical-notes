@@ -2,12 +2,12 @@
 
 ## Introduktion
 
-- [Översikt](introduktion.md)
-- [Mikroskoperingsteknik](introduktion.md#mikroskoperingsteknik)
-- [Preparatfilmer och digitalt mikroskop](introduktion.md#preparatfilmer-och-digitalt-mikroskop)
-- [Duggor 2 och 3 (delförhör/kunskapskontroll)](introduktion.md#duggor-2-och-3-delförhörkunskapskontroll)
-- [Histologiska färgningsmetoder](introduktion.md#histologiska-färgningsmetoder)
-- [Förkortningslista](introduktion.md#förkortningslista)
+- [Översikt](Histologi/Demokompendium/introduktion.md)
+- [Mikroskoperingsteknik](Histologi/Demokompendium/introduktion.md#mikroskoperingsteknik)
+- [Preparatfilmer och digitalt mikroskop](Histologi/Demokompendium/introduktion.md#preparatfilmer-och-digitalt-mikroskop)
+- [Duggor 2 och 3 (delförhör/kunskapskontroll)](Histologi/Demokompendium/introduktion.md#duggor-2-och-3-delförhörkunskapskontroll)
+- [Histologiska färgningsmetoder](Histologi/Demokompendium/introduktion.md#histologiska-färgningsmetoder)
+- [Förkortningslista](Histologi/Demokompendium/introduktion.md#förkortningslista)
 
 ## Block 2
 
