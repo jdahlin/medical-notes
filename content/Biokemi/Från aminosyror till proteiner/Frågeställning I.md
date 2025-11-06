@@ -97,3 +97,19 @@ Det är en stabil, spiralformad struktur där diametern är konstant. Varje vät
 De stabiliseras av vätebindningar mellan karboxylgruppen (-C=O) och aminogruppen (-N-H).
 #### Vilken sekundärstruktur finns ofta när en polypeptidkedja byter riktning och hur är den uppbyggd?
 Då bildas ofta en hårnålsböj som består vanligtvis av fyra aminosyror där prolin ofta orsakar böjen och glycin bidrar med flexibilitet.
+
+#### Vad är tertiärstruktur?
+#### Vad gör att proteiner vanligtvis veckas rätt?
+#### Vad innebär isoelektrisk punkt för ett protein?
+#### Vilka bindningar bidrar till att stabilisera tertiärstrukturen hos ett globulärt cytoplasmatiskt protein?
+#### Vilka typer av proteiner kan hjälpa andra proteiner att veckas? Varför är det viktigt att proteiner som veckats fel får hjälp att veckas rätt?
+#### Vad är kvartärstruktur?
+#### Vilken aminosyra kan bidra till att stabilisera såväl tertiär som kvartärstruktur genom att
+#### bilda kovalenta bindningar och hur är de bindningarna uppbyggda?
+#### Vad karaktäriserar proteiner som kan ha två olika strukturer?
+#### Vad innebär det att ett protein denatureras?
+#### Vad kan få ett protein att denatureras?
+#### Vad är en proteindomän?
+#### Vad är en subenhet och hur namnges proteinsubenheter?
+#### Hur mäts proteiners massa?
+#### Vilket är sambandet mellan proteinveckning och amyloider?

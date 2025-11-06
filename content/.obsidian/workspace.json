@@ -6,6 +6,7 @@
       {
         "id": "eb22729992e774cb",
         "type": "tabs",
+        "dimension": 39.691444600280505,
         "children": [
           {
             "id": "226e38bf7ac5f5d2",
@@ -40,6 +41,7 @@
       {
         "id": "263a5bec49f1b591",
         "type": "tabs",
+        "dimension": 60.3085553997195,
         "children": [
           {
             "id": "ff78c439900733fe",
@@ -112,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "0948c66181b40af9",
@@ -206,12 +207,12 @@
   },
   "active": "226e38bf7ac5f5d2",
   "lastOpenFiles": [
+    "Biokemi/Från aminosyror till proteiner/Frågeställning I.md",
+    "Biokemi/Från aminosyror till proteiner/Anteckningar I.md",
     "Biokemi/Från aminosyror till proteiner/Anteckningar II.md",
     "Pasted image 20251106145417.png",
-    "Biokemi/Från aminosyror till proteiner/Frågeställning I.md",
     "Pasted image 20251106144030.png",
     "Pasted image 20251106143824.png",
-    "Biokemi/Från aminosyror till proteiner/Anteckningar I.md",
     "Untitled.md",
     "attachments/Pasted image 20251015081047.png",
     "attachments/Pasted image 20251015081256.png",
