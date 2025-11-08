@@ -27,7 +27,7 @@ Vi behöver inte kunna enbokstavskombinationen
 Opolära
 
 Gillar inte vatten, stöts bort, i
-- Glycin (Glu) $-H$
+- Glycin (Gly) $-H$
 	- Det går inte att få till isometri?
 	- lätt att packa, inga steriska hinder
 - Alanin (Ala) $- CH_3$

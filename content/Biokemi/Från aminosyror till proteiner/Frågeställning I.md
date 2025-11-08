@@ -99,14 +99,27 @@ De stabiliseras av vätebindningar mellan karboxylgruppen (-C=O) och aminogruppe
 Då bildas ofta en hårnålsböj som består vanligtvis av fyra aminosyror där prolin ofta orsakar böjen och glycin bidrar med flexibilitet.
 
 #### Vad är tertiärstruktur?
+
+Den tetriära strukteren är 3D-veckningen av en enskild polypeptidkedja som bildas genom interaktioner av olika bindningar (väte, disulfid, jon, van der waals)
 #### Vad gör att proteiner vanligtvis veckas rätt?
+De har oftast bara en möjlig konfiguration som har minst energitillstånd. Den nås genom att vandra neråt i en "bana" där olika veckningar provas tills dess den ideala energinivån har nåtts
 #### Vad innebär isoelektrisk punkt för ett protein?
+När det är jämvikt mellan negativt laddade och positivt laddade dipolmoment i fysiologiskt pH
 #### Vilka bindningar bidrar till att stabilisera tertiärstrukturen hos ett globulärt cytoplasmatiskt protein?
+
+disulfid, hydrofoba effekter, väte, jon och van der waals 
 #### Vilka typer av proteiner kan hjälpa andra proteiner att veckas? Varför är det viktigt att proteiner som veckats fel får hjälp att veckas rätt?
+
+chaperoner (heat shock proteins), felveckade proteiner kan annars bilda aggregat som stör cellfunktionen och orsakar sjukdomar
 #### Vad är kvartärstruktur?
-#### Vilken aminosyra kan bidra till att stabilisera såväl tertiär som kvartärstruktur genom att
-#### bilda kovalenta bindningar och hur är de bindningarna uppbyggda?
+
+Kvartärstruktur heter det när flera olika polypeptidkedjor (subenheter) binds ihop tillsammans till ett nativt (fungerande) protein. Det kan, men behöver inte vara subenheter med samma struktur. Man namnger dem alfa, beta, gamma efter storlek.
+T.ex. hemoglobin två 𝛼-enheter och två β-enheter.
+#### Vilken aminosyra kan bidra till att stabilisera såväl tertiär som kvartärstruktur genom att bilda kovalenta bindningar och hur är de bindningarna uppbyggda?
+
+Cystein och disulfidbryggor. De är uppbyggda att de binder tiolgrupperna i cystein -S-S- och oxiderar och bildar en kovalent binding.
 #### Vad karaktäriserar proteiner som kan ha två olika strukturer?
+
 #### Vad innebär det att ett protein denatureras?
 #### Vad kan få ett protein att denatureras?
 #### Vad är en proteindomän?
