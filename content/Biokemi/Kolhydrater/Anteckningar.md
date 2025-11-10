@@ -3,7 +3,7 @@ Kunna det som går igenom på föreläsningen och instuderingsuppgifterna
 
 SKA KUNNA: Sjukdomar som kommer upp i slides ska kunnas och det som kommer i instuderingsfrågorna
 
-Kapitel 11 sid 491-492 om galktosemi och laktosintolerans
+Kapitel 11 sid 491-492 om galaktosemi och laktosintolerans
 ### Struktur
 Kolhydrator kan också kalla sockerarter/sackarider
 kedjor: polymerer och polysackarider t.ex. stärkelse

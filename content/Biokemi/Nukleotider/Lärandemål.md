@@ -1,0 +1,11 @@
+- En introduktion till den centrala dogmen.
+- Molekylärbiologiska begrepp: replikation, transkription, translation, den genetiska koden, läsram.
+- Enzymatiska aktiviteter inom molekylärbiologin: DNA polymeras, RNA polymeras, ribosomen.
+- Principiell struktur för nukleotider och nukleosider.
+- Det strukturella underlaget för komplementär basparning.
+- Fysikaliska principer för dubbelsträngade DNA/RNA molekylers stabilitet.
+- Ribonukleotidreduktas.
+  -----
+- Beskriva byggstenarna för DNA och RNA, deras syntes och konsekvenser av störd nukleotidsyntes.
+- Kunna översiktligt beskriva stegen i den centrala dogmen.
+- Primärstruktur och sekundärstruktur för DNA och RNA.

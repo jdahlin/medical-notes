@@ -6,54 +6,41 @@
       {
         "id": "3f6b32748450846e",
         "type": "tabs",
-        "dimension": 45.94112399643176,
+        "dimension": 39.33161953727505,
         "children": [
           {
-            "id": "27077a42d8148cad",
+            "id": "c500e8fa861f0cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Kolhydrater/Instuderingsfrågor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instuderingsfrågor"
-            }
-          },
-          {
-            "id": "6e7e28f234be4190",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20251106143824.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251106143824"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b57ecb38d33da701",
-        "type": "tabs",
-        "dimension": 54.058876003568244,
-        "children": [
-          {
-            "id": "38dfef798d41824f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biokemi/Kolhydrater/Anteckningar.md",
+                "file": "Biokemi/Nukleotider/Anteckningar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Anteckningar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d9c4c4ff8b60780",
+        "type": "tabs",
+        "dimension": 60.66838046272493,
+        "children": [
+          {
+            "id": "2ece43473d04ae34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biokemi/Termodynamik/Lärandemål.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lärandemål"
             }
           }
         ]
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biokemi/Kolhydrater/Anteckningar.md",
+                "file": "Biokemi/Termodynamik/Lärandemål.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anteckningar"
+              "title": "Backlinks for Lärandemål"
             }
           },
           {
@@ -204,50 +191,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "38dfef798d41824f",
+  "active": "2ece43473d04ae34",
   "lastOpenFiles": [
+    "Biokemi/Termodynamik/Anteckningar.md",
+    "Biokemi/Termodynamik/Lärandemål.md",
+    "Biokemi/Nukleotider/Anteckningar.md",
+    "Biokemi/Termodynamik",
+    "Biokemi/Nukleotider/Provfrågor.md",
+    "Biokemi/Nukleotider/Lärandemål.md",
+    "Biokemi/Nukleotider/Video undertexter.md",
+    "Biokemi/Nukleotider/Instuderingsfrågor.md",
+    "Biokemi/Nukleotider/anki_cards_semicolon.csv",
+    "Biokemi/Nukleotider/anki_cards.csv",
+    "Biokemi/Labsäkerhet/Provfrågor.md",
+    "Biokemi/Labsäkerhet/Anteckningar.md",
+    "Biokemi/Kolhydrater/Lärandemål.md",
+    "Biokemi/Kolhydrater/Provfrågor.md",
+    "Biokemi/Kolhydrater/Instuderingsfrågor.md",
+    "Biokemi/Kolhydrater/Anteckningar.md",
+    "Biokemi/Kemiska bindingar/Instuderingsfrågor.md",
+    "Biokemi/Kemiska bindingar/Föreläsning.md",
+    "Biokemi/Hemoglobin/Provfrågor.md",
+    "Biokemi/Hemoglobin/Instuderingsfrågor.md",
+    "Biokemi/Hemoglobin/Anteckningar.md",
+    "Biokemi/Från aminosyror till proteiner/Frågeställning I.md",
     "Biokemi/Från aminosyror till proteiner/Anteckningar II.md",
     "Biokemi/Från aminosyror till proteiner/Anteckningar I.md",
-    "Biokemi/Hemoglobin/Instuderingsfrågor.md",
-    "Biokemi/Hemoglobin/Provfrågor.md",
-    "Biokemi/Kemiska bindingar/Föreläsning.md",
-    "Biokemi/Kemiska bindingar/Instuderingsfrågor.md",
-    "Biokemi/Kolhydrater/Anteckningar.md",
-    "Biokemi/Kolhydrater/Instuderingsfrågor.md",
-    "Biokemi/Labsäkerhet/Provfrågor.md",
-    "Biokemi/Från aminosyror till proteiner/Frågeställning I.md",
+    "Biokemi/Nukleotider",
+    "Biokemi/Labsäkerhet",
+    "Biokemi/Kemiska bindingar",
+    "Biokemi/Kolhydrater",
+    "Biokemi/Hemoglobin",
+    "Biokemi/Från aminosyror till proteiner",
+    "Biokemi",
+    "Notes - Biokemi/Nukleotider/Video undertexter.md",
+    "Notes - Biokemi/Nukleotider/Provfrågor.md",
+    "Notes - Biokemi/Nukleotider/Lärandemål.md",
+    "Notes - Biokemi/Nukleotider/Instuderingsfrågor.md",
+    "Notes - Biokemi/Nukleotider/Anteckningar.md",
+    "Metabolic_Metro_Map.svg",
+    "attachments/Pasted image 20251108121121.png",
     "attachments/Pasted image 20251106143824.png",
     "attachments/Pasted image 20251106144030.png",
-    "Biokemi/Hemoglobin/Anteckningar.md",
-    "Biokemi/Untitled.md",
-    "Biokemi/Labsäkerhet",
     "attachments/Pasted image 20251107143236.png",
     "attachments/Pasted image 20251107141657.png",
     "attachments/Pasted image 20251107125523.png",
     "attachments/Pasted image 20251107122832.png",
     "attachments/Pasted image 20251107122326.png",
-    "Biokemi/Kolhydrater",
-    "attachments/Pasted image 20251107103427.png",
-    "attachments/Pasted image 20251107103403.png",
-    "attachments/Pasted image 20251107103007.png",
-    "Biokemi/Hemoglobin",
-    "Untitled.md",
-    "Biokemi/Från aminosyror till proteiner",
-    "Introduktion.md",
-    "PU.md",
-    "Biokemi/Kemiska bindingar",
-    "Biokemi/Kemiska bindingar.md",
-    "Biokemi",
-    "Tentor/index.md",
-    "Målbeskrivning/index.md",
-    "Föreläsningar/1014 Histologi MUG.md",
-    "Föreläsningar/1023 Inför preptanta.md",
-    "Målbeskrivning/4.2 Histologi KUG 1.md",
-    "Målbeskrivning/Mål.md",
-    "Föreläsningar/0930 GI Histologi 1.md",
-    "Målbeskrivning/3.5 Histologi GI.md",
-    "Histologi/Blodkärl/Lymfkärl.md",
-    "Histologi/MUG",
-    "Föreläsningar"
+    "attachments/Pasted image 20251107103427.png"
   ]
 }

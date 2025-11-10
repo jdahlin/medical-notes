@@ -133,14 +133,13 @@ mer syre är transporterat där det behövs, 66% effektivitet i muskler som anv�
 Det finns en annan del av ett protein (Hb t.ex.) där den allosteriska regulation binder, det skiljer sig från den aktiva delen där syre binder.
 En competitor kan binda till samma ställe där liganden binder (CO, $O_2$)
 
-2,3-BPG binder till β-subenhetn på Hb i T-state
-stabiliserar T-state och förenklar syres frisläppning
+2,3-BPG binder till β-subenhetn på Hb i T-state stabiliserar T-state och förenklar syres frisläppning
 2,3-BPG gör att att bindningen till syre försvagas och ökar effektivitet av transporten
 
 HbF har andra subenheter, 2,3-BPG har lägre bindningsaffinitet. Det gör att syre kan transporteras från moderns HbF till fostrets HbF.
 
 Andra allosteriska egenskaper av 
-Bohreffekten är att vätejoen och koldioxid kan binda till Hbmolekylen stabiliserar T-state och flyttar på dissocationkruvan
+Bohreffekten är att vätejon och koldioxid kan binda till Hbmolekylen stabiliserar T-state och flyttar på dissocationkruvan
 
 I muskeln finns det mer vätejoner och pH är lägre
 Syreskillnaden influenserar frisläppandet av syre från Hb
