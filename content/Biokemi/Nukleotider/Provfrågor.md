@@ -39,8 +39,7 @@ D) Vad är dGDP förkortning för?
 (4p)
 
 A) Vad är skillnaden mellan exo- och endonukleaser?
-B) Skriv det fullständiga namnet för CMP.
-(4p)
+B) Skriv det fullständiga namnet för CMP. (4p)
 
 Vilka två påståenden om nukleotider är korrekta? (2p)
 

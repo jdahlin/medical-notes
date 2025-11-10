@@ -1240,4 +1240,3 @@ har för betydelse för olika typer av av
 sjukdomsförlopp och så. Men det var en
 första inledning.
 
-
