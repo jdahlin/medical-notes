@@ -6,7 +6,7 @@
       {
         "id": "3f6b32748450846e",
         "type": "tabs",
-        "dimension": 39.33161953727505,
+        "dimension": 34.25512934879571,
         "children": [
           {
             "id": "c500e8fa861f0cdd",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Nukleotider/Anteckningar.md",
+                "file": "Biokemi/Termodynamik/Instuderingsfrågor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anteckningar"
+              "title": "Instuderingsfrågor"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "0d9c4c4ff8b60780",
         "type": "tabs",
-        "dimension": 60.66838046272493,
+        "dimension": 65.74487065120428,
         "children": [
           {
             "id": "2ece43473d04ae34",
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Termodynamik/Lärandemål.md",
+                "file": "Biokemi/Termodynamik/Anteckningar Gabriel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lärandemål"
+              "title": "Anteckningar Gabriel"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biokemi/Termodynamik/Lärandemål.md",
+                "file": "Biokemi/Termodynamik/Anteckningar Gabriel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lärandemål"
+              "title": "Backlinks for Anteckningar Gabriel"
             }
           },
           {
@@ -193,18 +193,21 @@
   },
   "active": "2ece43473d04ae34",
   "lastOpenFiles": [
+    "Biokemi/Termodynamik/Instuderingsfrågor.md",
+    "Biokemi/Termodynamik/Anteckningar Gabriel.md",
     "Biokemi/Termodynamik/Anteckningar.md",
+    "Biokemi/Termodynamik/Provfrågor.md",
     "Biokemi/Termodynamik/Lärandemål.md",
     "Biokemi/Nukleotider/Anteckningar.md",
-    "Biokemi/Termodynamik",
-    "Biokemi/Nukleotider/Provfrågor.md",
-    "Biokemi/Nukleotider/Lärandemål.md",
-    "Biokemi/Nukleotider/Video undertexter.md",
+    "Biokemi/Labsäkerhet/Anteckningar.md",
+    "Biokemi/Labsäkerhet/Provfrågor.md",
     "Biokemi/Nukleotider/Instuderingsfrågor.md",
+    "Biokemi/Nukleotider/Lärandemål.md",
+    "Biokemi/Nukleotider/Provfrågor.md",
+    "Biokemi/Nukleotider/Video undertexter.md",
+    "Biokemi/Termodynamik",
     "Biokemi/Nukleotider/anki_cards_semicolon.csv",
     "Biokemi/Nukleotider/anki_cards.csv",
-    "Biokemi/Labsäkerhet/Provfrågor.md",
-    "Biokemi/Labsäkerhet/Anteckningar.md",
     "Biokemi/Kolhydrater/Lärandemål.md",
     "Biokemi/Kolhydrater/Provfrågor.md",
     "Biokemi/Kolhydrater/Instuderingsfrågor.md",
@@ -226,9 +229,6 @@
     "Biokemi",
     "Notes - Biokemi/Nukleotider/Video undertexter.md",
     "Notes - Biokemi/Nukleotider/Provfrågor.md",
-    "Notes - Biokemi/Nukleotider/Lärandemål.md",
-    "Notes - Biokemi/Nukleotider/Instuderingsfrågor.md",
-    "Notes - Biokemi/Nukleotider/Anteckningar.md",
     "Metabolic_Metro_Map.svg",
     "attachments/Pasted image 20251108121121.png",
     "attachments/Pasted image 20251106143824.png",
