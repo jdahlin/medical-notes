@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +77,7 @@
       <workItem from="1762612608374" duration="65000" />
       <workItem from="1762612692934" duration="4412000" />
       <workItem from="1762806071935" duration="668000" />
-      <workItem from="1762847028359" duration="13000" />
+      <workItem from="1762847028359" duration="652000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <option name="closed" value="true" />
@@ -125,7 +121,21 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1762806734743</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Add biokemi link">
+      <option name="closed" value="true" />
+      <created>1762847050135</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1762847050135</updated>
+    </task>
+    <task id="LOCAL−00008" summary="Update">
+      <option name="closed" value="true" />
+      <created>1762857589808</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1762857589808</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +145,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/content" />
     </ignored-roots>
+    <MESSAGE value="Add biokemi link" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>

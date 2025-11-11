@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Termodynamik/Anteckningar.md",
+                "file": "Biokemi/Hemoglobin/Labb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anteckningar"
+              "title": "Labb"
             }
           }
         ]
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "0948c66181b40af9",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biokemi/Termodynamik/Anteckningar.md",
+                "file": "Biokemi/Hemoglobin/Labb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Anteckningar"
+              "title": "Backlinks for Labb"
             }
           },
           {
@@ -210,16 +209,17 @@
   "active": "7e85b893a73f2b8d",
   "lastOpenFiles": [
     "Biokemi/Termodynamik/Provfrågor.md",
+    "Biokemi/Hemoglobin/Labb.md",
     "Biokemi/Termodynamik/Anteckningar.md",
+    "Biokemi/Termodynamik/Anteckningar Gabriel.md",
+    "Biokemi/Termodynamik/Instuderingsfrågor.md",
+    "Biokemi/Termodynamik/Lärandemål.md",
     "attachments/Pasted image 20251111110139.png",
     "attachments/Pasted image 20251111110058.png",
     "attachments/Pasted image 20251111105409.png",
     "attachments/Pasted image 20251111103839.png",
-    "Biokemi/Termodynamik/Instuderingsfrågor.md",
     "Biokemi/Nukleotider/Anteckningar.md",
-    "Biokemi/Termodynamik/Lärandemål.md",
     "Biokemi/Nukleotider/Provfrågor.md",
-    "Biokemi/Termodynamik/Anteckningar Gabriel.md",
     "Biokemi/Labsäkerhet/Anteckningar.md",
     "Biokemi/Labsäkerhet/Provfrågor.md",
     "Biokemi/Nukleotider/Instuderingsfrågor.md",

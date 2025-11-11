@@ -186,3 +186,11 @@ Om ∆G0 = 0 blir K = 1
 Om ∆G0 > 0 blir K < 1
 
 Får vi räkneuppgifter. Det är mest teoretiskt, det är ingenting ni ska räkna ut. Behöver förstå koncepten gör mig nöjd.
+
+Behöver inte kunna lagar med gaskonstanten.
+
+ATP → ADP + $P_i$
+Hur stort är ∆G för ATP hydrolys i RBK?
+37 grader C, [ATP] = 2.25mM, [ADP] = 0.25 mM, [Pi] = 1.65 nM
+R(Gaskonstantent) = 8.315J/mol, ∆G0 = -30.5kJ/mol
+
