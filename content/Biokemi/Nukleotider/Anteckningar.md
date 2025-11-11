@@ -19,5 +19,4 @@ Från frågestund
 	- första fem är helt avgörande AGCTU
 
 
-
-
+Kort för vänstervriden hur dna-helixen är uppbyggd
