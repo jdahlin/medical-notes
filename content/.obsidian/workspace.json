@@ -6,7 +6,7 @@
       {
         "id": "3f6b32748450846e",
         "type": "tabs",
-        "dimension": 34.25512934879571,
+        "dimension": 50.579839429081176,
         "children": [
           {
             "id": "c500e8fa861f0cdd",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Termodynamik/Lärandemål.md",
+                "file": "Biokemi/Enzymer/Anteckningar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lärandemål"
+              "title": "Anteckningar"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "0d9c4c4ff8b60780",
         "type": "tabs",
-        "dimension": 65.74487065120428,
+        "dimension": 49.420160570918824,
         "children": [
           {
             "id": "7e85b893a73f2b8d",
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Hemoglobin/Labb.md",
+                "file": "Biokemi/Enzymer/Anteckningar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Labb"
+              "title": "Anteckningar"
             }
           }
         ]
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biokemi/Hemoglobin/Labb.md",
+                "file": "Biokemi/Enzymer/Anteckningar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Labb"
+              "title": "Backlinks for Anteckningar"
             }
           },
           {
@@ -206,23 +206,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7e85b893a73f2b8d",
+  "active": "2ece43473d04ae34",
   "lastOpenFiles": [
-    "Biokemi/Termodynamik/Provfrågor.md",
+    "Biokemi/Enzymer/Lärandemål.md",
+    "Biokemi/Enzymer/Provfrågor.md",
+    "Biokemi/Enzymer/Instuderingsfrågor.md",
+    "Biokemi/Termodynamik/Lärandemål.md",
+    "Biokemi/Enzymer/Anteckningar.md",
+    "attachments/Pasted image 20251112095205.png",
+    "attachments/Pasted image 20251112095158.png",
+    "attachments/Pasted image 20251112094043.png",
+    "attachments/Pasted image 20251112093609.png",
+    "attachments/Pasted image 20251112093538.png",
+    "attachments/Pasted image 20251112085710.png",
+    "attachments/Pasted image 20251112085054.png",
+    "attachments/Pasted image 20251112081325.png",
+    "Biokemi/Nukleotider/Instuderingsfrågor.md",
+    "Biokemi/Enzymer",
+    "Biokemi/Termodynamik/Instuderingsfrågor.md",
     "Biokemi/Hemoglobin/Labb.md",
+    "Biokemi/Termodynamik/Provfrågor.md",
     "Biokemi/Termodynamik/Anteckningar.md",
     "Biokemi/Termodynamik/Anteckningar Gabriel.md",
-    "Biokemi/Termodynamik/Instuderingsfrågor.md",
-    "Biokemi/Termodynamik/Lärandemål.md",
     "attachments/Pasted image 20251111110139.png",
     "attachments/Pasted image 20251111110058.png",
-    "attachments/Pasted image 20251111105409.png",
-    "attachments/Pasted image 20251111103839.png",
     "Biokemi/Nukleotider/Anteckningar.md",
     "Biokemi/Nukleotider/Provfrågor.md",
     "Biokemi/Labsäkerhet/Anteckningar.md",
     "Biokemi/Labsäkerhet/Provfrågor.md",
-    "Biokemi/Nukleotider/Instuderingsfrågor.md",
     "Biokemi/Nukleotider/Lärandemål.md",
     "Biokemi/Nukleotider/Video undertexter.md",
     "Biokemi/Termodynamik",
@@ -236,23 +247,11 @@
     "Biokemi/Kemiska bindingar/Föreläsning.md",
     "Biokemi/Hemoglobin/Provfrågor.md",
     "Biokemi/Hemoglobin/Instuderingsfrågor.md",
-    "Biokemi/Hemoglobin/Anteckningar.md",
-    "Biokemi/Från aminosyror till proteiner/Frågeställning I.md",
-    "Biokemi/Från aminosyror till proteiner/Anteckningar II.md",
-    "Biokemi/Från aminosyror till proteiner/Anteckningar I.md",
     "Biokemi/Nukleotider",
     "Biokemi/Labsäkerhet",
     "Biokemi/Kemiska bindingar",
     "Biokemi/Kolhydrater",
     "Biokemi/Hemoglobin",
-    "Biokemi/Från aminosyror till proteiner",
-    "Biokemi",
-    "Notes - Biokemi/Nukleotider/Video undertexter.md",
-    "Metabolic_Metro_Map.svg",
-    "attachments/Pasted image 20251108121121.png",
-    "attachments/Pasted image 20251106143824.png",
-    "attachments/Pasted image 20251106144030.png",
-    "attachments/Pasted image 20251107143236.png",
-    "attachments/Pasted image 20251107141657.png"
+    "Biokemi/Från aminosyror till proteiner"
   ]
 }
