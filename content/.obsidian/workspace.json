@@ -6,7 +6,7 @@
       {
         "id": "3f6b32748450846e",
         "type": "tabs",
-        "dimension": 71.14093959731544,
+        "dimension": 53.4257748776509,
         "children": [
           {
             "id": "5cd07fc76098d003",
@@ -27,7 +27,7 @@
       {
         "id": "2f45996db37e6ccd",
         "type": "tabs",
-        "dimension": 28.859060402684566,
+        "dimension": 46.574225122349105,
         "children": [
           {
             "id": "06be19e869ba432d",
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 200
   },
   "right": {
     "id": "0948c66181b40af9",
@@ -191,10 +191,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "5cd07fc76098d003",
+  "active": "06be19e869ba432d",
   "lastOpenFiles": [
-    "Biokemi/Proteinseminarie/Frågor.md",
     "Biokemi/Proteinseminarie/Stödord.md",
+    "Biokemi/Proteinseminarie/Frågor.md",
     "Biokemi/Enzymer/Lärandemål.md",
     "Biokemi/Enzymer/Provfrågor.md",
     "Biokemi/Enzymer/Anteckningar II.md",
