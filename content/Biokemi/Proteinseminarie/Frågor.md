@@ -28,10 +28,16 @@ Resultatet är **högerförskjuten dissociationskurva**, lägre O₂-bindning oc
 ### Blodgrupper
 En lyckad transfusion av blod från en individ till en annan är beroende av att individerna har kompatibla blodgrupper. Om blodgrupperna inte är kompatibla kan en livshotande reaktion utlösas. Redogör för reaktionen för molekylär nivå.  
 
+Vid inkompatibel blodtransfusion känns mottagarens antikroppar igen donatorns erytrocytantigen (t.ex. A- eller B-antigen) som främmande. Antikropparna binder direkt till antigenen på erytrocyterna och bildar stora immunkomplex. Detta leder till **agglutination** (klumpning) och aktivering av **komplementsystemet**, som skapar porer i cellmembranet och orsakar **intravaskulär hemolys**. Frisatta hemoglobinfragment och komplementaktiverade mediatorer utlöser kraftig inflammation, kärlskada, koagulationsaktivering och kan snabbt leda till chock, njursvikt och cirkulationskollaps.
 ### Enzymer
 Redogör för fördelen med att många enzymer har Km-värden i närheten av de substratkoncentrationer som finns i deras omgivning.  
 
-### 
+När ett enzyms Km ligger nära den faktiska substratkoncentrationen fungerar enzymet i det mest känsliga området av Michaelis-Menten-kurvan. Det innebär att små förändringar i substratnivåer direkt ger tydliga förändringar i hastigheten, vilket gör enzymet finreglerbart och responsivt. Enzymet arbetar varken mättat eller ineffektivt, utan i ett dynamiskt intervall där cellen snabbt kan anpassa metabolismen efter behov. Detta gör att enzymaktivitet kan styras av tillgången på substrat utan att kräva stora mängder enzym eller komplex reglering.
+### Kofaktorer
 Kofaktorer bundna till proteiner är viktiga för att möjliggöra vissa kemiska reaktioner och därmed utöka repertoaren av reaktioner de kan utföra. Redogör för vad en kofaktor är och hur  kofaktorerna ... kan hjälpa enzymer att uppnå effektivitet i de reaktioner de katalyserar.  
 
+Kofaktorer är små icke-proteinkomponenter som ett enzym behöver för att katalysera reaktioner som aminosyror själva inte klarar av. De kan vara **metalljoner** (t.ex. Zn²⁺, Mg²⁺, Fe²⁺) eller **organiska molekyler** som ofta kallas **coenzymer** (t.ex. NAD⁺, FAD, CoA, TPP, biotin). Kofaktorer kan bära elektroner, protoner eller kemiska grupper, stabilisera övergångstillstånd eller skapa reaktiva intermediärer. Genom att tillföra nya kemiska egenskaper – redoxförmåga, gruppöverföring, syra–bas-katalys eller strukturell stabilisering – ökar de både reaktionshastighet och specificitet och gör att enzymet kan utföra reaktioner som annars vore omöjliga.
+### Metanol
 Förklara hur förtäring av metanol kan ge svåra förgiftningsskador samt hur etanol kan  förhindra förgiftningen.
+
+Metanol i sig är relativt ofarligt, men i levern omvandlar **alkoholdehydrogenas (ADH)** det till **formaldehyd** och vidare till **myrsyra**, vilket orsakar **metabol acidos**, synnervsskada och kan leda till blindhet och död. Etanol fungerar som behandling eftersom ADH har **mycket högre affinitet för etanol än metanol**. När etanol ges konkurrerar det ut metanol på enzymet, vilket stoppar bildningen av de toxiska metaboliterna. Metanol utsöndras då oförändrat och myrsyran kan metaboliseras eller buffras.
