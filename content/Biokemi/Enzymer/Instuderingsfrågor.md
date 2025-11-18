@@ -1,4 +1,3 @@
-
 #### Hur kan vi veta om en kemisk reaktion kan ske?
 #### Vad är katalys, hur kan den ske och vad kallas de biologiska katalysatorerna? Till vilken grupp av ämnen hör dessa i det flesta fall?
 #### Vilka generella strategier finns för enzym-katalyserade reaktioner?

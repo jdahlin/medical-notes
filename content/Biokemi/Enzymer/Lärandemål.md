@@ -15,7 +15,6 @@
 	- Fosfataser.
 	- Syntaser.
 	- Oxidoreduktaser.
-    
 
 ## Mål
 
