@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Proteinseminarie/Frågor.md",
+                "file": "PU/Tystnadsplikt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frågor"
+              "title": "Tystnadsplikt"
             }
           }
         ]
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +205,12 @@
   },
   "active": "06be19e869ba432d",
   "lastOpenFiles": [
-    "Biokemi/Proteinseminarie/Stödord.md",
+    "Studieteknik/20 regler.md",
+    "PU/Tystnadsplikt.md",
+    "PU",
     "Biokemi/Proteinseminarie/Frågor.md",
+    "Studieteknik",
+    "Biokemi/Proteinseminarie/Stödord.md",
     "Biokemi/Enzymer/Lärandemål.md",
     "Biokemi/Enzymer/Provfrågor.md",
     "Biokemi/Enzymer/Anteckningar II.md",
@@ -243,12 +248,8 @@
     "Biokemi/Nukleotider/Instuderingsfrågor.md",
     "Biokemi/Enzymer",
     "Biokemi/Termodynamik/Instuderingsfrågor.md",
-    "Biokemi/Hemoglobin/Labb.md",
-    "Biokemi/Termodynamik/Provfrågor.md",
     "Biokemi/Termodynamik",
     "Biokemi/Nukleotider/anki_cards_semicolon.csv",
-    "Biokemi/Nukleotider/anki_cards.csv",
-    "Biokemi/Nukleotider",
-    "Biokemi/Labsäkerhet"
+    "Biokemi/Nukleotider/anki_cards.csv"
   ]
 }
