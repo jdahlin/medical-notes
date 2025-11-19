@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "Stödord"
             }
+          },
+          {
+            "id": "06be19e869ba432d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PU/Tystnadsplikt AI-svar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tystnadsplikt AI-svar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2f45996db37e6ccd",
@@ -30,7 +45,7 @@
         "dimension": 46.574225122349105,
         "children": [
           {
-            "id": "06be19e869ba432d",
+            "id": "e53ce881144526f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -205,8 +220,9 @@
   },
   "active": "06be19e869ba432d",
   "lastOpenFiles": [
-    "Studieteknik/20 regler.md",
     "PU/Tystnadsplikt.md",
+    "PU/Tystnadsplikt AI-svar.md",
+    "Studieteknik/20 regler.md",
     "PU",
     "Biokemi/Proteinseminarie/Frågor.md",
     "Studieteknik",
@@ -247,7 +263,6 @@
     "Biokemi/Termodynamik/Lärandemål.md",
     "Biokemi/Nukleotider/Instuderingsfrågor.md",
     "Biokemi/Enzymer",
-    "Biokemi/Termodynamik/Instuderingsfrågor.md",
     "Biokemi/Termodynamik",
     "Biokemi/Nukleotider/anki_cards_semicolon.csv",
     "Biokemi/Nukleotider/anki_cards.csv"
