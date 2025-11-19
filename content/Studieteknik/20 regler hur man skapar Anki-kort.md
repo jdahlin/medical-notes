@@ -10,6 +10,7 @@ Summering på svenska av de 20 reglerna
 4. Håll frågor enkla
 5. Bilder hjälper minnet
 6. Lär dig minnestekniker t.ex. kroklista
+	1. t.ex. PVT TIM HALL för essentiella aminosyror
 7. Undvik listor, mängder och uppräkningar
 8. Personalisera och lägg till egna exempel
 9. Cloze deletion är som ett minnesankare som hjälper dig att komma ihåg
