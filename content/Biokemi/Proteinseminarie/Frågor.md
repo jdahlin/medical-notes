@@ -41,3 +41,4 @@ Kofaktorer är små icke-proteinkomponenter som ett enzym behöver för att kata
 Förklara hur förtäring av metanol kan ge svåra förgiftningsskador samt hur etanol kan  förhindra förgiftningen.
 
 Metanol i sig är relativt ofarligt, men i levern omvandlar **alkoholdehydrogenas (ADH)** det till **formaldehyd** och vidare till **myrsyra**, vilket orsakar **metabol acidos**, synnervsskada och kan leda till blindhet och död. Etanol fungerar som behandling eftersom ADH har **mycket högre affinitet för etanol än metanol**. När etanol ges konkurrerar det ut metanol på enzymet, vilket stoppar bildningen av de toxiska metaboliterna. Metanol utsöndras då oförändrat och myrsyran kan metaboliseras eller buffras.
+.
