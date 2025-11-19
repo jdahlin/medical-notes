@@ -4,7 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update" />
+    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Anteckningar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Lärandemål.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Anteckningar I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Anteckningar II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Lärandemål.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Från aminosyror till proteiner/Anteckningar I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Från aminosyror till proteiner/Anteckningar II.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Från aminosyror till proteiner/Frågeställning I.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Anteckningar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Labb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kemiska bindingar/Föreläsning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kemiska bindingar/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Anteckningar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Lärandemål.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Anteckningar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Instuderingsuppgifter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Lärandemål.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Anteckningar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Lärandemål.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Video undertexter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Anteckningar Gabriel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Anteckningar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Lärandemål.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Anteckningar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Instuderingsfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Lärandemål.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Provfrågor.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +69,12 @@
     &quot;assignee&quot;: &quot;jdahlin&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jdahlin/medical-notes.git&quot;,
-    &quot;accountId&quot;: &quot;1e93f994-4fa7-4744-99e1-09949f7f05dc&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:jdahlin/medical-notes.git",
+    "accountId": "1e93f994-4fa7-4744-99e1-09949f7f05dc"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -94,6 +136,7 @@
       <workItem from="1763285087929" duration="5191000" />
       <workItem from="1763368336948" duration="74000" />
       <workItem from="1763468129001" duration="1460000" />
+      <workItem from="1763591031608" duration="2000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <option name="closed" value="true" />
