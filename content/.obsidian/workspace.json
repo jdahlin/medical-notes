@@ -172,13 +172,23 @@
               "icon": "lucide-list",
               "title": "Outline of Preparattabell"
             }
+          },
+          {
+            "id": "10341d1503d8d1c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,13 +198,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06be19e869ba432d",
+  "active": "3eadd732417e81df",
   "lastOpenFiles": [
-    "Biokemi/Proteinseminarie/Stödord.md",
     "Biokemi/Proteinseminarie/Frågor.md",
+    "Biokemi/Proteinseminarie/Stödord.md",
     "Biokemi/Enzymer/Lärandemål.md",
     "Biokemi/Enzymer/Provfrågor.md",
     "Biokemi/Enzymer/Anteckningar II.md",

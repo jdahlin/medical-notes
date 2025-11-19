@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Proteinseminarie/Stödord.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Biokemi/Proteinseminarie/Stödord.md" afterDir="false" />
-    </list>
+    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +93,7 @@
       <workItem from="1763284536213" duration="522000" />
       <workItem from="1763285087929" duration="5191000" />
       <workItem from="1763368336948" duration="74000" />
-      <workItem from="1763468129001" duration="1293000" />
+      <workItem from="1763468129001" duration="1460000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <option name="closed" value="true" />
@@ -185,7 +181,31 @@
       <option name="project" value="LOCAL" />
       <updated>1763468981426</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update">
+      <option name="closed" value="true" />
+      <created>1763502902573</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1763502902573</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update">
+      <option name="closed" value="true" />
+      <created>1763502909657</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1763502909657</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update">
+      <option name="closed" value="true" />
+      <created>1763502990290</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763502990290</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
