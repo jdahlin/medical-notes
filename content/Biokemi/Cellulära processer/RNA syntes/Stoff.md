@@ -1,3 +1,4 @@
+```
 Det sitter 3 fosfatgrupper i 5'-änden
 En fosfodiesterbrygga är bindningen som kopplar ihop nukleotider i DNA och RNA. Den bildas när 3’-OH på en sockergrupp binder till 5’-fosfatet på nästa nukleotid.
 För varje nukleotid som sätts på kedjan krävs en ATP, en fosfatgrupp går in i fosfodiesterbryggan, 2 fosfatgrupper spjälkas bort som energi
@@ -28,3 +29,5 @@ CTD är den C-terminala domänen på RNA-pol II där fosfosvansen sitter och reg
 CTD har många fosforyleringsställen där fosfatgrupper binder för att reglera polymerasets växling mellan initiering, elongering och RNA-processing
 
 
+
+```
