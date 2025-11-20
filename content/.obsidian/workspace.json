@@ -6,7 +6,7 @@
       {
         "id": "3f6b32748450846e",
         "type": "tabs",
-        "dimension": 53.4257748776509,
+        "dimension": 74.86818980667839,
         "children": [
           {
             "id": "5cd07fc76098d003",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/!Template/Lärandemål.md",
+                "file": "Studieteknik/Export all to anki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lärandemål"
+              "title": "Export all to anki"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "2f45996db37e6ccd",
         "type": "tabs",
-        "dimension": 46.574225122349105,
+        "dimension": 25.13181019332162,
         "children": [
           {
             "id": "e53ce881144526f0",
@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,6 +219,8 @@
   },
   "active": "06be19e869ba432d",
   "lastOpenFiles": [
+    "Biokemi/!Template/Lärandemål.md",
+    "Studieteknik/Export all to anki.md",
     "Biokemi/!Template/Provfrågor.md",
     "Biokemi/Cellulära processer/RNA syntes/Anteckningar.md",
     "Biokemi/Cellulära processer/Translation",
@@ -238,7 +239,6 @@
     "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Instuderingsfrågor.md",
     "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Lärandemål.md",
     "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Provfrågor.md",
-    "Biokemi/!Template/Lärandemål.md",
     "Biokemi/!Template/Instuderingsfrågor.md",
     "Biokemi/!Template/Anteckningar.md",
     "Biokemi/!Template",
