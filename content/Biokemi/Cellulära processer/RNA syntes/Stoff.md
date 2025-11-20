@@ -8,7 +8,7 @@ RNA-polymeras öppnning är ~17 baspar lång, för att ge lagom plats för malls
 NTP-kanalen är en smal, laddad tunnel som leder fria nukleotider rätt in till det aktiva sätet och ökar träffsäkerheten via elektrostatiska interaktioner.
 Ribosomen är uppbyggd av ribosomalt RNA (rRNA)
 RNA-polymeras II ger upphov till ribosomalt RNA (rRNA)
-RNA-polymeras II är viktigast eftersom det gör **mRNA**, alltså utgångspunkten för alla proteiner. Det driver därmed huvuddelen av genuttrycket.
+RNA-polymeras II är viktigast eftersom det gör mRNA, alltså utgångspunkten för alla proteiner. Det driver därmed huvuddelen av genuttrycket.
 TATA-boxen består av en sekvens av AT-nukleotider med lägre smältpunkt (2 isf 3 vätebindingar)
 Promotor är den region av DNA som RNA polymeraset binder vid för att börja transkriptionen
 RNA-polymeras behöver hjälp att hitta startpunkten, och detta sker via promotorn, särskilt TATA-boxen och de basala transkriptionsfaktorerna
