@@ -6,46 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Anteckningar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Lärandemål.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellmembran/Provfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Anteckningar I.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Anteckningar II.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Lärandemål.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Enzymer/Provfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Från aminosyror till proteiner/Anteckningar I.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Från aminosyror till proteiner/Anteckningar II.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Från aminosyror till proteiner/Frågeställning I.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Anteckningar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Labb.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Hemoglobin/Provfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kemiska bindingar/Föreläsning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kemiska bindingar/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Anteckningar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Lärandemål.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Kolhydrater/Provfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Anteckningar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Instuderingsuppgifter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Lärandemål.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Lipider/Provfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Anteckningar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Lärandemål.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Provfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Nukleotider/Video undertexter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Anteckningar Gabriel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Anteckningar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Lärandemål.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Termodynamik/Provfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Anteckningar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Instuderingsfrågor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Lärandemål.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Biokemi/Utforska proteiner/Provfrågor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Biokemi/Cellulära processer/Kromatin/Stoff.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Biokemi/Cellulära processer/Kromatin/Stoff.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +31,12 @@
     &quot;assignee&quot;: &quot;jdahlin&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:jdahlin/medical-notes.git",
-    "accountId": "1e93f994-4fa7-4744-99e1-09949f7f05dc"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:jdahlin/medical-notes.git&quot;,
+    &quot;accountId&quot;: &quot;1e93f994-4fa7-4744-99e1-09949f7f05dc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -84,28 +46,29 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/johandahlin/dev/medical-notes/content&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/johandahlin/dev/medical-notes/content",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Users/johandahlin/dev/medical-notes/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlite&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content" />
@@ -137,6 +100,7 @@
       <workItem from="1763368336948" duration="74000" />
       <workItem from="1763468129001" duration="1460000" />
       <workItem from="1763591031608" duration="2000" />
+      <workItem from="1763668772985" duration="90000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <option name="closed" value="true" />

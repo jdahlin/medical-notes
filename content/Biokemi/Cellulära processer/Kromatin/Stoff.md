@@ -1,10 +1,9 @@
 ```
-Upptäckten av nukleosomen gjordes genom {{c1::klyvning av kromatin med DNase I}} följt av {{c2::gelelektrofores som visade 150–200 bp fragment}}.
 Nukleosomen består av {{c1::146 bp DNA}} lindat {{c2::1.75 varv}} runt en {{c3::histonoktamer (2×H2A, 2×H2B, 2×H3, 2×H4)}}.
 Histonoktamer består av {{c1::8 histonproteiner}} och har en diameter på {{c2::~11 nm}}.
 Histoner är extremt konserverade; H4 skiljer sig med {{c1::endast två aminosyror}} mellan ko och ärta över {{c2::1.3 miljarder år}}.
 Histon H1 binder till {{c1::linker-DNA}} och är nödvändig för bildning av {{c2::30-nm fiber}}.
-Kompakt kromatin hindrar processerna {{c1::transkription}}, {{c2::replikation}}, {{c3::rekombination}} och {{c4::DNA-reparation}}.
+Kompakt kromatin hindrar processerna {{c1::transkription}}, {{c1::replikation}}, {{c2::rekombination}} och {{c2::DNA-reparation}}.
 Histonsvansar består av N-terminala delar på {{c1::H3 och H4}} som kan modifieras för att reglera paktningsgrad.
 Acetylering neutraliserar positiva laddningar på {{c1::lysin och arginin}} vilket leder till {{c2::lösare bindning till DNA}}.
 Histonkoden är {{c1::kombinationen av histonmodifieringar}} som kan {{c2::aktivera eller repressa genuttryck}}.
