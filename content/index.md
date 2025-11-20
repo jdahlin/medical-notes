@@ -4,9 +4,11 @@ title: Anteckningar - Översikt
 
 # Översikt
 
-- [[Anatomi/|Anatomi]]
-- [[Biokemi/|Biokemi]]
-- [[Histologi/|Histologi]]
-- [[Histologi/Demokompendium/|Demokompendium]]
-- [[Målbeskrivning/|Målbeskrivningar]]
-- [[Tentamen/|Tentamen]]
+Kurser
+- Anatomi och Histologi
+	- [[Anatomi & Histologi/Anatomi/index|Anatomi]]
+	- [[Anatomi & Histologi/Histologi/index|Histologi]]
+	- [[Anatomi & Histologi/Histologi/Demokompendium/|Demokompendium]]
+	- [[Anatomi & Histologi/Målbeskrivning/|Målbeskrivningar]]
+	- [[Anatomi & Histologi/Tentamen/|Tentamen]]
+- [[Biokemi]]

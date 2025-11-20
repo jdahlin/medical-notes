@@ -1,0 +1,32 @@
+---
+title: Histologi
+---
+
+# Tabeller
+
+- [Celltyper](Celltyper.md)
+- [Lager & Höljen i vävnader](Lager%20&%20Höljen%20i%20vävnader.md)
+
+# Underkategorier
+
+- [[Anatomi & Histologi/Histologi/Basalmembran|Basalmembran]]
+- [[Histologi/Ben/|Ben]]
+- [[Anatomi & Histologi/Histologi/Bindväv/Bindväv|Bindväv]]
+- [[Histologi/Blod/|Blod]]
+- [[Histologi/Blodkärl/|Blodkärl]]
+- [[Histologi/Brosk/|Brosk]]
+- [[Histologi/Bröstkörtel/|Bröstkörtel]]
+- [[Histologi/Demokompendium/|Demokompendium]]
+- [[Histologi/Endokrina/|Endokrina]]
+- [[Histologi/Epitel/|Epitel]]
+- [[Histologi/GI/|GI]]
+- [[Histologi/Hjärta/|Hjärta – histologi]]
+- [[Anatomi & Histologi/Histologi/Respiration/index|Respiration – histologi]]
+- [[Histologi/Hud/|Hud]]
+- [[Histologi/KUG/|KUG]]
+- [[Histologi/Körtlar/|Körtlar]]
+- [[Histologi/Muskelvävnad/|Muskelvävnad]]
+- [[Histologi/Nervsystem/|Nervsystem]]
+- [[Histologi/Njure/|Njure]]
+- [[Histologi/Urinvägar/|Urinvägar]]
+

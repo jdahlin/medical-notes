@@ -1,0 +1,19 @@
+---
+title: Hypofysen
+---
+
+# Hypofysen
+
+Hypofysen (glandula pituitaria) består av adenohypofys (framlob) och neurohypofys (baklob) som sitter i sella turcica och binds till hypothalamus via infundibulum.
+
+## Att kunna
+- Beskriva hypofysens två huvuddelar och deras embryonala ursprung (ektodermalt Rathkes ficka respektive neuroektoderm).
+- Identifiera adenohypofysens cellrika körtelvävnad och neurohypofysens nervfiberdominerade parenkym i mikroskop.
+- Redogöra översiktligt för hormonportföljen och respektive målorgan.
+
+## Relaterat
+- [[Histologi/Endokrina/|Endokrina organ – mål]]
+- [[Adenohypofysen – celler och hormoner|Adenohypofysen – celler och hormoner]]
+- [[Neurohypofysen – delar och hormoner|Neurohypofysen – delar och hormoner]]
+- [[Hypofysen – anatomi och kärl|Hypofysen – anatomi och kärl]]
+- [[3.4 Histologi Endokrina organ|3.4 Histologi Endokrina organ]]
