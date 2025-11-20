@@ -12,3 +12,4 @@ Kurser
 	- [[Anatomi & Histologi/Målbeskrivning/|Målbeskrivningar]]
 	- [[Anatomi & Histologi/Tentamen/|Tentamen]]
 - [[Biokemi]]
+- [[Studieteknik]]
