@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,7 @@
       <workItem from="1763368336948" duration="74000" />
       <workItem from="1763468129001" duration="1460000" />
       <workItem from="1763591031608" duration="2000" />
-      <workItem from="1763668772985" duration="362000" />
+      <workItem from="1763668772985" duration="1040000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <option name="closed" value="true" />

@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     locale: "sv-SE",
     baseUrl: "jdahlin.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian", "node_modules", "!*"],
+    ignorePatterns: ["private", "templates", ".obsidian", "node_modules"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
