@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    locale: "sv-SE",
+    locale: "en-US",
     baseUrl: "jdahlin.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "node_modules"],
     defaultDateType: "modified",
