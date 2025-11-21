@@ -1,4 +1,4 @@
-#### Instuderingsfrågor – Initiering och terminering av eukaryot DNA replikation.  
+#### Initiering och terminering av eukaryot DNA replikation.  
 #### Vad är PCNA?  
 #### Beskriv den roll ORC spelar vid initiering av eukaryot DNA-replikation. Vilken roll spelar Cdc6, Cdt1, och MCM-helikaset i denna process.  
 #### När i cell-cykeln och hur aktiveras MCM-helikaset?  
