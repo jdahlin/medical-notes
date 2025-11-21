@@ -37,3 +37,44 @@ Bakteriofager får bakteriellt DNA genom {{c1::fel vid packning}} eller {{c2::im
 Eukaryot DNA-replikation sker alltid i {{c1::5’→3’-riktning}}.
 Okazaki-fragment bildas endast på {{c1::lagging strand}}.
 ```
+
+Round two
+
+```
+Replikationsbubbla bildas när {{c1::helikas öppnar DNA vid origin of replication}}.
+Replikationsgaffel är {{c1::punkten där DNA separeras och syntes sker i två riktningar}}.
+Origin of replication är {{c1::en specifik DNA-sekvens där replikation initieras}}.
+Eukaryoter har {{c1::många origins}}, bakterier {{c2::ett origin}}.
+Leading strand syntetiseras {{c1::kontinuerligt}} i 5’→3’.
+Lagging strand syntetiseras {{c1::diskontinuerligt som Okazaki-fragment}}.
+Okazaki-fragment i eukaryoter är {{c1::100–200 nt}} långa.
+DNA-polymeras kan bara syntetisera {{c1::5’→3’}}.
+3’→5’-exonukleas ger {{c1::proofreading och korrigering av fel}}.
+Processivitet är {{c1::polymerasets förmåga att fortsätta syntes utan att lossna}}.
+PCNA ökar processiviteten genom {{c1::att fungera som sliding clamp}}.
+PCNA har formen av {{c1::en ringformad trimer runt DNA}}.
+Primas syntetiserar {{c1::RNA-primers}} som startpunkter för DNA-syntes.
+DNA-polymeras α/primase gör {{c1::hybridprimer (RNA+DNA) för lagging och leading strand}}.
+RNA-primers tas bort av {{c1::RNase H}} och {{c2::FEN1}}.
+FEN1 klyver {{c1::RNA-DNA-flaps vid Okazaki-mognad}}.
+Okazaki fragment maturation avslutas av {{c1::DNA-ligas som försluter nicks med ATP}}.
+Exonukleas klyver {{c1::från ände}}; endonukleas klyver {{c2::inuti DNA-strängen}}.
+Helikas öppnar DNA genom {{c1::ATP-driven upplindning}}.
+Eukaryot enkelsträngsbindande protein heter {{c1::RPA (Replication Protein A)}}.
+RPA skyddar {{c1::ssDNA}} från degradering och sekundärstruktur.
+Positiva supercoils bildas {{c1::framför helikas då DNA inte kan rotera fritt}}.
+Topoisomeras I gör {{c1::enkelsträngsbrott utan ATP}}.
+Topoisomeras II gör {{c1::dubbelsträngsbrott med ATP}} och tar bort supercoils.
+Bakteriellt topoisomeras II kallas {{c1::DNA-gyras}}.
+Gyras hämmas av {{c1::fluorokinoloner (t.ex. ciprofloxacin)}}.
+ORC (Origin Recognition Complex) är bundet {{c1::till origins hela cellcykeln}}.
+MCM laddas på DNA under {{c1::G1-fasen}}.
+Cdc45 och GINS binder MCM i {{c1::S-fasen}}.
+CMG-komplexet består av {{c1::Cdc45}}, {{c2::MCM}}, {{c3::GINS}}.
+CMG-helikasets funktion är {{c1::att smälta DNA och öppna gaffeln vid replikationsstart}}.
+DNA-polymeras ε syntetiserar {{c1::leading strand}}.
+DNA-polymeras δ syntetiserar {{c1::lagging strand}}.
+Replisomen är {{c1::hela proteinmaskineriet vid replikationsgaffeln}}.
+DNA-replikation är {{c1::semi-konservativ}}.
+Bakteriofager kan få bakteriellt DNA genom {{c1::packningsfel}} eller {{c2::imprecise excision av profag}}.
+```
