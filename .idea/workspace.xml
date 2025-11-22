@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Comment out all footer">
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/appearance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
-    </list>
+    <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Comment out all footer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +62,9 @@
   "keyToStringList": {
     "DatabaseDriversLRU": [
       "sqlite"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
 }]]></component>
@@ -99,7 +99,7 @@
       <workItem from="1763368336948" duration="74000" />
       <workItem from="1763468129001" duration="1460000" />
       <workItem from="1763591031608" duration="2000" />
-      <workItem from="1763668772985" duration="3531000" />
+      <workItem from="1763668772985" duration="4190000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <option name="closed" value="true" />
