@@ -1,4 +1,4 @@
-Vilka två påståenden om eukaryot DNA-replikation är korrekta? (2p)
+§§§§Vilka två påståenden om eukaryot DNA-replikation är korrekta? (2p)
 
 - ORC binder till replikationsorigin under hela cellcykeln.
 - DNA-syntes initieras i M-fas.

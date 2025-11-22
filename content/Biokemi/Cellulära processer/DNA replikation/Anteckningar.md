@@ -10,6 +10,7 @@ Föreläsningen täcker bl.a.:
 - Superhelicitet och topoisomeraser
 - Nukleaser och ligaser
 
+
 ----
 ![[Pasted image 20251121091934.png]]
 Bakterier har eget genom

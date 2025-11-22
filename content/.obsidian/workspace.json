@@ -6,7 +6,7 @@
       {
         "id": "167a802aa161f7e7",
         "type": "tabs",
-        "dimension": 38.71975019516003,
+        "dimension": 70.33567525370805,
         "children": [
           {
             "id": "6be8a23612495802",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biokemi/Cellulära processer/DNA replikation/Anteckningar.md",
+                "file": "Anatomi & Histologi/Histologi/Brosk/Perikondrium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anteckningar"
+              "title": "Perikondrium"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "6ce2195cbdc1aa8d",
         "type": "tabs",
-        "dimension": 61.28024980483997,
+        "dimension": 29.66432474629196,
         "children": [
           {
             "id": "66d1a84367288975",
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,19 +202,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66d1a84367288975",
+  "active": "3eadd732417e81df",
   "lastOpenFiles": [
-    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Lärandemål.md",
-    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Provfrågor.md",
-    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Instuderingsfrågor.md",
-    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Anteckningar.md",
-    "Biokemi/Cellulära processer/DNA replikation/Stoff.md",
+    "Anatomi & Histologi/Histologi/Brosk/Kondroprogenitor.md",
+    "Anatomi & Histologi/Histologi/Brosk/Kondroblast.md",
+    "Anatomi & Histologi/Histologi/Brosk/Hyalint Brosk.md",
+    "Anatomi & Histologi/Histologi/index.md",
     "Biokemi/Cellulära processer/DNA replikation/Anteckningar.md",
     "Biokemi/Cellulära processer/DNA replikation/Provfrågor.md",
+    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Provfrågor.md",
+    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Instuderingsfrågor.md",
+    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Lärandemål.md",
+    "Biokemi/Cellulära processer/DNA replikation/Stoff.md",
+    "Biokemi/Cellulära processer/RNA syntes/Stoff.md",
     "Biokemi/Cellulära processer/DNA replikation/Lärandemål.md",
     "Biokemi/Cellulära processer/DNA replikation/Instuderingsfrågor.md",
+    "Biokemi/Cellulära processer/Initiering och terminering av DNA replikation/Anteckningar.md",
     "Biokemi/Cellulära processer/RNA syntes/Anteckningar.md",
-    "Biokemi/Cellulära processer/RNA syntes/Stoff.md",
     "Biokemi/Cellulära processer/RNA syntes/Lärandemål.md",
     "Biokemi/Cellulära processer/RNA syntes/Instuderingsfrågor.md",
     "attachments/Pasted image 20251121114559.png",
@@ -239,10 +242,6 @@
     "Biokemi/!Template/Anteckningar.md",
     "index.md",
     "Biokemi/Cellulära processer/Kromatin",
-    "Biokemi/index.md",
-    "Biokemi.md",
-    "Biokemi/Proteinseminarie/Stödord.md",
-    "Anatomi.md",
     "Anatomi & Histologi",
     "Biokemi/Cellulära processer/Translation",
     "Biokemi/Cellulära processer/Kromatin",

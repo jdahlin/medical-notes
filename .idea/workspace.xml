@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d89ddef3-0f6b-45b8-91d4-ca4b15835330" name="Changes" comment="Comment out all footer">
+      <change beforePath="$PROJECT_DIR$/content/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/appearance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/content/.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,7 @@
       <workItem from="1763368336948" duration="74000" />
       <workItem from="1763468129001" duration="1460000" />
       <workItem from="1763591031608" duration="2000" />
-      <workItem from="1763668772985" duration="2662000" />
+      <workItem from="1763668772985" duration="3531000" />
     </task>
     <task id="LOCAL−00001" summary="Update">
       <option name="closed" value="true" />
@@ -266,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763704774833</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Comment out all footer">
+      <option name="closed" value="true" />
+      <created>1763712801367</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1763712801367</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
